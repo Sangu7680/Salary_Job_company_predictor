@@ -32,23 +32,26 @@ Data Preprocessing – One-Hot Encoding, Label Encoding, Stratified Train-Test S
 
 # 📁 Setup & Run
 
-1. Clone the Repo
+1.__Clone the Repo__
 
 git clone https://github.com/Sangu7680/Salary_Job_company_predictior.git
+
 cd Salary_Job_company_predictior
 
-2.Install Dependencies
+2.__Install Dependencies__
 
 pip install -r requirements.txt
 
-3.Run the Streamlit app
+3.__Run the Streamlit app__
 
-Note-Change the Serp api in app_company_job.py file in interface folder to your serp api by creating ur api in serp app and rplacing in the respective file.
+Note-Change the Serp api in app_company_job.py file in interface folder to your serp api by creating ur api in serp app and replacing in the respective file.
 
 streamlit run app.py
 
-4.Open in Browser
+4.__Open in Browser__
+
 U done it and the models are ready for their work in the app interface.
+
 Streamlit will show a URL (like http://localhost:8501) — open it in your browser.
 
 
