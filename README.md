@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6832dac1-a14e-412d-9602-a9d5541e7934)# Salary_Job-company_predictior
+# Salary_Job_company_predictior
 
 Acquiring a appropriate job and salary that satisfy rewards one’s efforts has become increasingly difficult for students and fresh graduates. To solve this problem, this project Uses a machine learning approach to estimate ideal job titles and predicted salary ranges based on CGPA, internship, programming, and relevant job technologies for Job role prediction with specific companies. Other components like age, experience, educational background, and type of work were added for salary estimation. A custom dataset reflecting benchmarks of student performance was designed to be structured in a realistically albeit artificially customized fashion. The dataset was subjected to preprocessing like one-hot encoding and stratified train-test split to enable balanced model training. Classification and regression tasks were performed using Random Forest Classifier, Logistic Regression, and Linear Regression machine learning models. The analysis conducted demonstrates the accuracy of predictions if meaningful features are integrated with appropriate ML algorithms when estimating job titles and salaries. Students, educational institutions, and training and placement cells can use the proposed system as a decision-support framework for informed strategic academic and professional engagement.
 
@@ -69,9 +69,10 @@ Figure 2: Salary Comparision according to other Job titles by taking users given
 
 Figure 3:Job and company Prediction On specific user input
 
-![image](https://github.com/user-attachments/assets/e04336cf-bdb4-4181-91d7-b24a38e14b4f)
+![image](https://github.com/user-attachments/assets/647629cf-8114-4e65-b142-35428beaaaee)
 
 Figure 4: Top 3 companies Prediction and latest news of those companies.
+
 
 
 
