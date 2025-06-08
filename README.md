@@ -72,7 +72,7 @@ This project is based on an IEEE-format research paper titled:
 **"Salary and Job Prediction for Students and Technical Staff Using Machine Learning"**  
 Presented at Tontadarya College of Engineering, Gadag.
 
-📄 Click On Paper to view paper -👉 [Paper](https://drive.google.com/file/d/1IfA9aU4Ft89gsXC0dR8Y62P0fgPAiUqp/view?usp=drive_link)
+📄 Click On Paper to view paper -👉 [Paper](https://drive.google.com/file/d/1yO7ROJb5m0QMMbE6GH3laqVCy3Mpb6Mu/view?usp=drive_link)
 
 
 © 2025 Sangamesh Hulyal. All Rights Reserved.  
