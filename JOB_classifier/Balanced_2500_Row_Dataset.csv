@@ -1,0 +1,2502 @@
+CGPA,Internship Type,Programming Language,Technology,Company,Job Role
+7.5,Cloud,Python,DevOps,"Infosys, TCS, Tech Mahindra",Cloud Engineer
+9.8,Software Dev,C#,DBMS,"Amazon, NVIDIA, Apple",Software Developer
+8.9,Cybersecurity,C++,AI,"TCS, SAP, IBM",Cybersecurity Engineer
+8.4,AIML,Java,AI,"Oracle, SAP, IBM",Data Scientist
+6.6,Cybersecurity,Rust,Front End,"NIIT Technologies, Birlasoft, Mphasis",Cloud Engineer
+6.6,Software Dev,Java,Big Data,"NIIT Technologies, Mindtree, Mphasis",Software Developer
+6.2,Software Dev,Java,Backend,"Mphasis, NIIT Technologies, Birlasoft",Software Developer
+9.5,AIML,Java,AI,"Apple, Microsoft, Amazon",Data Scientist
+8.4,DevOps,TypeScript,Backend,"Infosys, IBM, Oracle",System Engineer
+8.8,Software Dev,Python,Data Analytics,"SAP, TCS, Oracle",System Engineer
+6.1,Cloud,Python,Cloud Computing,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+9.9,DevOps,Go,DevOps,"OpenAI, IBM, Apple",DevOps Engineer
+9.3,AIML,Python,ML,"NVIDIA, Microsoft, IBM",AI Engineer
+6.8,Web Dev,SQL,DBMS,"Mphasis, NIIT Technologies, Mindtree",Web Developer
+6.7,Cybersecurity,C++,Cybersecurity,"Mphasis, NIIT Technologies, Mindtree",Cybersecurity Engineer
+6.7,Software Dev,Java,Big Data,"Mindtree, NIIT Technologies, Mphasis",System Engineer
+7.2,Software Dev,Python,Data Analytics,"TCS, Tech Mahindra, Wipro",Data Analyst
+8.1,Cloud,SQL,Data Analytics,"Capgemini, IBM, SAP",Cloud Engineer
+7.7,Software Dev,Python,Data Analytics,"Wipro, Tech Mahindra, Infosys",Data Analyst
+7.2,AIML,R,Data Analytics,"Tech Mahindra, TCS, Wipro",Data Scientist
+8.4,Web Dev,JavaScript,Backend,"SAP, Oracle, IBM",Software Developer
+6.6,AIML,Java,Big Data,"Mindtree, Birlasoft, NIIT Technologies",Data Scientist
+7.2,AIML,R,Data Analytics,"Tech Mahindra, Cognizant, Infosys",Data Scientist
+7.5,Software Dev,Python,Data Analytics,"Cognizant, Wipro, HCL",Data Analyst
+7.8,Software Dev,C#,DBMS,"Wipro, TCS, Infosys",Software Developer
+9.1,Software Dev,Java,Backend,"Google, Amazon, IBM",Data Analyst
+6.8,Cybersecurity,C++,Cybersecurity,"NIIT Technologies, Mindtree, Mphasis",Cloud Engineer
+8.1,AIML,R,ML,"Capgemini, Infosys, Oracle",Data Scientist
+8.4,Cybersecurity,Rust,Front End,"Capgemini, Infosys, IBM",Cybersecurity Engineer
+6.2,Cloud,SQL,DBMS,"NIIT Technologies, Birlasoft, Mindtree",Cloud Engineer
+8.4,AIML,Python,Big Data,"Oracle, SAP, Capgemini",Data Scientist
+6.7,AIML,Java,Big Data,"Birlasoft, Mindtree, NIIT Technologies",Data Scientist
+6.3,Cybersecurity,C++,Cybersecurity,"Mindtree, HCL, Birlasoft",Cybersecurity Engineer
+9.8,Web Dev,SQL,Data Analytics,"OpenAI, Microsoft, IBM",Web Developer
+9.9,DevOps,TypeScript,Backend,"Microsoft, Amazon, Google",DevOps Engineer
+9.2,Software Dev,Python,Data Analytics,"Google, IBM, NVIDIA",Data Analyst
+7.2,Web Dev,TypeScript,Front End,"Tech Mahindra, TCS, Infosys",Web Developer
+6.4,Cybersecurity,C++,Cybersecurity,"HCL, Mphasis, NIIT Technologies",Cybersecurity Engineer
+8.7,Software Dev,Java,Backend,"TCS, Infosys, SAP",System Engineer
+7.8,DevOps,Go,DevOps,"Cognizant, Infosys, Wipro",DevOps Engineer
+6.5,Web Dev,JavaScript,Front End,"Birlasoft, Mindtree, NIIT Technologies",Web Developer
+8.0,Software Dev,Java,Big Data,"Oracle, SAP, TCS",Data Analyst
+6.1,AIML,R,ML,"HCL, Birlasoft, NIIT Technologies",Data Scientist
+9.6,Software Dev,Java,Backend,"Amazon, Microsoft, Google",Data Analyst
+7.0,Cybersecurity,C++,Cybersecurity,"Tech Mahindra, Infosys, Wipro",Cybersecurity Engineer
+8.7,AIML,Java,AI,"SAP, IBM, TCS",AI Engineer
+7.2,Cloud,SQL,Data Analytics,"Wipro, Infosys, HCL",Cloud Engineer
+8.1,AIML,Java,AI,"IBM, Infosys, Oracle",AI Engineer
+8.2,Software Dev,Java,Big Data,"Oracle, Capgemini, Infosys",System Engineer
+6.7,Cybersecurity,Rust,Cybersecurity,"Mphasis, NIIT Technologies, Birlasoft",Cloud Engineer
+9.9,Cloud,Python,DevOps,"Apple, Amazon, IBM",DevOps Engineer
+9.1,AIML,Java,Big Data,"Google, Amazon, Microsoft",AI Engineer
+9.8,Web Dev,SQL,Data Analytics,"IBM, Apple, Google",Web Developer
+9.6,Web Dev,SQL,DBMS,"IBM, OpenAI, Microsoft",Web Developer
+8.4,DevOps,SQL,Data Analytics,"Infosys, Oracle, Capgemini",DevOps Engineer
+9.7,DevOps,Go,Cloud Computing,"Microsoft, IBM, NVIDIA",System Engineer
+6.4,Web Dev,SQL,DBMS,"Birlasoft, NIIT Technologies, HCL",Software Developer
+6.8,Software Dev,Python,Big Data,"Mindtree, Mphasis, NIIT Technologies",Software Developer
+6.2,Web Dev,TypeScript,Front End,"HCL, Mphasis, Mindtree",Web Developer
+7.3,Cybersecurity,C++,Cybersecurity,"Tech Mahindra, Infosys, Wipro",Cloud Engineer
+7.6,Web Dev,JavaScript,Backend,"HCL, TCS, Wipro",Software Developer
+7.1,Software Dev,Java,Big Data,"HCL, Wipro, Infosys",Software Developer
+9.3,AIML,R,ML,"Amazon, NVIDIA, Apple",AI Engineer
+7.4,DevOps,TypeScript,DevOps,"Infosys, Cognizant, Wipro",DevOps Engineer
+7.1,Web Dev,TypeScript,Front End,"HCL, Infosys, TCS",Software Developer
+8.2,DevOps,TypeScript,Backend,"Oracle, SAP, Infosys",DevOps Engineer
+6.6,AIML,Python,ML,"Mindtree, NIIT Technologies, Birlasoft",Data Scientist
+9.2,Web Dev,TypeScript,Front End,"OpenAI, IBM, Apple",Software Developer
+6.3,AIML,Python,ML,"Birlasoft, Mindtree, HCL",Data Scientist
+9.9,AIML,Java,AI,"Amazon, Google, OpenAI",Data Scientist
+9.1,AIML,Java,AI,"OpenAI, NVIDIA, Apple",AI Engineer
+6.8,Web Dev,SQL,DBMS,"Mindtree, Mphasis, NIIT Technologies",Software Developer
+6.0,AIML,Java,AI,"HCL, Mindtree, NIIT Technologies",Data Scientist
+9.3,AIML,Python,ML,"Amazon, Microsoft, Apple",AI Engineer
+8.8,DevOps,SQL,Data Analytics,"Oracle, Capgemini, Infosys",DevOps Engineer
+8.9,Cloud,Python,DevOps,"TCS, Capgemini, Infosys",Cloud Engineer
+9.1,Cybersecurity,Rust,Front End,"IBM, NVIDIA, Google",Cybersecurity Engineer
+6.3,Software Dev,C#,DBMS,"NIIT Technologies, Mindtree, Mphasis",Data Analyst
+7.4,Software Dev,Python,Data Analytics,"Wipro, Cognizant, Tech Mahindra",System Engineer
+6.5,Cybersecurity,Rust,Front End,"Mindtree, Birlasoft, NIIT Technologies",Cloud Engineer
+9.5,Web Dev,TypeScript,Front End,"OpenAI, Amazon, IBM",Web Developer
+8.5,AIML,Python,Big Data,"Capgemini, SAP, TCS",Data Scientist
+7.3,Web Dev,JavaScript,Backend,"TCS, Cognizant, HCL",Web Developer
+6.3,Cloud,SQL,Data Analytics,"Birlasoft, HCL, Mindtree",Cloud Engineer
+7.2,AIML,Python,ML,"Infosys, HCL, Cognizant",Data Scientist
+7.3,Cloud,Python,Cloud Computing,"Wipro, HCL, Infosys",Cloud Engineer
+8.9,Software Dev,C#,DBMS,"Oracle, SAP, IBM",Data Analyst
+8.6,Software Dev,Java,Big Data,"Capgemini, Infosys, Oracle",System Engineer
+9.5,Cybersecurity,C++,Cybersecurity,"IBM, Microsoft, NVIDIA",Cybersecurity Engineer
+7.9,Cybersecurity,C++,Cybersecurity,"Cognizant, Wipro, TCS",Cybersecurity Engineer
+6.5,Software Dev,C#,DBMS,"Mindtree, Birlasoft, Mphasis",Data Analyst
+8.9,DevOps,TypeScript,Backend,"Capgemini, Oracle, SAP",System Engineer
+9.0,Software Dev,Python,Big Data,"IBM, Apple, NVIDIA",System Engineer
+8.2,DevOps,Go,Cloud Computing,"IBM, SAP, Capgemini",System Engineer
+9.1,AIML,Java,AI,"OpenAI, Microsoft, Amazon",Data Scientist
+8.0,Web Dev,JavaScript,Backend,"TCS, SAP, IBM",Web Developer
+8.1,Software Dev,Python,Data Analytics,"Capgemini, Infosys, Oracle",Software Developer
+7.7,Cloud,SQL,Data Analytics,"TCS, HCL, Wipro",Cloud Engineer
+6.1,AIML,R,Data Analytics,"HCL, NIIT Technologies, Mphasis",Data Scientist
+6.4,Software Dev,C#,Backend,"HCL, NIIT Technologies, Mphasis",Data Analyst
+6.1,Cloud,SQL,Data Analytics,"Birlasoft, Mphasis, Mindtree",Cloud Engineer
+8.5,Cybersecurity,C++,Cybersecurity,"Infosys, Capgemini, SAP",Cybersecurity Engineer
+7.3,Cloud,SQL,Data Analytics,"Infosys, Wipro, HCL",DevOps Engineer
+8.0,DevOps,Go,Cloud Computing,"Oracle, SAP, IBM",System Engineer
+9.6,Cybersecurity,C++,Cybersecurity,"IBM, OpenAI, Google",Cloud Engineer
+7.0,Cybersecurity,C++,AI,"Wipro, Infosys, TCS",Cybersecurity Engineer
+7.6,DevOps,SQL,DBMS,"TCS, Cognizant, Tech Mahindra",DevOps Engineer
+9.0,Cybersecurity,C++,Cybersecurity,"IBM, NVIDIA, Microsoft",Cybersecurity Engineer
+6.9,Cybersecurity,C++,Cybersecurity,"Mindtree, NIIT Technologies, Birlasoft",Cloud Engineer
+6.3,Software Dev,C#,Backend,"HCL, Mindtree, Mphasis",Software Developer
+7.2,Software Dev,C#,DBMS,"Infosys, HCL, Wipro",Data Analyst
+6.6,Cloud,Python,Cloud Computing,"Birlasoft, Mindtree, NIIT Technologies",Cloud Engineer
+9.7,Web Dev,TypeScript,Backend,"Amazon, Microsoft, Apple",Web Developer
+9.2,Cloud,Go,Cloud Computing,"Microsoft, Apple, NVIDIA",DevOps Engineer
+8.5,Cloud,Go,Cloud Computing,"TCS, Oracle, Infosys",Cloud Engineer
+9.5,DevOps,SQL,Data Analytics,"IBM, Microsoft, NVIDIA",DevOps Engineer
+9.2,Cloud,Go,Big Data,"OpenAI, Apple, Microsoft",Cloud Engineer
+6.7,Cloud,SQL,Data Analytics,"Mindtree, Mphasis, Birlasoft",DevOps Engineer
+9.6,Software Dev,Java,Big Data,"NVIDIA, Microsoft, Google",Data Analyst
+8.2,Cybersecurity,Rust,Cybersecurity,"Infosys, SAP, IBM",Cloud Engineer
+9.2,AIML,R,ML,"Amazon, NVIDIA, OpenAI",AI Engineer
+9.6,Cloud,Go,Cloud Computing,"OpenAI, Microsoft, Apple",Cloud Engineer
+7.3,Cloud,Python,Cloud Computing,"HCL, Cognizant, Wipro",Cloud Engineer
+6.4,Cloud,Go,Cloud Computing,"NIIT Technologies, HCL, Mphasis",Cloud Engineer
+6.9,Cybersecurity,C++,AI,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+7.7,Web Dev,JavaScript,Backend,"Cognizant, HCL, TCS",Software Developer
+9.3,AIML,Python,ML,"OpenAI, Apple, IBM",AI Engineer
+9.4,Cybersecurity,Rust,Cybersecurity,"Microsoft, NVIDIA, Google",Cloud Engineer
+6.0,Software Dev,C#,DBMS,"Birlasoft, Mindtree, HCL",Data Analyst
+8.0,Cloud,Go,Big Data,"SAP, TCS, Infosys",DevOps Engineer
+7.7,Web Dev,SQL,DBMS,"Tech Mahindra, Infosys, Cognizant",Web Developer
+6.9,AIML,Java,Big Data,"NIIT Technologies, Mphasis, Mindtree",Data Scientist
+6.5,Software Dev,Java,Backend,"NIIT Technologies, Mindtree, Mphasis",Software Developer
+7.4,AIML,R,ML,"Tech Mahindra, HCL, Cognizant",Data Scientist
+9.8,Web Dev,SQL,Data Analytics,"Amazon, NVIDIA, OpenAI",Software Developer
+7.3,AIML,Java,AI,"HCL, Cognizant, Tech Mahindra",Data Scientist
+8.1,Web Dev,SQL,Data Analytics,"IBM, Oracle, SAP",Web Developer
+8.8,Cybersecurity,C++,AI,"Capgemini, IBM, Oracle",Cybersecurity Engineer
+7.5,Web Dev,SQL,Data Analytics,"Wipro, HCL, Cognizant",Web Developer
+9.9,Cloud,Python,DevOps,"IBM, NVIDIA, OpenAI",DevOps Engineer
+9.8,DevOps,TypeScript,Backend,"Google, NVIDIA, IBM",System Engineer
+7.0,AIML,R,ML,"HCL, TCS, Cognizant",Data Scientist
+8.0,Cybersecurity,C++,Cybersecurity,"Infosys, SAP, IBM",Cybersecurity Engineer
+7.2,Cybersecurity,Rust,Cybersecurity,"Wipro, Cognizant, Infosys",Cybersecurity Engineer
+7.1,AIML,R,Data Analytics,"TCS, Tech Mahindra, Cognizant",Data Scientist
+6.1,Software Dev,Python,Big Data,"Mphasis, HCL, Mindtree",Data Analyst
+8.4,Cloud,Python,DevOps,"Capgemini, SAP, Oracle",DevOps Engineer
+8.0,Cybersecurity,Rust,Front End,"SAP, Capgemini, Infosys",Cloud Engineer
+6.2,Web Dev,SQL,Data Analytics,"Mindtree, Birlasoft, HCL",Software Developer
+7.1,Web Dev,TypeScript,Backend,"Wipro, TCS, Cognizant",Software Developer
+9.6,DevOps,Go,Cloud Computing,"Apple, OpenAI, Microsoft",System Engineer
+7.0,AIML,R,ML,"Infosys, Tech Mahindra, Wipro",Data Scientist
+6.6,Cloud,Go,Cloud Computing,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+8.0,Cybersecurity,C++,Cybersecurity,"SAP, Infosys, Capgemini",Cybersecurity Engineer
+9.9,AIML,Python,Big Data,"Microsoft, Amazon, IBM",AI Engineer
+7.0,Web Dev,SQL,DBMS,"Wipro, TCS, Cognizant",Software Developer
+8.7,Cybersecurity,Rust,Cybersecurity,"Infosys, Capgemini, SAP",Cloud Engineer
+9.0,Cybersecurity,C++,Cybersecurity,"Google, OpenAI, Microsoft",Cybersecurity Engineer
+7.0,Cloud,Go,Big Data,"HCL, Wipro, TCS",DevOps Engineer
+8.9,Cloud,Python,Cloud Computing,"TCS, SAP, Oracle",DevOps Engineer
+7.5,Cloud,Python,DevOps,"Wipro, Cognizant, TCS",DevOps Engineer
+8.5,AIML,Python,ML,"Capgemini, IBM, TCS",Data Scientist
+8.5,AIML,Java,Big Data,"SAP, TCS, Capgemini",Data Scientist
+8.1,Software Dev,Python,Data Analytics,"Infosys, IBM, Capgemini",Data Analyst
+6.4,Software Dev,C#,Backend,"NIIT Technologies, Mphasis, Mindtree",Software Developer
+9.3,Web Dev,SQL,DBMS,"Apple, Microsoft, NVIDIA",Web Developer
+7.3,Cloud,SQL,Data Analytics,"TCS, Cognizant, HCL",Cloud Engineer
+6.7,Cloud,Python,Cloud Computing,"NIIT Technologies, Birlasoft, Mindtree",Cloud Engineer
+6.2,Software Dev,Java,Backend,"Mphasis, NIIT Technologies, Birlasoft",System Engineer
+8.4,Software Dev,Java,Backend,"TCS, SAP, Oracle",Data Analyst
+8.7,Cybersecurity,C++,Cybersecurity,"SAP, Oracle, Infosys",Cybersecurity Engineer
+6.1,Cybersecurity,Rust,Cybersecurity,"Mindtree, Birlasoft, NIIT Technologies",Cybersecurity Engineer
+8.0,Cybersecurity,Rust,Front End,"IBM, Capgemini, Oracle",Cloud Engineer
+6.9,Software Dev,Java,Big Data,"Birlasoft, Mindtree, Mphasis",System Engineer
+8.6,Web Dev,TypeScript,Front End,"Capgemini, IBM, TCS",Web Developer
+6.7,DevOps,TypeScript,DevOps,"NIIT Technologies, Mphasis, Mindtree",DevOps Engineer
+8.8,Web Dev,TypeScript,Backend,"Infosys, IBM, Oracle",Web Developer
+7.5,Web Dev,TypeScript,Front End,"Cognizant, HCL, Tech Mahindra",Web Developer
+9.7,Cloud,Python,DevOps,"Microsoft, IBM, Amazon",Cloud Engineer
+6.6,Cloud,Go,Cloud Computing,"Birlasoft, Mindtree, Mphasis",Cloud Engineer
+7.4,Cybersecurity,C++,AI,"Tech Mahindra, TCS, Wipro",Cloud Engineer
+6.5,Cloud,Python,DevOps,"Mindtree, NIIT Technologies, Birlasoft",DevOps Engineer
+9.7,DevOps,TypeScript,Backend,"NVIDIA, Amazon, Apple",DevOps Engineer
+9.5,Cloud,SQL,DBMS,"NVIDIA, Microsoft, Google",Cloud Engineer
+7.0,DevOps,TypeScript,Backend,"Tech Mahindra, HCL, TCS",System Engineer
+8.6,Software Dev,Python,Big Data,"SAP, Infosys, TCS",Software Developer
+9.3,DevOps,Go,Cloud Computing,"OpenAI, Google, Amazon",System Engineer
+8.2,Cloud,SQL,DBMS,"TCS, Oracle, Capgemini",Cloud Engineer
+8.1,Web Dev,TypeScript,Front End,"Infosys, SAP, IBM",Web Developer
+7.0,Cybersecurity,Rust,Cybersecurity,"Wipro, Cognizant, Tech Mahindra",Cloud Engineer
+6.4,Web Dev,TypeScript,Backend,"HCL, Birlasoft, Mphasis",Web Developer
+9.6,Web Dev,JavaScript,Backend,"Microsoft, Google, Amazon",Software Developer
+9.6,Web Dev,SQL,Data Analytics,"Microsoft, Amazon, Apple",Web Developer
+8.5,DevOps,Go,Cloud Computing,"Infosys, Capgemini, Oracle",DevOps Engineer
+7.4,AIML,R,Data Analytics,"HCL, Wipro, TCS",Data Scientist
+7.4,Web Dev,SQL,Data Analytics,"Cognizant, TCS, Wipro",Web Developer
+8.9,Software Dev,C#,Backend,"Capgemini, SAP, IBM",Data Analyst
+9.6,Web Dev,JavaScript,Backend,"NVIDIA, OpenAI, Microsoft",Web Developer
+9.5,Cybersecurity,Rust,Cybersecurity,"NVIDIA, OpenAI, IBM",Cybersecurity Engineer
+9.1,Cybersecurity,Rust,Front End,"Amazon, Microsoft, IBM",Cloud Engineer
+8.6,Cybersecurity,C++,Cybersecurity,"Oracle, SAP, TCS",Cloud Engineer
+6.3,Cloud,Go,Cloud Computing,"Mphasis, NIIT Technologies, Birlasoft",Cloud Engineer
+6.6,AIML,R,Data Analytics,"Mindtree, Mphasis, NIIT Technologies",Data Scientist
+9.6,Cloud,Go,Big Data,"Apple, Microsoft, Amazon",DevOps Engineer
+8.4,Web Dev,JavaScript,Backend,"SAP, TCS, IBM",Software Developer
+6.0,DevOps,TypeScript,Backend,"Birlasoft, HCL, Mphasis",DevOps Engineer
+6.4,DevOps,Go,Cloud Computing,"HCL, Mindtree, Mphasis",System Engineer
+8.7,Software Dev,C#,DBMS,"TCS, Oracle, SAP",System Engineer
+6.0,Software Dev,C#,DBMS,"Mindtree, Birlasoft, Mphasis",Data Analyst
+6.6,Cloud,Python,Cloud Computing,"Mindtree, Mphasis, Birlasoft",Cloud Engineer
+8.2,DevOps,TypeScript,Backend,"SAP, TCS, IBM",DevOps Engineer
+8.8,Cloud,SQL,DBMS,"TCS, Capgemini, SAP",Cloud Engineer
+8.6,DevOps,SQL,Data Analytics,"TCS, Oracle, SAP",DevOps Engineer
+6.9,DevOps,SQL,DBMS,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+8.8,Cloud,Go,Cloud Computing,"Infosys, TCS, IBM",DevOps Engineer
+6.9,Cloud,Go,Big Data,"NIIT Technologies, Birlasoft, Mindtree",Cloud Engineer
+7.3,DevOps,SQL,DBMS,"Infosys, HCL, TCS",DevOps Engineer
+9.0,DevOps,SQL,Data Analytics,"NVIDIA, Apple, IBM",System Engineer
+8.6,Cybersecurity,C++,Cybersecurity,"Oracle, Infosys, TCS",Cloud Engineer
+9.4,Cloud,Go,Cloud Computing,"Google, OpenAI, Microsoft",DevOps Engineer
+8.6,Cloud,Go,Big Data,"Infosys, Capgemini, Oracle",DevOps Engineer
+8.3,Software Dev,Java,Big Data,"Oracle, SAP, Capgemini",Data Analyst
+6.4,Web Dev,SQL,DBMS,"Mindtree, Mphasis, Birlasoft",Software Developer
+7.5,Software Dev,Java,Big Data,"Cognizant, Wipro, TCS",Software Developer
+7.1,Cloud,Go,Cloud Computing,"Infosys, Wipro, Cognizant",Cloud Engineer
+7.0,Software Dev,Java,Big Data,"Infosys, Cognizant, Wipro",Software Developer
+9.9,Cybersecurity,Rust,Front End,"Amazon, OpenAI, Google",Cybersecurity Engineer
+7.6,DevOps,Go,DevOps,"HCL, Wipro, Infosys",System Engineer
+9.6,AIML,Python,Big Data,"Amazon, Apple, OpenAI",AI Engineer
+8.5,Web Dev,TypeScript,Front End,"Oracle, Infosys, Capgemini",Web Developer
+9.2,Cybersecurity,C++,Cybersecurity,"Google, Amazon, OpenAI",Cybersecurity Engineer
+8.0,Cloud,Go,Big Data,"Capgemini, TCS, IBM",Cloud Engineer
+8.3,Cloud,SQL,DBMS,"SAP, Capgemini, IBM",DevOps Engineer
+8.0,Software Dev,C#,Backend,"Infosys, IBM, SAP",Software Developer
+6.8,Cybersecurity,C++,Cybersecurity,"Mindtree, Birlasoft, Mphasis",Cybersecurity Engineer
+8.9,DevOps,Go,Cloud Computing,"IBM, SAP, Oracle",DevOps Engineer
+7.1,Cloud,SQL,DBMS,"HCL, Wipro, Infosys",DevOps Engineer
+6.1,Cybersecurity,Rust,Front End,"Mphasis, Mindtree, NIIT Technologies",Cloud Engineer
+8.6,Web Dev,TypeScript,Front End,"Capgemini, IBM, SAP",Web Developer
+6.7,AIML,Python,ML,"NIIT Technologies, Mphasis, Mindtree",Data Scientist
+9.8,Software Dev,C#,DBMS,"Amazon, Microsoft, Apple",Data Analyst
+9.8,Cybersecurity,C++,AI,"IBM, Microsoft, OpenAI",Cybersecurity Engineer
+9.7,Web Dev,SQL,DBMS,"Amazon, OpenAI, Apple",Web Developer
+7.5,DevOps,SQL,DBMS,"HCL, Cognizant, TCS",System Engineer
+6.1,Web Dev,TypeScript,Front End,"NIIT Technologies, Birlasoft, Mindtree",Software Developer
+9.7,DevOps,TypeScript,Backend,"Apple, OpenAI, Amazon",DevOps Engineer
+7.7,Cloud,SQL,Data Analytics,"Wipro, Tech Mahindra, Cognizant",Cloud Engineer
+9.9,DevOps,TypeScript,DevOps,"Apple, OpenAI, Microsoft",DevOps Engineer
+9.9,Software Dev,Python,Data Analytics,"Amazon, NVIDIA, OpenAI",Data Analyst
+9.4,Cybersecurity,Rust,Cybersecurity,"Microsoft, IBM, OpenAI",Cloud Engineer
+7.2,Software Dev,Java,Backend,"Wipro, HCL, Cognizant",Data Analyst
+7.5,Cybersecurity,C++,AI,"HCL, Wipro, Infosys",Cybersecurity Engineer
+9.4,Cybersecurity,Rust,Cybersecurity,"OpenAI, NVIDIA, Google",Cybersecurity Engineer
+7.3,DevOps,SQL,DBMS,"Tech Mahindra, Wipro, Cognizant",DevOps Engineer
+6.7,AIML,Python,ML,"Mindtree, Birlasoft, Mphasis",Data Scientist
+8.2,Cloud,SQL,DBMS,"SAP, Infosys, Oracle",DevOps Engineer
+9.7,Cloud,Go,Cloud Computing,"NVIDIA, Amazon, Google",DevOps Engineer
+8.8,AIML,Java,Big Data,"IBM, SAP, TCS",AI Engineer
+8.3,Web Dev,SQL,Data Analytics,"IBM, Infosys, SAP",Software Developer
+6.4,Web Dev,SQL,DBMS,"Mindtree, Birlasoft, HCL",Software Developer
+8.5,DevOps,TypeScript,Backend,"TCS, SAP, Oracle",DevOps Engineer
+10.0,Software Dev,C#,DBMS,"Amazon, OpenAI, NVIDIA",Data Analyst
+6.6,Cybersecurity,C++,Cybersecurity,"Mphasis, Mindtree, Birlasoft",Cybersecurity Engineer
+8.1,DevOps,SQL,DBMS,"SAP, Oracle, Infosys",System Engineer
+9.5,AIML,R,Data Analytics,"Amazon, NVIDIA, Apple",AI Engineer
+9.0,AIML,Python,Big Data,"NVIDIA, Google, Apple",AI Engineer
+8.8,Cybersecurity,Rust,Front End,"TCS, Capgemini, IBM",Cloud Engineer
+8.8,Web Dev,SQL,DBMS,"SAP, Capgemini, Oracle",Software Developer
+7.4,Cloud,SQL,Data Analytics,"TCS, Infosys, Cognizant",Cloud Engineer
+7.2,Web Dev,TypeScript,Front End,"Infosys, Wipro, Tech Mahindra",Web Developer
+9.2,Cloud,Go,Big Data,"Amazon, Microsoft, NVIDIA",DevOps Engineer
+9.2,Software Dev,Java,Backend,"Microsoft, OpenAI, Amazon",System Engineer
+9.5,AIML,Python,Big Data,"IBM, NVIDIA, OpenAI",AI Engineer
+9.7,AIML,Java,Big Data,"NVIDIA, Apple, Microsoft",AI Engineer
+8.0,AIML,Java,AI,"Capgemini, Infosys, SAP",AI Engineer
+8.0,Web Dev,JavaScript,Backend,"Oracle, Infosys, SAP",Software Developer
+9.2,Cybersecurity,Rust,Front End,"IBM, Apple, OpenAI",Cloud Engineer
+8.6,DevOps,TypeScript,DevOps,"SAP, Infosys, Capgemini",DevOps Engineer
+8.8,DevOps,Go,Cloud Computing,"Oracle, SAP, TCS",System Engineer
+9.2,Cybersecurity,Rust,Front End,"Microsoft, NVIDIA, Apple",Cloud Engineer
+9.6,Cybersecurity,Rust,Cybersecurity,"IBM, Microsoft, NVIDIA",Cybersecurity Engineer
+7.4,DevOps,SQL,Data Analytics,"Cognizant, Tech Mahindra, TCS",System Engineer
+7.5,Cybersecurity,Rust,Front End,"Tech Mahindra, Cognizant, Infosys",Cloud Engineer
+6.4,Software Dev,Python,Data Analytics,"HCL, NIIT Technologies, Birlasoft",Software Developer
+8.3,Web Dev,SQL,DBMS,"TCS, Infosys, Capgemini",Software Developer
+6.1,Cloud,SQL,Data Analytics,"NIIT Technologies, HCL, Mindtree",DevOps Engineer
+7.9,Cybersecurity,C++,AI,"HCL, TCS, Cognizant",Cloud Engineer
+8.2,DevOps,SQL,Data Analytics,"TCS, Capgemini, Oracle",System Engineer
+7.1,Software Dev,C#,Backend,"HCL, Infosys, TCS",Software Developer
+8.4,Software Dev,Python,Data Analytics,"Capgemini, SAP, Infosys",Software Developer
+6.1,AIML,R,Data Analytics,"HCL, Mindtree, NIIT Technologies",Data Scientist
+6.1,Cloud,Python,Cloud Computing,"HCL, NIIT Technologies, Mindtree",DevOps Engineer
+9.3,Web Dev,TypeScript,Backend,"OpenAI, NVIDIA, Microsoft",Software Developer
+7.4,Software Dev,C#,Backend,"Infosys, HCL, Wipro",System Engineer
+6.5,Software Dev,Java,Big Data,"Mphasis, NIIT Technologies, Mindtree",Data Analyst
+8.1,DevOps,TypeScript,Backend,"TCS, Infosys, Capgemini",DevOps Engineer
+9.1,Web Dev,SQL,Data Analytics,"Microsoft, Apple, Google",Web Developer
+6.9,DevOps,SQL,DBMS,"Mphasis, Birlasoft, Mindtree",System Engineer
+8.5,Software Dev,Python,Data Analytics,"Infosys, TCS, Oracle",Software Developer
+6.3,AIML,Python,ML,"Birlasoft, HCL, Mphasis",Data Scientist
+6.2,DevOps,SQL,Data Analytics,"Mphasis, Birlasoft, NIIT Technologies",System Engineer
+8.1,AIML,R,ML,"Oracle, SAP, TCS",Data Scientist
+8.2,DevOps,TypeScript,DevOps,"Oracle, TCS, IBM",System Engineer
+8.5,AIML,R,Data Analytics,"IBM, Capgemini, TCS",AI Engineer
+8.9,AIML,Java,AI,"IBM, SAP, Infosys",AI Engineer
+9.9,DevOps,Go,DevOps,"Amazon, NVIDIA, OpenAI",System Engineer
+8.1,DevOps,Go,Cloud Computing,"Infosys, Capgemini, SAP",DevOps Engineer
+7.3,Cloud,Python,DevOps,"Tech Mahindra, Infosys, HCL",DevOps Engineer
+9.2,Software Dev,Python,Big Data,"NVIDIA, Microsoft, Google",Data Analyst
+7.1,Web Dev,SQL,Data Analytics,"Cognizant, Wipro, Infosys",Software Developer
+7.8,Cybersecurity,Rust,Cybersecurity,"Wipro, HCL, Tech Mahindra",Cybersecurity Engineer
+6.3,Software Dev,Python,Data Analytics,"NIIT Technologies, Mphasis, Birlasoft",Software Developer
+6.1,Cloud,Python,DevOps,"HCL, NIIT Technologies, Mindtree",Cloud Engineer
+9.9,Cybersecurity,C++,AI,"Amazon, IBM, Apple",Cybersecurity Engineer
+9.3,Web Dev,JavaScript,Backend,"NVIDIA, OpenAI, IBM",Web Developer
+8.8,Cloud,Go,Cloud Computing,"TCS, IBM, Capgemini",DevOps Engineer
+7.6,Software Dev,Python,Data Analytics,"TCS, HCL, Infosys",Data Analyst
+6.7,Software Dev,C#,DBMS,"Mindtree, Birlasoft, NIIT Technologies",System Engineer
+6.6,Cloud,SQL,DBMS,"Mindtree, Birlasoft, Mphasis",DevOps Engineer
+7.0,AIML,R,ML,"Tech Mahindra, Cognizant, Wipro",Data Scientist
+8.2,Cloud,Python,DevOps,"Infosys, Oracle, IBM",DevOps Engineer
+8.9,Cybersecurity,Rust,Cybersecurity,"IBM, Infosys, Capgemini",Cloud Engineer
+8.6,Cybersecurity,Rust,Cybersecurity,"Infosys, Capgemini, SAP",Cloud Engineer
+7.1,Web Dev,TypeScript,Backend,"HCL, Tech Mahindra, Infosys",Web Developer
+9.8,Cloud,Go,Cloud Computing,"NVIDIA, OpenAI, IBM",Cloud Engineer
+9.0,AIML,Java,Big Data,"IBM, Google, Microsoft",AI Engineer
+8.2,Web Dev,SQL,DBMS,"Oracle, Infosys, Capgemini",Software Developer
+8.4,DevOps,Go,Cloud Computing,"Infosys, IBM, TCS",System Engineer
+7.7,Cloud,SQL,DBMS,"TCS, HCL, Tech Mahindra",Cloud Engineer
+7.0,Web Dev,TypeScript,Front End,"TCS, Cognizant, Tech Mahindra",Web Developer
+7.4,AIML,R,Data Analytics,"Wipro, Infosys, HCL",Data Scientist
+9.0,Software Dev,C#,Backend,"Amazon, Apple, NVIDIA",Software Developer
+6.1,AIML,R,ML,"HCL, Mphasis, NIIT Technologies",Data Scientist
+6.5,Cloud,SQL,Data Analytics,"NIIT Technologies, Mindtree, Mphasis",Cloud Engineer
+6.2,Software Dev,Java,Big Data,"NIIT Technologies, Mindtree, Birlasoft",System Engineer
+6.2,Software Dev,C#,DBMS,"Mphasis, Mindtree, Birlasoft",Software Developer
+9.4,Software Dev,C#,Backend,"Amazon, OpenAI, IBM",System Engineer
+8.8,DevOps,Go,Cloud Computing,"SAP, IBM, Oracle",System Engineer
+7.9,Cybersecurity,Rust,Cybersecurity,"Infosys, Tech Mahindra, HCL",Cloud Engineer
+6.4,Web Dev,JavaScript,Backend,"Birlasoft, Mphasis, HCL",Web Developer
+8.0,Cloud,Python,DevOps,"Infosys, TCS, Oracle",DevOps Engineer
+7.9,Web Dev,SQL,DBMS,"Cognizant, HCL, Wipro",Software Developer
+6.7,DevOps,Go,DevOps,"Mindtree, Mphasis, Birlasoft",DevOps Engineer
+7.7,DevOps,Go,Cloud Computing,"Infosys, HCL, TCS",System Engineer
+7.6,DevOps,TypeScript,Backend,"Infosys, Wipro, HCL",DevOps Engineer
+8.5,Web Dev,TypeScript,Front End,"Infosys, SAP, TCS",Web Developer
+8.5,Web Dev,SQL,DBMS,"Infosys, SAP, Oracle",Web Developer
+6.2,AIML,Java,AI,"HCL, Birlasoft, NIIT Technologies",Data Scientist
+7.5,Cybersecurity,C++,Cybersecurity,"HCL, TCS, Tech Mahindra",Cloud Engineer
+8.5,Web Dev,JavaScript,Front End,"Oracle, IBM, Infosys",Web Developer
+8.0,Software Dev,C#,DBMS,"Infosys, TCS, Capgemini",System Engineer
+9.4,Cloud,SQL,DBMS,"OpenAI, Google, Apple",DevOps Engineer
+8.6,Software Dev,Python,Big Data,"Infosys, Capgemini, Oracle",Software Developer
+6.7,Cybersecurity,C++,Cybersecurity,"NIIT Technologies, Mphasis, Mindtree",Cybersecurity Engineer
+6.3,Web Dev,JavaScript,Backend,"Mphasis, HCL, Mindtree",Web Developer
+8.6,Cloud,Go,Cloud Computing,"Infosys, IBM, TCS",DevOps Engineer
+6.1,Web Dev,TypeScript,Backend,"Birlasoft, Mphasis, HCL",Web Developer
+8.3,Web Dev,SQL,DBMS,"IBM, TCS, Infosys",Software Developer
+9.8,AIML,Python,Big Data,"Google, Apple, Microsoft",Data Scientist
+8.3,Software Dev,C#,DBMS,"SAP, IBM, Oracle",Software Developer
+7.6,Software Dev,Java,Big Data,"Wipro, Infosys, Tech Mahindra",Data Analyst
+8.6,Software Dev,Python,Big Data,"TCS, SAP, Capgemini",Data Analyst
+7.8,Cloud,Python,Cloud Computing,"Wipro, TCS, Tech Mahindra",DevOps Engineer
+8.2,Web Dev,JavaScript,Front End,"TCS, Infosys, Capgemini",Web Developer
+9.8,DevOps,Go,DevOps,"OpenAI, IBM, Amazon",System Engineer
+7.5,DevOps,TypeScript,Backend,"HCL, Tech Mahindra, Cognizant",DevOps Engineer
+9.8,Cybersecurity,C++,AI,"Apple, Google, IBM",Cloud Engineer
+9.6,DevOps,Go,Cloud Computing,"Microsoft, IBM, Google",System Engineer
+6.8,Cybersecurity,Rust,Front End,"NIIT Technologies, Birlasoft, Mindtree",Cybersecurity Engineer
+6.3,Cybersecurity,Rust,Front End,"HCL, Mindtree, Birlasoft",Cloud Engineer
+6.4,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Mindtree, Birlasoft",Cloud Engineer
+6.1,DevOps,TypeScript,DevOps,"HCL, Mphasis, NIIT Technologies",System Engineer
+6.4,Software Dev,Java,Big Data,"NIIT Technologies, HCL, Mphasis",Software Developer
+8.7,Web Dev,JavaScript,Front End,"Capgemini, SAP, Infosys",Web Developer
+6.3,Cybersecurity,Rust,Cybersecurity,"Mindtree, Mphasis, HCL",Cloud Engineer
+7.3,Cybersecurity,Rust,Cybersecurity,"Wipro, Tech Mahindra, Cognizant",Cloud Engineer
+9.4,DevOps,TypeScript,Backend,"IBM, Apple, NVIDIA",System Engineer
+6.1,AIML,Python,ML,"Mphasis, Mindtree, HCL",Data Scientist
+9.3,DevOps,SQL,DBMS,"IBM, Amazon, Microsoft",System Engineer
+7.1,Web Dev,JavaScript,Backend,"Tech Mahindra, Infosys, HCL",Web Developer
+6.5,Cloud,Go,Cloud Computing,"Mindtree, NIIT Technologies, Birlasoft",DevOps Engineer
+8.8,Web Dev,SQL,Data Analytics,"Capgemini, Infosys, Oracle",Software Developer
+8.5,Cloud,Python,DevOps,"Infosys, Capgemini, TCS",DevOps Engineer
+9.5,Cybersecurity,Rust,Front End,"NVIDIA, IBM, OpenAI",Cloud Engineer
+8.9,Software Dev,Java,Big Data,"TCS, Infosys, IBM",Data Analyst
+9.2,Cybersecurity,C++,AI,"NVIDIA, Google, IBM",Cybersecurity Engineer
+7.1,Cloud,Go,Big Data,"Wipro, Cognizant, TCS",DevOps Engineer
+6.7,Cybersecurity,Rust,Cybersecurity,"Mphasis, Mindtree, NIIT Technologies",Cybersecurity Engineer
+9.0,Web Dev,TypeScript,Front End,"Google, OpenAI, IBM",Web Developer
+9.2,DevOps,TypeScript,DevOps,"Apple, Amazon, Microsoft",DevOps Engineer
+10.0,DevOps,TypeScript,DevOps,"Microsoft, OpenAI, Google",System Engineer
+7.7,Web Dev,SQL,DBMS,"Wipro, TCS, Tech Mahindra",Web Developer
+7.5,Cybersecurity,C++,Cybersecurity,"Infosys, HCL, Tech Mahindra",Cloud Engineer
+9.1,Software Dev,Java,Big Data,"Amazon, OpenAI, IBM",Data Analyst
+7.4,AIML,R,ML,"HCL, Tech Mahindra, Infosys",Data Scientist
+9.7,Web Dev,TypeScript,Backend,"Amazon, IBM, Microsoft",Web Developer
+9.4,Cloud,Go,Cloud Computing,"IBM, NVIDIA, Amazon",DevOps Engineer
+7.7,DevOps,Go,DevOps,"HCL, Cognizant, Wipro",DevOps Engineer
+9.0,Software Dev,C#,Backend,"Microsoft, IBM, OpenAI",System Engineer
+9.0,Software Dev,Java,Big Data,"NVIDIA, Google, Amazon",Data Analyst
+6.4,DevOps,Go,DevOps,"NIIT Technologies, Mphasis, HCL",DevOps Engineer
+9.6,Web Dev,TypeScript,Front End,"OpenAI, Amazon, IBM",Software Developer
+8.0,Cloud,SQL,DBMS,"Capgemini, SAP, Oracle",DevOps Engineer
+9.3,AIML,Python,Big Data,"IBM, Microsoft, Google",AI Engineer
+7.3,Web Dev,JavaScript,Backend,"Tech Mahindra, Cognizant, HCL",Software Developer
+9.6,Cloud,SQL,Data Analytics,"Google, NVIDIA, IBM",Cloud Engineer
+7.6,AIML,Python,Big Data,"Wipro, Infosys, Cognizant",Data Scientist
+6.0,Software Dev,Python,Big Data,"Birlasoft, HCL, Mphasis",System Engineer
+9.6,Software Dev,Python,Big Data,"IBM, Google, OpenAI",System Engineer
+6.4,Software Dev,Java,Big Data,"Mphasis, NIIT Technologies, Birlasoft",Software Developer
+7.3,Web Dev,JavaScript,Front End,"TCS, Infosys, Tech Mahindra",Web Developer
+9.8,Cloud,SQL,Data Analytics,"NVIDIA, Apple, OpenAI",DevOps Engineer
+9.8,AIML,R,Data Analytics,"IBM, Google, NVIDIA",AI Engineer
+8.3,DevOps,TypeScript,DevOps,"Infosys, SAP, TCS",DevOps Engineer
+8.5,Software Dev,Java,Backend,"Capgemini, IBM, SAP",Software Developer
+7.8,Cloud,Python,Cloud Computing,"HCL, Wipro, Infosys",Cloud Engineer
+7.2,Cloud,SQL,DBMS,"Wipro, Cognizant, Tech Mahindra",DevOps Engineer
+7.3,Web Dev,JavaScript,Front End,"HCL, Wipro, Tech Mahindra",Web Developer
+8.7,Web Dev,SQL,DBMS,"Infosys, IBM, Capgemini",Software Developer
+9.0,Cloud,SQL,Data Analytics,"IBM, NVIDIA, OpenAI",DevOps Engineer
+9.2,AIML,Java,Big Data,"Microsoft, IBM, Apple",Data Scientist
+9.2,Software Dev,C#,Backend,"Apple, Google, IBM",Data Analyst
+6.4,Cybersecurity,C++,AI,"Mphasis, Mindtree, HCL",Cybersecurity Engineer
+8.0,Cybersecurity,C++,AI,"Infosys, Oracle, SAP",Cybersecurity Engineer
+6.2,AIML,Java,AI,"NIIT Technologies, HCL, Birlasoft",Data Scientist
+8.2,DevOps,TypeScript,DevOps,"Infosys, SAP, Oracle",DevOps Engineer
+7.8,Web Dev,TypeScript,Front End,"Cognizant, TCS, Infosys",Web Developer
+9.6,Software Dev,Java,Big Data,"Apple, Microsoft, Google",Software Developer
+7.4,Web Dev,SQL,DBMS,"Cognizant, TCS, Tech Mahindra",Web Developer
+6.5,Cybersecurity,Rust,Front End,"Mphasis, NIIT Technologies, Birlasoft",Cybersecurity Engineer
+6.6,Cybersecurity,C++,Cybersecurity,"Mphasis, Mindtree, NIIT Technologies",Cloud Engineer
+9.0,Cloud,Python,Cloud Computing,"NVIDIA, Apple, OpenAI",DevOps Engineer
+8.5,AIML,Python,ML,"IBM, TCS, Capgemini",Data Scientist
+6.4,DevOps,SQL,DBMS,"Mphasis, NIIT Technologies, Mindtree",System Engineer
+6.3,Cybersecurity,Rust,Front End,"Birlasoft, NIIT Technologies, HCL",Cloud Engineer
+8.8,Software Dev,C#,DBMS,"SAP, IBM, Oracle",Data Analyst
+6.3,Web Dev,TypeScript,Front End,"HCL, Birlasoft, NIIT Technologies",Web Developer
+9.3,Cybersecurity,C++,AI,"IBM, NVIDIA, OpenAI",Cybersecurity Engineer
+8.8,DevOps,TypeScript,DevOps,"IBM, Infosys, TCS",System Engineer
+6.3,Cybersecurity,Rust,Cybersecurity,"Mindtree, NIIT Technologies, HCL",Cloud Engineer
+6.3,Cloud,SQL,Data Analytics,"Mindtree, Birlasoft, NIIT Technologies",Cloud Engineer
+9.9,Software Dev,C#,DBMS,"Microsoft, Google, NVIDIA",Software Developer
+7.5,AIML,Java,Big Data,"Cognizant, Tech Mahindra, TCS",Data Scientist
+7.5,DevOps,SQL,Data Analytics,"TCS, Cognizant, HCL",DevOps Engineer
+9.3,Web Dev,TypeScript,Front End,"Apple, IBM, Amazon",Web Developer
+9.8,Cybersecurity,Rust,Cybersecurity,"Amazon, OpenAI, Microsoft",Cloud Engineer
+9.9,Software Dev,C#,Backend,"Amazon, Apple, Microsoft",Software Developer
+9.0,Cloud,Go,Cloud Computing,"OpenAI, Microsoft, NVIDIA",Cloud Engineer
+7.5,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, Wipro, TCS",Cybersecurity Engineer
+6.3,Web Dev,SQL,Data Analytics,"NIIT Technologies, Birlasoft, HCL",Web Developer
+9.1,Cloud,Go,Cloud Computing,"Google, IBM, Apple",DevOps Engineer
+8.2,AIML,Python,Big Data,"Oracle, Infosys, IBM",Data Scientist
+7.7,Software Dev,Python,Big Data,"Infosys, Cognizant, Wipro",Software Developer
+9.6,DevOps,SQL,DBMS,"Apple, Google, Amazon",DevOps Engineer
+6.4,AIML,Java,Big Data,"Birlasoft, Mindtree, Mphasis",Data Scientist
+8.0,DevOps,Go,DevOps,"Oracle, SAP, TCS",DevOps Engineer
+6.0,Cloud,SQL,Data Analytics,"Mindtree, Mphasis, NIIT Technologies",Cloud Engineer
+7.9,Software Dev,Python,Data Analytics,"Cognizant, TCS, Infosys",Software Developer
+6.2,Software Dev,C#,DBMS,"Birlasoft, Mindtree, NIIT Technologies",Data Analyst
+6.5,Cloud,Python,Cloud Computing,"Mphasis, Mindtree, NIIT Technologies",DevOps Engineer
+6.5,Cybersecurity,C++,Cybersecurity,"Birlasoft, Mindtree, NIIT Technologies",Cloud Engineer
+8.6,Software Dev,C#,Backend,"Infosys, IBM, TCS",System Engineer
+9.0,Software Dev,Java,Big Data,"NVIDIA, Google, OpenAI",Software Developer
+8.3,Cloud,Go,Cloud Computing,"SAP, Capgemini, Infosys",Cloud Engineer
+9.8,DevOps,TypeScript,DevOps,"Amazon, IBM, NVIDIA",DevOps Engineer
+7.5,Cybersecurity,Rust,Cybersecurity,"Wipro, Cognizant, TCS",Cybersecurity Engineer
+7.1,Software Dev,C#,DBMS,"Cognizant, Wipro, TCS",System Engineer
+9.5,Cybersecurity,Rust,Front End,"Apple, NVIDIA, Google",Cloud Engineer
+6.9,AIML,Java,AI,"Mphasis, Mindtree, NIIT Technologies",Data Scientist
+9.9,Software Dev,Java,Big Data,"Amazon, Google, OpenAI",Software Developer
+6.0,Web Dev,TypeScript,Front End,"Birlasoft, Mphasis, HCL",Web Developer
+9.9,Cybersecurity,Rust,Cybersecurity,"IBM, OpenAI, Microsoft",Cybersecurity Engineer
+6.2,Cloud,SQL,DBMS,"NIIT Technologies, Birlasoft, Mindtree",DevOps Engineer
+9.6,Cybersecurity,Rust,Front End,"Google, Microsoft, IBM",Cloud Engineer
+8.1,Cybersecurity,C++,Cybersecurity,"TCS, Capgemini, Infosys",Cybersecurity Engineer
+10.0,Web Dev,JavaScript,Backend,"Amazon, IBM, Microsoft",Web Developer
+6.3,DevOps,TypeScript,DevOps,"HCL, Mphasis, NIIT Technologies",DevOps Engineer
+8.2,DevOps,TypeScript,Backend,"SAP, Capgemini, Oracle",DevOps Engineer
+9.9,Web Dev,JavaScript,Front End,"IBM, NVIDIA, Google",Software Developer
+8.1,Web Dev,SQL,DBMS,"Capgemini, SAP, TCS",Web Developer
+8.5,Web Dev,JavaScript,Front End,"Oracle, IBM, SAP",Web Developer
+8.8,Cybersecurity,C++,AI,"TCS, Oracle, Infosys",Cybersecurity Engineer
+7.8,Cybersecurity,Rust,Cybersecurity,"HCL, TCS, Infosys",Cybersecurity Engineer
+8.5,Software Dev,Python,Big Data,"Oracle, Infosys, TCS",System Engineer
+8.3,Software Dev,Java,Big Data,"IBM, SAP, Oracle",Data Analyst
+9.6,Software Dev,Python,Big Data,"Amazon, OpenAI, Google",System Engineer
+6.2,Cybersecurity,Rust,Cybersecurity,"Mindtree, Birlasoft, Mphasis",Cybersecurity Engineer
+7.1,Software Dev,Java,Backend,"Infosys, Wipro, TCS",System Engineer
+9.8,Cybersecurity,Rust,Cybersecurity,"IBM, NVIDIA, Microsoft",Cloud Engineer
+9.6,Cybersecurity,Rust,Front End,"Microsoft, IBM, Apple",Cloud Engineer
+7.8,AIML,Java,AI,"Cognizant, Wipro, Infosys",Data Scientist
+8.5,Cloud,Go,Big Data,"TCS, Oracle, Capgemini",Cloud Engineer
+7.1,DevOps,SQL,DBMS,"HCL, TCS, Cognizant",DevOps Engineer
+6.8,Software Dev,Java,Big Data,"Mphasis, NIIT Technologies, Birlasoft",Data Analyst
+7.9,Web Dev,JavaScript,Front End,"Wipro, Infosys, TCS",Web Developer
+7.4,Cloud,Go,Big Data,"Wipro, Infosys, Tech Mahindra",Cloud Engineer
+8.3,Cloud,Python,DevOps,"Infosys, IBM, TCS",DevOps Engineer
+6.3,Web Dev,TypeScript,Backend,"Mindtree, HCL, Mphasis",Software Developer
+9.9,DevOps,TypeScript,DevOps,"IBM, NVIDIA, Amazon",System Engineer
+9.9,AIML,R,Data Analytics,"Microsoft, IBM, Google",Data Scientist
+8.8,Cybersecurity,Rust,Front End,"IBM, TCS, Infosys",Cybersecurity Engineer
+8.1,DevOps,TypeScript,Backend,"Capgemini, Oracle, Infosys",System Engineer
+7.2,AIML,Python,Big Data,"Infosys, Cognizant, Wipro",Data Scientist
+9.3,Cloud,Python,Cloud Computing,"OpenAI, NVIDIA, Apple",Cloud Engineer
+8.7,Web Dev,JavaScript,Backend,"IBM, SAP, Capgemini",Web Developer
+6.7,AIML,Python,ML,"NIIT Technologies, Birlasoft, Mphasis",Data Scientist
+9.6,Cybersecurity,Rust,Front End,"Apple, Microsoft, Google",Cybersecurity Engineer
+9.3,Cloud,SQL,DBMS,"OpenAI, Microsoft, Amazon",Cloud Engineer
+9.8,Web Dev,JavaScript,Backend,"Amazon, Microsoft, NVIDIA",Web Developer
+8.9,Cybersecurity,Rust,Cybersecurity,"SAP, TCS, Capgemini",Cybersecurity Engineer
+8.5,Software Dev,Java,Backend,"TCS, Capgemini, Infosys",Data Analyst
+7.7,Software Dev,Python,Big Data,"Cognizant, TCS, Infosys",Software Developer
+9.7,Cybersecurity,C++,AI,"Amazon, IBM, Apple",Cybersecurity Engineer
+9.5,AIML,Python,ML,"OpenAI, Amazon, Apple",AI Engineer
+6.2,Software Dev,Java,Backend,"HCL, Mindtree, NIIT Technologies",Software Developer
+6.1,DevOps,SQL,DBMS,"Birlasoft, Mindtree, HCL",System Engineer
+7.5,Web Dev,JavaScript,Front End,"Tech Mahindra, TCS, Wipro",Software Developer
+9.2,Software Dev,Python,Big Data,"Apple, OpenAI, NVIDIA",Software Developer
+9.9,Software Dev,C#,DBMS,"Amazon, NVIDIA, Apple",Software Developer
+6.6,Cloud,Go,Cloud Computing,"NIIT Technologies, Mindtree, Birlasoft",Cloud Engineer
+8.4,Cybersecurity,C++,AI,"IBM, SAP, TCS",Cloud Engineer
+7.5,DevOps,Go,DevOps,"HCL, TCS, Infosys",System Engineer
+9.9,AIML,Python,Big Data,"Microsoft, IBM, OpenAI",AI Engineer
+9.4,Software Dev,C#,DBMS,"IBM, OpenAI, Apple",System Engineer
+9.4,Software Dev,Python,Data Analytics,"Amazon, Google, Microsoft",System Engineer
+7.9,Cloud,SQL,DBMS,"Tech Mahindra, HCL, TCS",DevOps Engineer
+7.7,AIML,Python,ML,"Infosys, TCS, Cognizant",Data Scientist
+7.1,Cybersecurity,C++,Cybersecurity,"Cognizant, Tech Mahindra, HCL",Cybersecurity Engineer
+6.2,Cloud,Go,Cloud Computing,"Mindtree, HCL, Birlasoft",Cloud Engineer
+9.5,Web Dev,TypeScript,Backend,"IBM, Microsoft, Google",Web Developer
+9.3,DevOps,Go,Cloud Computing,"NVIDIA, Amazon, Apple",DevOps Engineer
+10.0,Cloud,Python,Cloud Computing,"OpenAI, NVIDIA, Google",Cloud Engineer
+10.0,Cloud,Python,Cloud Computing,"NVIDIA, Google, Amazon",DevOps Engineer
+8.2,DevOps,TypeScript,Backend,"Infosys, SAP, Capgemini",System Engineer
+9.1,Web Dev,SQL,DBMS,"OpenAI, Microsoft, NVIDIA",Web Developer
+9.8,Software Dev,C#,DBMS,"Apple, Microsoft, NVIDIA",Software Developer
+9.4,Cloud,SQL,Data Analytics,"Google, OpenAI, IBM",Cloud Engineer
+7.0,DevOps,SQL,DBMS,"Wipro, HCL, Infosys",System Engineer
+7.8,AIML,R,Data Analytics,"Tech Mahindra, Cognizant, Wipro",Data Scientist
+6.5,Cloud,Python,Cloud Computing,"NIIT Technologies, Mphasis, Mindtree",DevOps Engineer
+9.8,Web Dev,TypeScript,Front End,"NVIDIA, Amazon, Microsoft",Software Developer
+8.4,Cloud,Go,Big Data,"Infosys, SAP, TCS",DevOps Engineer
+6.9,AIML,Java,Big Data,"Mindtree, Birlasoft, Mphasis",Data Scientist
+8.7,Cloud,Go,Cloud Computing,"SAP, IBM, Oracle",DevOps Engineer
+8.5,DevOps,Go,DevOps,"SAP, Infosys, TCS",DevOps Engineer
+7.4,Software Dev,Java,Backend,"HCL, Tech Mahindra, TCS",System Engineer
+6.5,Web Dev,SQL,Data Analytics,"Mindtree, NIIT Technologies, Mphasis",Software Developer
+8.7,Web Dev,JavaScript,Front End,"Oracle, SAP, Capgemini",Web Developer
+8.1,Software Dev,Python,Big Data,"Infosys, Oracle, IBM",Software Developer
+9.1,Web Dev,JavaScript,Front End,"Google, IBM, OpenAI",Web Developer
+8.1,DevOps,Go,Cloud Computing,"Oracle, Capgemini, IBM",System Engineer
+9.4,AIML,R,ML,"OpenAI, IBM, Google",Data Scientist
+8.2,Cybersecurity,C++,AI,"SAP, TCS, Oracle",Cloud Engineer
+8.2,Cybersecurity,C++,Cybersecurity,"SAP, Infosys, Oracle",Cybersecurity Engineer
+9.5,Cybersecurity,Rust,Front End,"IBM, Google, Microsoft",Cybersecurity Engineer
+7.6,DevOps,TypeScript,Backend,"HCL, Infosys, Wipro",DevOps Engineer
+6.5,Web Dev,TypeScript,Front End,"Mindtree, Birlasoft, NIIT Technologies",Web Developer
+6.1,AIML,Java,Big Data,"Birlasoft, Mphasis, HCL",Data Scientist
+9.0,DevOps,SQL,Data Analytics,"Apple, Microsoft, NVIDIA",DevOps Engineer
+8.5,Software Dev,Java,Backend,"Infosys, IBM, TCS",Data Analyst
+8.8,Cloud,Python,DevOps,"TCS, SAP, Capgemini",Cloud Engineer
+6.9,Cloud,Python,Cloud Computing,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+6.5,Software Dev,C#,DBMS,"Birlasoft, NIIT Technologies, Mindtree",System Engineer
+6.1,DevOps,Go,Cloud Computing,"HCL, Mphasis, Mindtree",System Engineer
+7.4,Software Dev,Python,Big Data,"Wipro, Infosys, TCS",Data Analyst
+8.4,Software Dev,C#,DBMS,"Capgemini, SAP, Oracle",Data Analyst
+7.6,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, Cognizant, Infosys",Cloud Engineer
+7.7,Cybersecurity,C++,Cybersecurity,"TCS, Wipro, Infosys",Cloud Engineer
+9.6,Web Dev,SQL,DBMS,"Google, IBM, Amazon",Web Developer
+7.4,Cybersecurity,C++,AI,"Wipro, Cognizant, TCS",Cloud Engineer
+8.1,Cybersecurity,C++,Cybersecurity,"Oracle, Infosys, SAP",Cybersecurity Engineer
+9.1,DevOps,SQL,DBMS,"Google, Microsoft, Apple",System Engineer
+7.6,AIML,Python,Big Data,"Wipro, Cognizant, Tech Mahindra",Data Scientist
+8.5,Web Dev,TypeScript,Front End,"Infosys, IBM, Oracle",Web Developer
+9.4,Cybersecurity,Rust,Front End,"Apple, OpenAI, Amazon",Cloud Engineer
+9.8,Software Dev,C#,Backend,"IBM, Apple, Amazon",System Engineer
+6.6,Web Dev,SQL,Data Analytics,"Mindtree, Birlasoft, NIIT Technologies",Software Developer
+9.7,DevOps,TypeScript,DevOps,"Apple, NVIDIA, IBM",System Engineer
+8.0,Cloud,SQL,Data Analytics,"Infosys, TCS, IBM",DevOps Engineer
+7.0,Web Dev,TypeScript,Front End,"HCL, Cognizant, Infosys",Web Developer
+7.8,Software Dev,Python,Data Analytics,"Infosys, Tech Mahindra, Cognizant",Software Developer
+9.9,Web Dev,SQL,Data Analytics,"Microsoft, Amazon, IBM",Software Developer
+8.0,DevOps,Go,Cloud Computing,"Capgemini, Infosys, Oracle",System Engineer
+7.3,Cybersecurity,Rust,Front End,"Cognizant, HCL, Wipro",Cybersecurity Engineer
+8.5,Cybersecurity,C++,Cybersecurity,"Capgemini, IBM, TCS",Cybersecurity Engineer
+7.0,Cybersecurity,C++,AI,"Tech Mahindra, Infosys, Cognizant",Cloud Engineer
+6.3,DevOps,TypeScript,DevOps,"Mindtree, NIIT Technologies, HCL",System Engineer
+6.5,Software Dev,C#,Backend,"Birlasoft, Mindtree, NIIT Technologies",Data Analyst
+6.5,Cybersecurity,Rust,Front End,"NIIT Technologies, Mindtree, Birlasoft",Cloud Engineer
+6.6,Cybersecurity,C++,AI,"Mindtree, Birlasoft, Mphasis",Cybersecurity Engineer
+6.6,Software Dev,Java,Backend,"Mindtree, Birlasoft, Mphasis",Data Analyst
+8.6,AIML,Java,Big Data,"IBM, TCS, Infosys",AI Engineer
+6.7,Web Dev,TypeScript,Front End,"Birlasoft, NIIT Technologies, Mindtree",Software Developer
+7.4,Software Dev,Python,Big Data,"Infosys, Tech Mahindra, HCL",Data Analyst
+9.6,Cloud,Go,Cloud Computing,"NVIDIA, IBM, Microsoft",Cloud Engineer
+7.9,Software Dev,Python,Big Data,"HCL, Infosys, Wipro",Data Analyst
+8.7,Web Dev,SQL,DBMS,"Oracle, Infosys, Capgemini",Web Developer
+6.7,Software Dev,Python,Big Data,"NIIT Technologies, Mindtree, Birlasoft",Data Analyst
+6.8,AIML,Python,Big Data,"Mphasis, NIIT Technologies, Birlasoft",Data Scientist
+6.2,Software Dev,C#,Backend,"NIIT Technologies, Mindtree, HCL",Data Analyst
+6.7,Software Dev,Python,Big Data,"NIIT Technologies, Mphasis, Birlasoft",Data Analyst
+7.1,Software Dev,Java,Big Data,"HCL, TCS, Infosys",Software Developer
+6.7,DevOps,SQL,Data Analytics,"NIIT Technologies, Birlasoft, Mindtree",System Engineer
+6.4,Cloud,Go,Cloud Computing,"Birlasoft, NIIT Technologies, Mphasis",DevOps Engineer
+6.5,Cybersecurity,C++,Cybersecurity,"Mindtree, Birlasoft, Mphasis",Cloud Engineer
+7.8,Cloud,SQL,Data Analytics,"HCL, Wipro, TCS",Cloud Engineer
+6.8,Cybersecurity,C++,Cybersecurity,"Mindtree, Birlasoft, Mphasis",Cloud Engineer
+7.5,Software Dev,C#,DBMS,"Infosys, Wipro, Cognizant",Data Analyst
+8.0,AIML,Java,Big Data,"Oracle, TCS, IBM",Data Scientist
+8.8,Web Dev,JavaScript,Backend,"Oracle, Infosys, SAP",Software Developer
+6.2,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Birlasoft, HCL",Cybersecurity Engineer
+9.2,Software Dev,Python,Big Data,"NVIDIA, IBM, Microsoft",System Engineer
+8.5,Cybersecurity,C++,AI,"Oracle, TCS, IBM",Cybersecurity Engineer
+6.3,Software Dev,Java,Big Data,"Mphasis, HCL, NIIT Technologies",Software Developer
+9.5,DevOps,Go,DevOps,"IBM, NVIDIA, Apple",DevOps Engineer
+9.7,Web Dev,SQL,Data Analytics,"Microsoft, OpenAI, Amazon",Web Developer
+6.2,Cloud,SQL,DBMS,"NIIT Technologies, Mindtree, Birlasoft",DevOps Engineer
+7.1,Web Dev,JavaScript,Backend,"Tech Mahindra, Wipro, Cognizant",Web Developer
+9.2,Web Dev,JavaScript,Front End,"Google, IBM, Amazon",Web Developer
+9.0,Software Dev,C#,DBMS,"Apple, Amazon, OpenAI",Software Developer
+6.7,Cybersecurity,Rust,Front End,"Birlasoft, NIIT Technologies, Mindtree",Cloud Engineer
+6.8,Cybersecurity,Rust,Front End,"Birlasoft, Mindtree, NIIT Technologies",Cybersecurity Engineer
+7.5,DevOps,TypeScript,DevOps,"Cognizant, HCL, Tech Mahindra",System Engineer
+7.9,Cloud,SQL,Data Analytics,"HCL, TCS, Tech Mahindra",Cloud Engineer
+8.5,Cloud,Go,Cloud Computing,"TCS, IBM, Infosys",DevOps Engineer
+7.5,DevOps,SQL,Data Analytics,"HCL, Wipro, TCS",DevOps Engineer
+7.9,DevOps,SQL,DBMS,"HCL, TCS, Cognizant",DevOps Engineer
+9.0,AIML,R,Data Analytics,"IBM, NVIDIA, Microsoft",AI Engineer
+6.1,Cloud,Python,DevOps,"Birlasoft, Mphasis, HCL",DevOps Engineer
+7.0,Cybersecurity,Rust,Front End,"TCS, Wipro, Infosys",Cybersecurity Engineer
+8.9,Cloud,Go,Big Data,"Infosys, TCS, Oracle",Cloud Engineer
+9.6,AIML,Python,Big Data,"Amazon, Apple, NVIDIA",Data Scientist
+8.0,Cybersecurity,C++,AI,"IBM, SAP, Infosys",Cloud Engineer
+8.1,DevOps,Go,DevOps,"SAP, Oracle, TCS",System Engineer
+6.4,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Mindtree, Mphasis",Cloud Engineer
+7.8,DevOps,TypeScript,Backend,"Infosys, Tech Mahindra, Wipro",System Engineer
+8.1,DevOps,SQL,Data Analytics,"Oracle, Infosys, Capgemini",DevOps Engineer
+7.0,DevOps,SQL,Data Analytics,"Wipro, Cognizant, Tech Mahindra",System Engineer
+7.1,Web Dev,TypeScript,Backend,"TCS, Infosys, HCL",Web Developer
+7.5,DevOps,SQL,Data Analytics,"Infosys, Wipro, TCS",System Engineer
+6.1,Cloud,Python,Cloud Computing,"Birlasoft, Mindtree, NIIT Technologies",DevOps Engineer
+7.3,AIML,Java,AI,"Tech Mahindra, Cognizant, Infosys",Data Scientist
+6.8,DevOps,TypeScript,Backend,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+7.3,Software Dev,Java,Backend,"Tech Mahindra, Infosys, HCL",Data Analyst
+6.5,Web Dev,JavaScript,Front End,"Mindtree, Mphasis, Birlasoft",Software Developer
+9.6,AIML,Java,Big Data,"Microsoft, Amazon, Google",Data Scientist
+8.4,Cloud,Python,DevOps,"Capgemini, IBM, TCS",Cloud Engineer
+8.7,Cloud,Python,DevOps,"SAP, TCS, Oracle",DevOps Engineer
+9.2,Web Dev,TypeScript,Backend,"IBM, Google, NVIDIA",Software Developer
+8.0,DevOps,TypeScript,DevOps,"SAP, Infosys, Capgemini",System Engineer
+6.3,Web Dev,SQL,Data Analytics,"Mphasis, Mindtree, Birlasoft",Web Developer
+8.1,AIML,Python,Big Data,"Oracle, Infosys, SAP",Data Scientist
+8.3,Software Dev,Python,Data Analytics,"Capgemini, SAP, IBM",Data Analyst
+9.0,Web Dev,SQL,DBMS,"Amazon, Apple, OpenAI",Web Developer
+7.7,Cybersecurity,Rust,Cybersecurity,"Infosys, HCL, TCS",Cloud Engineer
+6.5,Software Dev,Java,Backend,"Mphasis, NIIT Technologies, Mindtree",Software Developer
+7.1,Software Dev,Python,Data Analytics,"HCL, Wipro, TCS",Data Analyst
+7.5,AIML,R,ML,"Infosys, HCL, Cognizant",Data Scientist
+8.6,Software Dev,Java,Backend,"TCS, SAP, Oracle",System Engineer
+8.3,Cloud,Go,Big Data,"IBM, Oracle, Capgemini",DevOps Engineer
+7.4,Web Dev,JavaScript,Front End,"Tech Mahindra, Cognizant, Infosys",Web Developer
+9.9,Software Dev,Java,Big Data,"NVIDIA, Google, IBM",Data Analyst
+8.4,Software Dev,Python,Data Analytics,"Oracle, TCS, IBM",System Engineer
+6.9,Cloud,SQL,Data Analytics,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+6.4,AIML,Java,AI,"Mindtree, NIIT Technologies, HCL",Data Scientist
+6.6,Cloud,Go,Cloud Computing,"NIIT Technologies, Mphasis, Birlasoft",Cloud Engineer
+7.0,Cybersecurity,Rust,Front End,"TCS, HCL, Tech Mahindra",Cybersecurity Engineer
+6.6,Software Dev,Java,Backend,"NIIT Technologies, Mphasis, Mindtree",Data Analyst
+6.7,Cybersecurity,Rust,Front End,"Mindtree, NIIT Technologies, Mphasis",Cybersecurity Engineer
+7.1,Software Dev,Java,Big Data,"Cognizant, Tech Mahindra, HCL",Data Analyst
+6.7,AIML,R,ML,"NIIT Technologies, Mindtree, Mphasis",Data Scientist
+9.6,Cloud,SQL,DBMS,"Apple, Google, Amazon",DevOps Engineer
+6.3,Web Dev,SQL,Data Analytics,"HCL, Mindtree, Mphasis",Web Developer
+8.1,Software Dev,C#,DBMS,"Infosys, IBM, TCS",Software Developer
+7.6,AIML,R,ML,"Wipro, Infosys, HCL",Data Scientist
+9.9,Cybersecurity,C++,AI,"OpenAI, NVIDIA, Apple",Cloud Engineer
+6.4,DevOps,SQL,Data Analytics,"Mphasis, Mindtree, HCL",System Engineer
+7.6,Cybersecurity,Rust,Front End,"Tech Mahindra, HCL, Infosys",Cybersecurity Engineer
+9.9,Software Dev,Java,Backend,"Apple, Google, Amazon",System Engineer
+9.5,Cybersecurity,C++,AI,"OpenAI, IBM, NVIDIA",Cybersecurity Engineer
+9.3,AIML,R,Data Analytics,"NVIDIA, Microsoft, IBM",AI Engineer
+7.0,Software Dev,C#,Backend,"Infosys, Cognizant, Tech Mahindra",Software Developer
+6.7,Software Dev,Java,Backend,"Birlasoft, NIIT Technologies, Mindtree",System Engineer
+8.7,Software Dev,Java,Backend,"SAP, TCS, Infosys",Data Analyst
+9.7,Cloud,SQL,Data Analytics,"IBM, Amazon, Microsoft",DevOps Engineer
+8.2,Web Dev,SQL,Data Analytics,"SAP, IBM, Capgemini",Web Developer
+8.3,Cloud,Go,Cloud Computing,"Oracle, SAP, Capgemini",DevOps Engineer
+7.1,DevOps,TypeScript,DevOps,"Wipro, Infosys, HCL",System Engineer
+9.1,Cybersecurity,Rust,Front End,"Amazon, OpenAI, Microsoft",Cybersecurity Engineer
+6.7,DevOps,Go,DevOps,"Mphasis, Mindtree, Birlasoft",DevOps Engineer
+7.3,AIML,Java,AI,"Infosys, HCL, Wipro",Data Scientist
+7.7,AIML,Java,Big Data,"HCL, Cognizant, TCS",Data Scientist
+8.0,Software Dev,Python,Big Data,"SAP, Capgemini, Infosys",System Engineer
+7.0,Web Dev,JavaScript,Backend,"Tech Mahindra, Infosys, TCS",Web Developer
+6.5,Software Dev,Python,Big Data,"Birlasoft, NIIT Technologies, Mphasis",Data Analyst
+8.4,Web Dev,SQL,Data Analytics,"IBM, TCS, Capgemini",Web Developer
+7.2,DevOps,SQL,Data Analytics,"Cognizant, Tech Mahindra, TCS",System Engineer
+8.3,DevOps,TypeScript,Backend,"SAP, Oracle, Infosys",DevOps Engineer
+6.6,Web Dev,SQL,DBMS,"Mindtree, Mphasis, Birlasoft",Web Developer
+7.9,Web Dev,SQL,DBMS,"Cognizant, Wipro, HCL",Web Developer
+8.1,AIML,R,Data Analytics,"Infosys, SAP, Oracle",AI Engineer
+6.2,Software Dev,C#,Backend,"Mphasis, Mindtree, Birlasoft",Software Developer
+7.3,AIML,R,Data Analytics,"HCL, Tech Mahindra, Wipro",Data Scientist
+6.5,Web Dev,JavaScript,Front End,"Mphasis, Birlasoft, NIIT Technologies",Web Developer
+6.3,DevOps,TypeScript,DevOps,"NIIT Technologies, HCL, Mphasis",DevOps Engineer
+10.0,DevOps,TypeScript,Backend,"OpenAI, Google, Microsoft",DevOps Engineer
+7.3,Cloud,Go,Cloud Computing,"HCL, Tech Mahindra, Infosys",DevOps Engineer
+9.2,DevOps,TypeScript,Backend,"OpenAI, Google, IBM",System Engineer
+7.0,Software Dev,Java,Backend,"HCL, Wipro, Cognizant",Data Analyst
+8.7,Cloud,SQL,Data Analytics,"IBM, Infosys, Oracle",DevOps Engineer
+9.0,DevOps,Go,DevOps,"Apple, Microsoft, NVIDIA",System Engineer
+8.4,Cloud,SQL,Data Analytics,"SAP, TCS, Capgemini",DevOps Engineer
+7.9,Web Dev,JavaScript,Front End,"Infosys, Wipro, TCS",Web Developer
+7.6,AIML,Python,ML,"Cognizant, Tech Mahindra, TCS",Data Scientist
+7.4,Cybersecurity,C++,Cybersecurity,"Tech Mahindra, Infosys, TCS",Cybersecurity Engineer
+9.7,Cloud,Go,Big Data,"Amazon, Apple, Microsoft",Cloud Engineer
+9.3,Web Dev,TypeScript,Front End,"Amazon, Google, Apple",Software Developer
+9.9,Cloud,SQL,Data Analytics,"OpenAI, NVIDIA, Microsoft",DevOps Engineer
+6.5,Software Dev,C#,DBMS,"Mindtree, NIIT Technologies, Mphasis",System Engineer
+8.9,Software Dev,C#,Backend,"Capgemini, TCS, Oracle",Data Analyst
+9.8,Cybersecurity,Rust,Front End,"Amazon, Microsoft, Google",Cybersecurity Engineer
+6.7,Cybersecurity,C++,Cybersecurity,"Mindtree, NIIT Technologies, Birlasoft",Cybersecurity Engineer
+6.3,Cloud,Go,Big Data,"Mindtree, NIIT Technologies, HCL",Cloud Engineer
+9.0,AIML,Java,AI,"NVIDIA, OpenAI, Apple",Data Scientist
+8.3,AIML,Python,Big Data,"Oracle, SAP, IBM",AI Engineer
+9.4,Web Dev,TypeScript,Backend,"Apple, NVIDIA, Microsoft",Web Developer
+6.6,Web Dev,JavaScript,Front End,"NIIT Technologies, Birlasoft, Mphasis",Web Developer
+9.2,Software Dev,C#,Backend,"Google, Amazon, IBM",Software Developer
+6.8,Software Dev,Java,Backend,"Mphasis, NIIT Technologies, Mindtree",Software Developer
+6.7,Cloud,Python,Cloud Computing,"Mindtree, Birlasoft, Mphasis",Cloud Engineer
+6.7,Web Dev,JavaScript,Backend,"Mindtree, NIIT Technologies, Birlasoft",Software Developer
+9.3,DevOps,Go,Cloud Computing,"IBM, OpenAI, Google",DevOps Engineer
+8.7,Software Dev,C#,DBMS,"SAP, Capgemini, IBM",Data Analyst
+8.1,Cybersecurity,C++,Cybersecurity,"Capgemini, Oracle, IBM",Cybersecurity Engineer
+7.4,AIML,R,Data Analytics,"Infosys, Cognizant, Tech Mahindra",Data Scientist
+9.5,Cloud,Go,Big Data,"Apple, Google, NVIDIA",Cloud Engineer
+7.6,Software Dev,Java,Big Data,"Infosys, Wipro, TCS",System Engineer
+9.3,Cloud,Python,Cloud Computing,"OpenAI, Microsoft, Google",Cloud Engineer
+7.8,AIML,Java,Big Data,"Infosys, TCS, Tech Mahindra",Data Scientist
+7.5,Software Dev,Python,Big Data,"Infosys, Wipro, TCS",Data Analyst
+7.9,AIML,Python,ML,"Wipro, TCS, Tech Mahindra",Data Scientist
+7.2,DevOps,TypeScript,DevOps,"Infosys, Wipro, Tech Mahindra",DevOps Engineer
+9.0,Web Dev,SQL,Data Analytics,"Microsoft, Apple, Amazon",Software Developer
+8.0,DevOps,SQL,DBMS,"TCS, SAP, Capgemini",System Engineer
+6.9,AIML,R,ML,"Mindtree, Mphasis, Birlasoft",Data Scientist
+9.6,Cybersecurity,C++,AI,"Microsoft, NVIDIA, IBM",Cybersecurity Engineer
+7.5,Web Dev,JavaScript,Backend,"TCS, Tech Mahindra, Wipro",Software Developer
+8.2,Software Dev,Java,Backend,"TCS, Capgemini, Oracle",Data Analyst
+9.6,Software Dev,Python,Data Analytics,"Microsoft, OpenAI, IBM",System Engineer
+8.5,Cybersecurity,Rust,Cybersecurity,"Oracle, Infosys, IBM",Cybersecurity Engineer
+6.5,AIML,Python,ML,"Mindtree, NIIT Technologies, Mphasis",Data Scientist
+9.8,Software Dev,C#,Backend,"Amazon, NVIDIA, Google",Software Developer
+8.5,Cybersecurity,C++,Cybersecurity,"IBM, Capgemini, Infosys",Cloud Engineer
+7.3,DevOps,TypeScript,Backend,"HCL, TCS, Wipro",System Engineer
+6.6,Software Dev,Java,Backend,"Birlasoft, Mindtree, NIIT Technologies",Data Analyst
+9.2,Cybersecurity,C++,AI,"NVIDIA, Apple, Amazon",Cybersecurity Engineer
+8.5,Software Dev,C#,DBMS,"TCS, Capgemini, IBM",System Engineer
+8.1,Cloud,SQL,Data Analytics,"Capgemini, IBM, Oracle",DevOps Engineer
+9.6,AIML,R,ML,"NVIDIA, IBM, OpenAI",AI Engineer
+9.2,DevOps,SQL,DBMS,"OpenAI, Apple, IBM",System Engineer
+6.6,Cloud,Python,Cloud Computing,"Mphasis, Mindtree, NIIT Technologies",DevOps Engineer
+7.2,DevOps,SQL,DBMS,"TCS, HCL, Wipro",System Engineer
+7.0,Software Dev,Java,Backend,"Wipro, TCS, HCL",Data Analyst
+9.0,AIML,Python,Big Data,"IBM, Apple, Microsoft",Data Scientist
+6.1,Software Dev,C#,DBMS,"Mindtree, NIIT Technologies, Birlasoft",Software Developer
+8.3,AIML,Python,ML,"SAP, IBM, Capgemini",Data Scientist
+9.0,Software Dev,Python,Data Analytics,"IBM, OpenAI, Amazon",Data Analyst
+9.5,Web Dev,SQL,Data Analytics,"Microsoft, Google, NVIDIA",Software Developer
+7.4,Web Dev,JavaScript,Front End,"Wipro, HCL, Cognizant",Software Developer
+9.3,Web Dev,SQL,Data Analytics,"Amazon, Apple, NVIDIA",Software Developer
+6.4,Cybersecurity,C++,AI,"HCL, Birlasoft, Mphasis",Cybersecurity Engineer
+9.4,Software Dev,C#,Backend,"Amazon, IBM, Google",System Engineer
+6.5,Cloud,Go,Big Data,"Birlasoft, Mindtree, Mphasis",DevOps Engineer
+7.6,DevOps,SQL,Data Analytics,"TCS, Cognizant, HCL",DevOps Engineer
+9.2,Software Dev,C#,DBMS,"OpenAI, Apple, Amazon",System Engineer
+6.6,AIML,R,Data Analytics,"Mphasis, NIIT Technologies, Birlasoft",Data Scientist
+6.9,AIML,Python,Big Data,"Birlasoft, Mindtree, Mphasis",Data Scientist
+8.9,Web Dev,TypeScript,Front End,"TCS, IBM, SAP",Web Developer
+8.9,AIML,Java,AI,"Capgemini, IBM, Oracle",AI Engineer
+8.6,AIML,Java,Big Data,"IBM, Infosys, TCS",AI Engineer
+8.8,AIML,Java,Big Data,"SAP, IBM, Infosys",AI Engineer
+8.2,Cloud,Go,Big Data,"IBM, SAP, Oracle",Cloud Engineer
+7.0,Cloud,SQL,DBMS,"Wipro, Tech Mahindra, Cognizant",DevOps Engineer
+7.4,Software Dev,Python,Data Analytics,"HCL, TCS, Cognizant",Data Analyst
+6.7,Software Dev,Python,Data Analytics,"Birlasoft, Mphasis, Mindtree",Software Developer
+9.6,Cloud,SQL,DBMS,"Google, IBM, OpenAI",Cloud Engineer
+8.3,Cloud,Python,DevOps,"IBM, SAP, Capgemini",DevOps Engineer
+7.6,AIML,Java,Big Data,"Cognizant, Tech Mahindra, TCS",Data Scientist
+7.8,AIML,Python,Big Data,"HCL, TCS, Tech Mahindra",Data Scientist
+9.8,AIML,Java,AI,"OpenAI, Apple, Amazon",Data Scientist
+6.6,Cybersecurity,Rust,Front End,"NIIT Technologies, Birlasoft, Mphasis",Cybersecurity Engineer
+8.3,Cybersecurity,C++,AI,"IBM, TCS, SAP",Cloud Engineer
+8.0,AIML,Python,Big Data,"IBM, Capgemini, Oracle",AI Engineer
+8.4,Web Dev,JavaScript,Front End,"SAP, TCS, Infosys",Web Developer
+6.1,Web Dev,TypeScript,Front End,"HCL, Mphasis, Birlasoft",Software Developer
+9.5,DevOps,SQL,Data Analytics,"IBM, Amazon, NVIDIA",DevOps Engineer
+9.7,AIML,Python,ML,"IBM, Amazon, Google",Data Scientist
+8.3,DevOps,SQL,DBMS,"SAP, Capgemini, Infosys",System Engineer
+8.8,AIML,Java,Big Data,"IBM, TCS, SAP",Data Scientist
+9.7,Software Dev,C#,DBMS,"Amazon, Apple, Google",System Engineer
+8.8,DevOps,Go,DevOps,"TCS, Capgemini, SAP",DevOps Engineer
+6.6,AIML,Java,AI,"Mphasis, Birlasoft, NIIT Technologies",Data Scientist
+8.3,Cybersecurity,Rust,Cybersecurity,"Capgemini, Oracle, TCS",Cloud Engineer
+8.4,AIML,Python,Big Data,"Capgemini, SAP, Infosys",AI Engineer
+7.7,AIML,R,Data Analytics,"Cognizant, Wipro, HCL",Data Scientist
+8.9,Software Dev,Python,Data Analytics,"Capgemini, Infosys, IBM",System Engineer
+9.7,AIML,R,ML,"Google, NVIDIA, OpenAI",AI Engineer
+9.7,Software Dev,Python,Data Analytics,"OpenAI, IBM, Microsoft",Software Developer
+7.8,DevOps,TypeScript,Backend,"TCS, Tech Mahindra, Infosys",DevOps Engineer
+6.5,Web Dev,SQL,DBMS,"Birlasoft, Mindtree, NIIT Technologies",Web Developer
+9.9,Web Dev,TypeScript,Backend,"OpenAI, NVIDIA, Amazon",Web Developer
+9.4,Web Dev,JavaScript,Backend,"Apple, Amazon, Google",Software Developer
+6.5,Cybersecurity,Rust,Front End,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+9.7,Cloud,Go,Cloud Computing,"OpenAI, Google, Amazon",Cloud Engineer
+9.5,DevOps,TypeScript,DevOps,"Amazon, IBM, Google",DevOps Engineer
+8.1,Web Dev,JavaScript,Backend,"Oracle, IBM, Infosys",Web Developer
+8.4,AIML,Python,Big Data,"Capgemini, Infosys, IBM",Data Scientist
+7.6,Software Dev,Python,Data Analytics,"HCL, Cognizant, Tech Mahindra",Software Developer
+6.2,Web Dev,TypeScript,Front End,"HCL, NIIT Technologies, Mindtree",Web Developer
+7.3,Cloud,SQL,DBMS,"Infosys, TCS, Wipro",Cloud Engineer
+9.2,Cybersecurity,Rust,Cybersecurity,"IBM, NVIDIA, Microsoft",Cloud Engineer
+6.0,DevOps,SQL,Data Analytics,"Mphasis, HCL, NIIT Technologies",DevOps Engineer
+7.3,DevOps,TypeScript,DevOps,"HCL, Tech Mahindra, Wipro",System Engineer
+7.6,Cybersecurity,Rust,Front End,"Cognizant, TCS, HCL",Cybersecurity Engineer
+8.1,Software Dev,Java,Big Data,"Infosys, SAP, TCS",Software Developer
+9.7,Software Dev,C#,DBMS,"NVIDIA, Google, Apple",Data Analyst
+7.4,Software Dev,Python,Data Analytics,"HCL, Tech Mahindra, Wipro",System Engineer
+7.4,Web Dev,TypeScript,Backend,"Tech Mahindra, HCL, Wipro",Web Developer
+9.0,AIML,R,ML,"Apple, OpenAI, IBM",AI Engineer
+7.8,AIML,Java,Big Data,"Infosys, TCS, Tech Mahindra",Data Scientist
+6.9,Cybersecurity,Rust,Cybersecurity,"Mphasis, NIIT Technologies, Mindtree",Cloud Engineer
+7.8,Web Dev,JavaScript,Backend,"HCL, Infosys, TCS",Software Developer
+6.6,Cloud,Python,DevOps,"Birlasoft, Mphasis, NIIT Technologies",Cloud Engineer
+6.7,Software Dev,C#,DBMS,"NIIT Technologies, Mphasis, Mindtree",Software Developer
+8.0,Cloud,SQL,DBMS,"Oracle, SAP, TCS",DevOps Engineer
+7.7,Cloud,SQL,Data Analytics,"HCL, Infosys, Cognizant",DevOps Engineer
+9.7,AIML,R,ML,"IBM, OpenAI, Google",Data Scientist
+7.4,Software Dev,Java,Big Data,"TCS, Infosys, Wipro",System Engineer
+8.3,DevOps,Go,Cloud Computing,"IBM, SAP, Capgemini",DevOps Engineer
+8.5,Cloud,SQL,DBMS,"Capgemini, Oracle, IBM",DevOps Engineer
+6.1,DevOps,SQL,DBMS,"NIIT Technologies, Mindtree, Birlasoft",System Engineer
+8.7,Web Dev,SQL,DBMS,"SAP, Oracle, Infosys",Web Developer
+6.7,AIML,Python,ML,"Birlasoft, Mphasis, Mindtree",Data Scientist
+9.8,Web Dev,SQL,Data Analytics,"OpenAI, Apple, NVIDIA",Web Developer
+6.6,DevOps,SQL,Data Analytics,"Birlasoft, NIIT Technologies, Mindtree",System Engineer
+7.7,AIML,Java,AI,"Tech Mahindra, TCS, HCL",Data Scientist
+6.3,DevOps,SQL,Data Analytics,"Birlasoft, HCL, NIIT Technologies",DevOps Engineer
+10.0,Cloud,Go,Cloud Computing,"Microsoft, Apple, Amazon",DevOps Engineer
+8.0,DevOps,Go,DevOps,"SAP, Capgemini, IBM",DevOps Engineer
+8.4,DevOps,Go,DevOps,"TCS, Infosys, IBM",DevOps Engineer
+6.3,AIML,R,ML,"NIIT Technologies, Mphasis, Birlasoft",Data Scientist
+9.0,Cybersecurity,Rust,Front End,"Google, Amazon, IBM",Cybersecurity Engineer
+6.8,Web Dev,SQL,Data Analytics,"Birlasoft, Mindtree, Mphasis",Web Developer
+9.6,Web Dev,JavaScript,Backend,"Microsoft, IBM, Amazon",Software Developer
+6.8,Cloud,Go,Cloud Computing,"Mindtree, NIIT Technologies, Birlasoft",DevOps Engineer
+6.8,Cybersecurity,C++,AI,"NIIT Technologies, Mindtree, Mphasis",Cybersecurity Engineer
+6.1,Web Dev,JavaScript,Front End,"HCL, NIIT Technologies, Mphasis",Web Developer
+7.9,Web Dev,JavaScript,Backend,"Wipro, Cognizant, Tech Mahindra",Software Developer
+8.3,Cybersecurity,Rust,Cybersecurity,"Capgemini, Oracle, SAP",Cybersecurity Engineer
+6.3,DevOps,TypeScript,DevOps,"Mindtree, Birlasoft, Mphasis",System Engineer
+9.1,Software Dev,C#,Backend,"OpenAI, NVIDIA, IBM",System Engineer
+7.8,AIML,R,Data Analytics,"Cognizant, TCS, Wipro",Data Scientist
+8.1,AIML,Java,AI,"Capgemini, TCS, SAP",AI Engineer
+7.8,Software Dev,Python,Data Analytics,"TCS, Tech Mahindra, Cognizant",Data Analyst
+7.6,Cybersecurity,C++,AI,"TCS, Cognizant, Infosys",Cybersecurity Engineer
+8.2,DevOps,SQL,Data Analytics,"Infosys, TCS, Capgemini",System Engineer
+6.6,DevOps,TypeScript,DevOps,"Mphasis, NIIT Technologies, Birlasoft",DevOps Engineer
+6.7,AIML,R,ML,"Mindtree, NIIT Technologies, Mphasis",Data Scientist
+9.4,AIML,Python,Big Data,"IBM, Apple, Microsoft",Data Scientist
+9.8,Web Dev,SQL,DBMS,"NVIDIA, Google, IBM",Software Developer
+7.5,Software Dev,C#,DBMS,"TCS, Wipro, HCL",Data Analyst
+7.1,Cybersecurity,C++,AI,"Wipro, TCS, Infosys",Cybersecurity Engineer
+8.6,Web Dev,SQL,DBMS,"Infosys, Capgemini, TCS",Software Developer
+7.6,Web Dev,TypeScript,Front End,"Cognizant, Infosys, Tech Mahindra",Software Developer
+6.1,Software Dev,C#,Backend,"Mphasis, NIIT Technologies, Mindtree",Data Analyst
+6.6,AIML,Python,ML,"Mphasis, NIIT Technologies, Mindtree",Data Scientist
+8.9,Cloud,SQL,DBMS,"Infosys, Capgemini, TCS",Cloud Engineer
+8.6,Cloud,SQL,Data Analytics,"Capgemini, TCS, Infosys",DevOps Engineer
+6.1,Software Dev,Python,Big Data,"Mphasis, Mindtree, NIIT Technologies",System Engineer
+6.9,Cybersecurity,C++,Cybersecurity,"NIIT Technologies, Mphasis, Mindtree",Cloud Engineer
+6.9,Cybersecurity,C++,AI,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+8.7,Cloud,Python,DevOps,"IBM, TCS, Infosys",Cloud Engineer
+6.1,AIML,R,Data Analytics,"HCL, NIIT Technologies, Mindtree",Data Scientist
+6.4,Cybersecurity,C++,Cybersecurity,"HCL, Mindtree, NIIT Technologies",Cybersecurity Engineer
+9.2,Cloud,Python,DevOps,"IBM, Microsoft, Apple",DevOps Engineer
+6.7,AIML,Python,Big Data,"NIIT Technologies, Birlasoft, Mphasis",Data Scientist
+8.6,Software Dev,Java,Backend,"SAP, TCS, IBM",Data Analyst
+7.0,DevOps,TypeScript,DevOps,"Wipro, HCL, Infosys",System Engineer
+6.4,Software Dev,Java,Big Data,"Birlasoft, Mphasis, NIIT Technologies",Software Developer
+7.0,Cloud,Python,DevOps,"Infosys, Wipro, HCL",Cloud Engineer
+8.9,Web Dev,JavaScript,Front End,"IBM, Oracle, TCS",Web Developer
+9.4,Web Dev,SQL,DBMS,"Amazon, Apple, OpenAI",Software Developer
+9.3,Cloud,SQL,DBMS,"IBM, Microsoft, Google",DevOps Engineer
+7.6,Cloud,Python,Cloud Computing,"Cognizant, HCL, Tech Mahindra",Cloud Engineer
+8.7,DevOps,TypeScript,DevOps,"Infosys, Capgemini, TCS",DevOps Engineer
+6.8,DevOps,Go,DevOps,"Mindtree, Mphasis, NIIT Technologies",DevOps Engineer
+7.2,Software Dev,Python,Data Analytics,"Tech Mahindra, Wipro, Cognizant",Software Developer
+9.6,Software Dev,Python,Big Data,"Microsoft, Google, IBM",System Engineer
+6.1,Cloud,SQL,Data Analytics,"Mphasis, HCL, NIIT Technologies",DevOps Engineer
+6.3,DevOps,SQL,Data Analytics,"Birlasoft, HCL, Mindtree",DevOps Engineer
+6.8,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Birlasoft, Mphasis",Cloud Engineer
+6.1,DevOps,Go,Cloud Computing,"Birlasoft, Mphasis, NIIT Technologies",System Engineer
+6.7,Cloud,Python,Cloud Computing,"Mphasis, Mindtree, Birlasoft",Cloud Engineer
+8.3,Cybersecurity,C++,AI,"Infosys, IBM, Capgemini",Cybersecurity Engineer
+7.7,DevOps,SQL,DBMS,"TCS, Wipro, HCL",DevOps Engineer
+9.6,Web Dev,TypeScript,Front End,"IBM, Microsoft, Amazon",Web Developer
+9.3,Web Dev,JavaScript,Front End,"Amazon, Apple, OpenAI",Software Developer
+7.4,Cybersecurity,Rust,Front End,"HCL, TCS, Cognizant",Cybersecurity Engineer
+7.0,Cloud,Python,Cloud Computing,"Tech Mahindra, Wipro, Cognizant",Cloud Engineer
+7.5,Cybersecurity,C++,Cybersecurity,"TCS, HCL, Cognizant",Cloud Engineer
+8.4,DevOps,Go,DevOps,"TCS, IBM, Capgemini",System Engineer
+7.1,Web Dev,TypeScript,Front End,"TCS, Cognizant, Tech Mahindra",Software Developer
+8.5,Cybersecurity,C++,AI,"SAP, Capgemini, IBM",Cybersecurity Engineer
+7.6,Cloud,Go,Cloud Computing,"Wipro, TCS, Cognizant",Cloud Engineer
+8.2,DevOps,TypeScript,DevOps,"Capgemini, Oracle, SAP",System Engineer
+7.7,Cloud,SQL,DBMS,"Wipro, Cognizant, TCS",DevOps Engineer
+7.2,Cloud,SQL,DBMS,"Infosys, TCS, HCL",Cloud Engineer
+9.8,Web Dev,TypeScript,Backend,"IBM, OpenAI, Google",Web Developer
+9.1,Cybersecurity,Rust,Front End,"Google, OpenAI, IBM",Cloud Engineer
+6.6,AIML,Java,AI,"Mphasis, NIIT Technologies, Birlasoft",Data Scientist
+9.5,Cybersecurity,Rust,Cybersecurity,"Google, OpenAI, NVIDIA",Cybersecurity Engineer
+7.9,Cybersecurity,Rust,Cybersecurity,"HCL, TCS, Wipro",Cybersecurity Engineer
+9.6,Cybersecurity,Rust,Cybersecurity,"Google, IBM, Apple",Cloud Engineer
+9.2,Web Dev,TypeScript,Front End,"Amazon, OpenAI, Microsoft",Web Developer
+7.7,Cloud,Go,Big Data,"HCL, Tech Mahindra, Infosys",Cloud Engineer
+6.1,DevOps,SQL,Data Analytics,"HCL, Mphasis, Mindtree",System Engineer
+7.1,Cybersecurity,Rust,Cybersecurity,"Infosys, Wipro, HCL",Cloud Engineer
+8.2,Web Dev,JavaScript,Front End,"Infosys, TCS, Capgemini",Web Developer
+8.5,AIML,Python,Big Data,"IBM, Oracle, Infosys",Data Scientist
+7.0,Cloud,SQL,Data Analytics,"Cognizant, Infosys, Tech Mahindra",Cloud Engineer
+6.6,AIML,R,ML,"Mphasis, NIIT Technologies, Birlasoft",Data Scientist
+9.3,Software Dev,Java,Big Data,"Google, Apple, Microsoft",System Engineer
+9.9,DevOps,TypeScript,DevOps,"NVIDIA, Google, IBM",DevOps Engineer
+8.1,DevOps,SQL,Data Analytics,"Infosys, Oracle, SAP",DevOps Engineer
+6.7,Cybersecurity,Rust,Cybersecurity,"Mindtree, Mphasis, Birlasoft",Cloud Engineer
+7.1,AIML,Java,Big Data,"Wipro, HCL, Infosys",Data Scientist
+6.1,Web Dev,JavaScript,Backend,"Birlasoft, Mphasis, HCL",Web Developer
+9.7,Cybersecurity,Rust,Cybersecurity,"Amazon, Apple, OpenAI",Cybersecurity Engineer
+6.5,Software Dev,C#,Backend,"NIIT Technologies, Birlasoft, Mindtree",Software Developer
+8.3,DevOps,Go,Cloud Computing,"Oracle, Capgemini, Infosys",System Engineer
+7.1,Cybersecurity,Rust,Front End,"Cognizant, Infosys, Tech Mahindra",Cybersecurity Engineer
+8.2,Software Dev,C#,Backend,"Capgemini, Oracle, SAP",System Engineer
+8.6,DevOps,Go,Cloud Computing,"TCS, IBM, SAP",DevOps Engineer
+9.3,AIML,Python,Big Data,"Amazon, Microsoft, IBM",Data Scientist
+6.8,DevOps,TypeScript,DevOps,"Mphasis, Birlasoft, Mindtree",System Engineer
+6.0,Software Dev,C#,DBMS,"Mindtree, NIIT Technologies, Birlasoft",System Engineer
+6.5,Cloud,SQL,DBMS,"Mindtree, NIIT Technologies, Birlasoft",Cloud Engineer
+9.6,Software Dev,Python,Data Analytics,"Google, IBM, OpenAI",System Engineer
+9.5,Cloud,Go,Cloud Computing,"OpenAI, IBM, Google",Cloud Engineer
+8.4,Web Dev,TypeScript,Front End,"IBM, Capgemini, Oracle",Software Developer
+8.4,AIML,R,Data Analytics,"IBM, Infosys, Capgemini",AI Engineer
+8.7,Cloud,Python,DevOps,"Infosys, TCS, IBM",DevOps Engineer
+6.7,Web Dev,TypeScript,Front End,"Mindtree, Birlasoft, Mphasis",Software Developer
+9.7,Cloud,SQL,DBMS,"Google, OpenAI, Microsoft",DevOps Engineer
+7.7,Software Dev,Java,Big Data,"HCL, Tech Mahindra, Infosys",Data Analyst
+7.5,Cloud,Python,DevOps,"TCS, Tech Mahindra, Wipro",DevOps Engineer
+8.1,Cybersecurity,Rust,Front End,"IBM, SAP, TCS",Cybersecurity Engineer
+6.2,AIML,R,Data Analytics,"Mphasis, HCL, Mindtree",Data Scientist
+6.7,AIML,R,ML,"Mphasis, NIIT Technologies, Birlasoft",Data Scientist
+9.0,DevOps,TypeScript,Backend,"OpenAI, Microsoft, Google",System Engineer
+6.3,Cybersecurity,Rust,Front End,"HCL, Birlasoft, Mphasis",Cybersecurity Engineer
+8.4,Cloud,SQL,Data Analytics,"SAP, IBM, Oracle",Cloud Engineer
+7.0,Web Dev,JavaScript,Backend,"Wipro, TCS, Tech Mahindra",Software Developer
+7.6,AIML,Python,ML,"Infosys, Tech Mahindra, TCS",Data Scientist
+7.2,DevOps,TypeScript,DevOps,"Cognizant, HCL, TCS",System Engineer
+7.4,DevOps,Go,Cloud Computing,"Infosys, Tech Mahindra, Wipro",System Engineer
+8.9,Web Dev,TypeScript,Backend,"Infosys, TCS, Capgemini",Web Developer
+7.2,Web Dev,JavaScript,Front End,"Wipro, Infosys, HCL",Software Developer
+8.3,AIML,R,ML,"IBM, Oracle, SAP",AI Engineer
+7.9,DevOps,TypeScript,DevOps,"Infosys, Tech Mahindra, Wipro",System Engineer
+8.7,AIML,Java,Big Data,"IBM, Infosys, SAP",Data Scientist
+9.7,Software Dev,Java,Big Data,"Amazon, NVIDIA, Google",System Engineer
+8.9,Cloud,Python,DevOps,"Capgemini, TCS, Oracle",Cloud Engineer
+6.9,Software Dev,Java,Backend,"Mindtree, Birlasoft, Mphasis",System Engineer
+6.1,DevOps,Go,DevOps,"NIIT Technologies, Mindtree, Mphasis",System Engineer
+7.0,Software Dev,Python,Big Data,"TCS, Cognizant, HCL",System Engineer
+8.4,AIML,Java,Big Data,"Capgemini, TCS, Oracle",Data Scientist
+6.2,Web Dev,TypeScript,Backend,"Mphasis, HCL, Mindtree",Web Developer
+8.0,AIML,Python,Big Data,"IBM, TCS, Capgemini",AI Engineer
+8.4,AIML,R,Data Analytics,"SAP, Capgemini, Oracle",AI Engineer
+7.3,Cloud,Go,Big Data,"TCS, Wipro, Tech Mahindra",Cloud Engineer
+9.1,DevOps,Go,DevOps,"Google, Amazon, OpenAI",System Engineer
+6.4,Cloud,Go,Big Data,"Mindtree, HCL, Birlasoft",Cloud Engineer
+6.3,Software Dev,C#,DBMS,"Mindtree, NIIT Technologies, Birlasoft",Software Developer
+8.9,Software Dev,Python,Data Analytics,"Infosys, SAP, Capgemini",Software Developer
+8.0,AIML,R,Data Analytics,"Capgemini, SAP, Infosys",Data Scientist
+8.8,Cybersecurity,C++,AI,"SAP, Capgemini, TCS",Cloud Engineer
+7.7,AIML,Python,ML,"Wipro, Cognizant, TCS",Data Scientist
+7.0,Cloud,SQL,Data Analytics,"Cognizant, Infosys, TCS",Cloud Engineer
+9.3,Cybersecurity,C++,AI,"Google, NVIDIA, Microsoft",Cloud Engineer
+9.2,Software Dev,C#,Backend,"Apple, IBM, OpenAI",Data Analyst
+8.8,Cloud,Go,Big Data,"TCS, IBM, SAP",DevOps Engineer
+7.1,AIML,R,Data Analytics,"HCL, Infosys, Wipro",Data Scientist
+8.4,AIML,Python,Big Data,"SAP, IBM, Infosys",Data Scientist
+7.4,DevOps,TypeScript,DevOps,"HCL, Infosys, TCS",System Engineer
+6.4,Software Dev,Python,Big Data,"NIIT Technologies, HCL, Mindtree",Data Analyst
+9.7,Cloud,Go,Cloud Computing,"Microsoft, Amazon, Google",DevOps Engineer
+6.5,AIML,R,ML,"Mindtree, Mphasis, Birlasoft",Data Scientist
+9.8,Cybersecurity,Rust,Cybersecurity,"IBM, NVIDIA, Apple",Cloud Engineer
+7.8,Cloud,Go,Cloud Computing,"TCS, HCL, Infosys",Cloud Engineer
+6.7,Cybersecurity,Rust,Front End,"Mphasis, Mindtree, NIIT Technologies",Cloud Engineer
+8.2,AIML,Java,Big Data,"IBM, Oracle, TCS",AI Engineer
+9.5,Cloud,Python,Cloud Computing,"Amazon, IBM, Google",Cloud Engineer
+8.9,Web Dev,SQL,Data Analytics,"Capgemini, Infosys, IBM",Web Developer
+9.2,AIML,Python,ML,"Microsoft, Google, Apple",Data Scientist
+8.6,DevOps,SQL,Data Analytics,"TCS, Oracle, Infosys",System Engineer
+8.8,AIML,Java,Big Data,"Infosys, SAP, TCS",Data Scientist
+9.4,DevOps,Go,Cloud Computing,"Google, IBM, NVIDIA",System Engineer
+7.0,Cybersecurity,C++,Cybersecurity,"Infosys, Tech Mahindra, TCS",Cloud Engineer
+8.0,Cloud,Python,Cloud Computing,"Infosys, Capgemini, SAP",DevOps Engineer
+6.9,Cloud,SQL,Data Analytics,"Birlasoft, Mindtree, Mphasis",DevOps Engineer
+10.0,Web Dev,TypeScript,Front End,"IBM, Microsoft, Google",Web Developer
+9.8,Web Dev,JavaScript,Front End,"Microsoft, Apple, IBM",Web Developer
+6.2,Software Dev,Python,Data Analytics,"Birlasoft, Mindtree, Mphasis",System Engineer
+8.8,Web Dev,TypeScript,Backend,"Capgemini, Oracle, Infosys",Software Developer
+9.7,DevOps,SQL,DBMS,"Google, OpenAI, Microsoft",DevOps Engineer
+6.7,AIML,Python,Big Data,"Mindtree, Mphasis, Birlasoft",Data Scientist
+8.3,Cybersecurity,Rust,Front End,"IBM, Oracle, Infosys",Cloud Engineer
+9.7,DevOps,SQL,DBMS,"IBM, OpenAI, Google",DevOps Engineer
+6.1,AIML,Java,AI,"HCL, NIIT Technologies, Mindtree",Data Scientist
+8.8,Web Dev,TypeScript,Backend,"TCS, SAP, Oracle",Software Developer
+7.2,Web Dev,JavaScript,Backend,"Infosys, HCL, TCS",Web Developer
+9.7,Cybersecurity,C++,Cybersecurity,"Google, Amazon, OpenAI",Cybersecurity Engineer
+9.9,Software Dev,Python,Data Analytics,"NVIDIA, Google, Apple",Software Developer
+9.8,Cloud,Go,Big Data,"Amazon, Microsoft, OpenAI",DevOps Engineer
+7.9,Web Dev,TypeScript,Backend,"Tech Mahindra, HCL, TCS",Software Developer
+9.4,Cybersecurity,C++,Cybersecurity,"Microsoft, OpenAI, Apple",Cybersecurity Engineer
+9.4,Web Dev,JavaScript,Front End,"IBM, Microsoft, Amazon",Software Developer
+7.3,Web Dev,TypeScript,Backend,"Cognizant, TCS, HCL",Software Developer
+9.3,Cloud,SQL,Data Analytics,"IBM, Amazon, NVIDIA",Cloud Engineer
+6.1,Cybersecurity,Rust,Front End,"Mindtree, NIIT Technologies, Mphasis",Cloud Engineer
+8.4,DevOps,Go,Cloud Computing,"SAP, Infosys, IBM",DevOps Engineer
+6.9,Cloud,SQL,DBMS,"NIIT Technologies, Mphasis, Mindtree",Cloud Engineer
+6.5,Cybersecurity,C++,Cybersecurity,"NIIT Technologies, Mindtree, Birlasoft",Cybersecurity Engineer
+6.3,Cloud,Python,DevOps,"Mphasis, Birlasoft, NIIT Technologies",Cloud Engineer
+8.8,DevOps,Go,DevOps,"Capgemini, SAP, IBM",System Engineer
+7.4,Cloud,SQL,DBMS,"Cognizant, Tech Mahindra, HCL",DevOps Engineer
+8.9,DevOps,TypeScript,Backend,"Infosys, Oracle, SAP",DevOps Engineer
+6.3,Web Dev,TypeScript,Backend,"NIIT Technologies, HCL, Mphasis",Web Developer
+7.3,AIML,R,Data Analytics,"Tech Mahindra, Infosys, Wipro",Data Scientist
+8.2,DevOps,Go,DevOps,"TCS, IBM, Infosys",System Engineer
+9.2,Software Dev,C#,DBMS,"NVIDIA, OpenAI, Apple",System Engineer
+7.3,AIML,R,Data Analytics,"Wipro, Tech Mahindra, HCL",Data Scientist
+8.5,Web Dev,TypeScript,Backend,"Capgemini, SAP, Infosys",Web Developer
+9.5,Cloud,Go,Cloud Computing,"Apple, IBM, NVIDIA",DevOps Engineer
+8.5,AIML,R,Data Analytics,"Infosys, Capgemini, SAP",AI Engineer
+6.9,Cloud,SQL,Data Analytics,"Birlasoft, NIIT Technologies, Mindtree",DevOps Engineer
+6.1,DevOps,TypeScript,DevOps,"NIIT Technologies, Mindtree, Mphasis",DevOps Engineer
+9.5,DevOps,SQL,Data Analytics,"IBM, OpenAI, Microsoft",System Engineer
+6.1,DevOps,TypeScript,Backend,"Mphasis, Mindtree, Birlasoft",System Engineer
+9.5,Cybersecurity,Rust,Cybersecurity,"IBM, Microsoft, OpenAI",Cybersecurity Engineer
+8.1,Web Dev,TypeScript,Backend,"IBM, Oracle, TCS",Web Developer
+9.8,DevOps,Go,DevOps,"Microsoft, Apple, NVIDIA",System Engineer
+9.2,AIML,R,Data Analytics,"OpenAI, Google, Apple",AI Engineer
+10.0,Cybersecurity,Rust,Front End,"OpenAI, Microsoft, Google",Cloud Engineer
+7.4,Web Dev,SQL,Data Analytics,"Tech Mahindra, HCL, TCS",Web Developer
+9.1,Software Dev,C#,Backend,"Google, Amazon, NVIDIA",System Engineer
+7.6,Cybersecurity,C++,AI,"Tech Mahindra, Cognizant, Infosys",Cybersecurity Engineer
+7.9,Web Dev,JavaScript,Front End,"Wipro, Cognizant, Tech Mahindra",Web Developer
+8.5,DevOps,SQL,Data Analytics,"SAP, IBM, Infosys",System Engineer
+9.5,Software Dev,C#,DBMS,"IBM, Amazon, Microsoft",Data Analyst
+9.9,Web Dev,SQL,DBMS,"NVIDIA, Google, Apple",Web Developer
+9.1,Cloud,Go,Cloud Computing,"OpenAI, Microsoft, Apple",Cloud Engineer
+7.7,Cloud,Python,Cloud Computing,"Cognizant, TCS, HCL",DevOps Engineer
+7.7,DevOps,Go,Cloud Computing,"Infosys, Cognizant, Wipro",DevOps Engineer
+9.0,Cloud,SQL,DBMS,"Google, OpenAI, Apple",Cloud Engineer
+7.0,Cloud,SQL,Data Analytics,"TCS, Infosys, Wipro",DevOps Engineer
+6.4,Software Dev,Java,Big Data,"HCL, NIIT Technologies, Mphasis",System Engineer
+7.4,Cloud,Python,Cloud Computing,"Infosys, Cognizant, HCL",DevOps Engineer
+7.1,Cybersecurity,Rust,Front End,"TCS, HCL, Infosys",Cybersecurity Engineer
+7.2,AIML,R,Data Analytics,"HCL, Cognizant, Wipro",Data Scientist
+6.9,Web Dev,TypeScript,Front End,"NIIT Technologies, Mphasis, Birlasoft",Web Developer
+6.2,Cybersecurity,Rust,Cybersecurity,"Mindtree, Mphasis, Birlasoft",Cybersecurity Engineer
+6.1,Cybersecurity,C++,Cybersecurity,"Mindtree, Mphasis, HCL",Cloud Engineer
+10.0,Cloud,Go,Cloud Computing,"OpenAI, NVIDIA, Microsoft",Cloud Engineer
+7.7,AIML,Python,Big Data,"Tech Mahindra, TCS, HCL",Data Scientist
+7.5,Cloud,SQL,Data Analytics,"Cognizant, TCS, Infosys",DevOps Engineer
+8.7,Cloud,Python,DevOps,"Capgemini, Infosys, Oracle",Cloud Engineer
+6.9,Web Dev,SQL,Data Analytics,"NIIT Technologies, Mindtree, Birlasoft",Software Developer
+9.8,Web Dev,JavaScript,Front End,"Microsoft, Amazon, NVIDIA",Web Developer
+9.1,Web Dev,SQL,DBMS,"Apple, OpenAI, Google",Software Developer
+6.4,Cybersecurity,Rust,Front End,"Mindtree, Mphasis, NIIT Technologies",Cloud Engineer
+7.7,Web Dev,SQL,DBMS,"Tech Mahindra, TCS, HCL",Web Developer
+9.5,DevOps,SQL,DBMS,"NVIDIA, Apple, IBM",System Engineer
+9.8,Cloud,Go,Cloud Computing,"NVIDIA, IBM, OpenAI",Cloud Engineer
+7.9,DevOps,SQL,DBMS,"Tech Mahindra, TCS, Infosys",DevOps Engineer
+8.5,DevOps,Go,DevOps,"Capgemini, Oracle, IBM",System Engineer
+6.7,DevOps,SQL,DBMS,"Birlasoft, Mphasis, Mindtree",DevOps Engineer
+10.0,AIML,R,ML,"OpenAI, Microsoft, Apple",AI Engineer
+6.9,Software Dev,Python,Big Data,"Mindtree, Birlasoft, Mphasis",System Engineer
+9.8,Cloud,Go,Cloud Computing,"Apple, IBM, OpenAI",DevOps Engineer
+8.6,Cybersecurity,Rust,Cybersecurity,"IBM, Capgemini, SAP",Cybersecurity Engineer
+8.4,AIML,Java,AI,"Capgemini, IBM, Infosys",Data Scientist
+8.1,DevOps,SQL,DBMS,"IBM, Oracle, Infosys",DevOps Engineer
+6.9,DevOps,Go,DevOps,"Mphasis, NIIT Technologies, Mindtree",DevOps Engineer
+6.7,Software Dev,Python,Data Analytics,"Birlasoft, NIIT Technologies, Mindtree",System Engineer
+6.9,Web Dev,SQL,Data Analytics,"Birlasoft, Mphasis, Mindtree",Software Developer
+6.7,DevOps,SQL,Data Analytics,"Birlasoft, Mphasis, Mindtree",DevOps Engineer
+9.1,Cybersecurity,Rust,Front End,"Microsoft, NVIDIA, Google",Cybersecurity Engineer
+7.4,DevOps,SQL,DBMS,"HCL, Tech Mahindra, Infosys",DevOps Engineer
+6.2,AIML,Java,AI,"Birlasoft, HCL, NIIT Technologies",Data Scientist
+9.9,Software Dev,C#,Backend,"Amazon, OpenAI, Google",Software Developer
+9.5,Cybersecurity,C++,Cybersecurity,"OpenAI, Microsoft, Amazon",Cybersecurity Engineer
+9.7,Cybersecurity,Rust,Front End,"Microsoft, Apple, NVIDIA",Cloud Engineer
+10.0,AIML,R,Data Analytics,"NVIDIA, Amazon, OpenAI",AI Engineer
+6.7,Web Dev,SQL,DBMS,"Mindtree, Birlasoft, Mphasis",Web Developer
+7.6,DevOps,TypeScript,Backend,"TCS, HCL, Wipro",System Engineer
+9.0,Web Dev,SQL,Data Analytics,"NVIDIA, Apple, IBM",Software Developer
+8.8,Cybersecurity,Rust,Front End,"Capgemini, SAP, Oracle",Cybersecurity Engineer
+6.6,AIML,Java,AI,"Mindtree, Mphasis, Birlasoft",Data Scientist
+9.3,Software Dev,Java,Backend,"NVIDIA, OpenAI, Apple",System Engineer
+6.9,Cybersecurity,Rust,Front End,"Birlasoft, NIIT Technologies, Mindtree",Cybersecurity Engineer
+6.9,Cybersecurity,C++,AI,"Mphasis, Mindtree, Birlasoft",Cybersecurity Engineer
+8.1,Cybersecurity,Rust,Front End,"Infosys, Capgemini, TCS",Cybersecurity Engineer
+8.4,Software Dev,Python,Big Data,"Oracle, Infosys, TCS",Data Analyst
+8.3,Cybersecurity,C++,AI,"IBM, Capgemini, Infosys",Cloud Engineer
+6.4,Cybersecurity,Rust,Cybersecurity,"Mindtree, HCL, NIIT Technologies",Cybersecurity Engineer
+9.5,Web Dev,SQL,DBMS,"IBM, NVIDIA, Microsoft",Web Developer
+7.1,Cloud,Go,Big Data,"TCS, Infosys, Tech Mahindra",DevOps Engineer
+6.5,Cybersecurity,Rust,Cybersecurity,"Mphasis, Birlasoft, NIIT Technologies",Cloud Engineer
+9.6,Web Dev,TypeScript,Front End,"Apple, NVIDIA, Amazon",Web Developer
+9.8,Cybersecurity,Rust,Front End,"OpenAI, Google, Apple",Cybersecurity Engineer
+9.4,AIML,Java,AI,"OpenAI, Google, IBM",AI Engineer
+9.2,Software Dev,Java,Big Data,"IBM, OpenAI, Google",System Engineer
+8.6,DevOps,Go,DevOps,"Capgemini, TCS, SAP",System Engineer
+8.2,Cybersecurity,Rust,Front End,"Infosys, TCS, Capgemini",Cybersecurity Engineer
+6.3,AIML,Java,Big Data,"NIIT Technologies, Birlasoft, Mphasis",Data Scientist
+7.6,Cloud,SQL,Data Analytics,"Tech Mahindra, Wipro, Cognizant",Cloud Engineer
+7.5,Cloud,SQL,DBMS,"Infosys, Cognizant, Wipro",Cloud Engineer
+7.0,Web Dev,JavaScript,Front End,"HCL, Wipro, Cognizant",Software Developer
+8.9,AIML,Java,AI,"Infosys, SAP, Capgemini",AI Engineer
+8.0,AIML,R,ML,"IBM, Capgemini, Oracle",AI Engineer
+6.3,AIML,Python,Big Data,"Mindtree, HCL, Mphasis",Data Scientist
+6.9,AIML,Python,ML,"NIIT Technologies, Mphasis, Mindtree",Data Scientist
+8.7,Cloud,Python,Cloud Computing,"SAP, Capgemini, IBM",DevOps Engineer
+6.3,Software Dev,Java,Backend,"NIIT Technologies, HCL, Birlasoft",System Engineer
+9.4,Software Dev,Java,Backend,"IBM, NVIDIA, Apple",Data Analyst
+8.0,Cloud,Python,Cloud Computing,"Capgemini, Infosys, IBM",DevOps Engineer
+7.9,Cybersecurity,C++,Cybersecurity,"TCS, Tech Mahindra, HCL",Cloud Engineer
+8.4,AIML,R,Data Analytics,"Oracle, SAP, Capgemini",AI Engineer
+9.3,Software Dev,C#,DBMS,"Microsoft, IBM, Amazon",Software Developer
+7.4,Cybersecurity,C++,AI,"TCS, Infosys, Cognizant",Cloud Engineer
+8.7,DevOps,Go,Cloud Computing,"SAP, Capgemini, Infosys",DevOps Engineer
+8.3,Cloud,SQL,DBMS,"TCS, Capgemini, Oracle",DevOps Engineer
+7.1,AIML,Java,AI,"Cognizant, Tech Mahindra, Wipro",Data Scientist
+9.5,Cybersecurity,Rust,Cybersecurity,"NVIDIA, Google, Apple",Cloud Engineer
+9.2,DevOps,Go,Cloud Computing,"OpenAI, Google, Amazon",DevOps Engineer
+8.6,Software Dev,Java,Big Data,"Infosys, TCS, SAP",System Engineer
+9.4,Cloud,Go,Big Data,"Microsoft, NVIDIA, Apple",Cloud Engineer
+9.5,AIML,Java,AI,"NVIDIA, IBM, Apple",AI Engineer
+8.8,Cloud,SQL,Data Analytics,"Infosys, Capgemini, Oracle",DevOps Engineer
+9.3,DevOps,Go,DevOps,"Apple, IBM, Amazon",DevOps Engineer
+8.8,Software Dev,Python,Big Data,"TCS, Infosys, SAP",Software Developer
+8.7,Software Dev,C#,DBMS,"TCS, Infosys, SAP",Software Developer
+8.5,AIML,Java,AI,"TCS, IBM, Infosys",AI Engineer
+9.0,DevOps,Go,DevOps,"IBM, Apple, Google",DevOps Engineer
+6.6,Web Dev,JavaScript,Front End,"Mphasis, NIIT Technologies, Birlasoft",Web Developer
+9.5,DevOps,Go,Cloud Computing,"NVIDIA, Apple, Amazon",System Engineer
+9.5,Cybersecurity,Rust,Cybersecurity,"Microsoft, OpenAI, Google",Cloud Engineer
+6.1,AIML,Java,AI,"Birlasoft, Mindtree, HCL",Data Scientist
+9.3,Web Dev,JavaScript,Front End,"NVIDIA, OpenAI, IBM",Web Developer
+6.5,Software Dev,C#,Backend,"Mindtree, NIIT Technologies, Mphasis",Data Analyst
+7.3,Web Dev,SQL,DBMS,"Cognizant, Infosys, Tech Mahindra",Software Developer
+9.0,Software Dev,Java,Big Data,"Apple, NVIDIA, IBM",Software Developer
+6.6,Cybersecurity,C++,AI,"Mphasis, NIIT Technologies, Mindtree",Cybersecurity Engineer
+9.3,Cybersecurity,C++,AI,"Microsoft, NVIDIA, IBM",Cybersecurity Engineer
+9.3,Cybersecurity,C++,Cybersecurity,"Microsoft, IBM, Apple",Cybersecurity Engineer
+8.0,Web Dev,JavaScript,Front End,"TCS, Capgemini, IBM",Web Developer
+6.0,DevOps,SQL,Data Analytics,"Mindtree, Birlasoft, HCL",DevOps Engineer
+7.1,Software Dev,C#,DBMS,"Tech Mahindra, Wipro, Cognizant",System Engineer
+8.5,DevOps,SQL,DBMS,"TCS, Oracle, Infosys",System Engineer
+9.9,Software Dev,C#,Backend,"Amazon, Apple, Microsoft",Data Analyst
+8.5,Cybersecurity,C++,AI,"Capgemini, SAP, IBM",Cybersecurity Engineer
+7.0,Cloud,Go,Big Data,"Infosys, TCS, Wipro",DevOps Engineer
+8.5,Software Dev,C#,DBMS,"TCS, Infosys, IBM",Software Developer
+8.2,Software Dev,C#,Backend,"IBM, Infosys, Oracle",System Engineer
+9.1,Cybersecurity,Rust,Cybersecurity,"Apple, NVIDIA, OpenAI",Cybersecurity Engineer
+6.4,Cybersecurity,C++,AI,"Birlasoft, Mindtree, HCL",Cybersecurity Engineer
+9.0,DevOps,TypeScript,Backend,"NVIDIA, Microsoft, OpenAI",DevOps Engineer
+8.2,DevOps,Go,Cloud Computing,"SAP, Oracle, TCS",System Engineer
+9.9,DevOps,SQL,Data Analytics,"OpenAI, Apple, Amazon",DevOps Engineer
+7.4,Cybersecurity,C++,AI,"HCL, TCS, Wipro",Cybersecurity Engineer
+8.5,Web Dev,JavaScript,Front End,"SAP, Infosys, Capgemini",Web Developer
+9.7,Cybersecurity,Rust,Cybersecurity,"NVIDIA, Amazon, OpenAI",Cloud Engineer
+6.4,Software Dev,Python,Big Data,"NIIT Technologies, Birlasoft, Mphasis",Data Analyst
+9.7,Web Dev,TypeScript,Front End,"OpenAI, Apple, Amazon",Web Developer
+8.8,Cybersecurity,Rust,Cybersecurity,"TCS, Oracle, SAP",Cybersecurity Engineer
+6.3,Software Dev,C#,DBMS,"HCL, Mphasis, Birlasoft",Data Analyst
+7.2,DevOps,TypeScript,DevOps,"Tech Mahindra, Cognizant, HCL",System Engineer
+8.8,Cybersecurity,Rust,Front End,"TCS, SAP, Oracle",Cloud Engineer
+6.3,Cybersecurity,Rust,Front End,"NIIT Technologies, Mindtree, Mphasis",Cybersecurity Engineer
+8.3,Cloud,Python,DevOps,"Infosys, TCS, IBM",Cloud Engineer
+7.4,DevOps,Go,Cloud Computing,"HCL, Tech Mahindra, Wipro",System Engineer
+8.5,Web Dev,JavaScript,Backend,"SAP, Infosys, Capgemini",Software Developer
+6.2,DevOps,Go,DevOps,"Mindtree, NIIT Technologies, Birlasoft",DevOps Engineer
+9.5,Cloud,Python,Cloud Computing,"Google, IBM, Amazon",DevOps Engineer
+9.9,Web Dev,TypeScript,Backend,"NVIDIA, Google, Apple",Software Developer
+9.9,Software Dev,Java,Big Data,"Microsoft, OpenAI, NVIDIA",Data Analyst
+9.0,DevOps,TypeScript,DevOps,"Microsoft, Amazon, OpenAI",DevOps Engineer
+6.5,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Birlasoft, Mindtree",Cloud Engineer
+9.0,Software Dev,C#,DBMS,"OpenAI, Microsoft, Google",Software Developer
+6.1,DevOps,TypeScript,DevOps,"Mindtree, Birlasoft, Mphasis",DevOps Engineer
+6.1,Software Dev,C#,DBMS,"HCL, Mphasis, Birlasoft",System Engineer
+7.3,Software Dev,Java,Backend,"Tech Mahindra, Infosys, Wipro",Software Developer
+8.0,AIML,Java,Big Data,"Infosys, TCS, SAP",AI Engineer
+9.1,Cloud,SQL,Data Analytics,"OpenAI, Apple, Google",Cloud Engineer
+8.7,DevOps,TypeScript,Backend,"Infosys, TCS, Capgemini",DevOps Engineer
+7.8,Web Dev,TypeScript,Front End,"Infosys, TCS, Wipro",Software Developer
+7.1,Web Dev,TypeScript,Backend,"Infosys, Wipro, TCS",Web Developer
+10.0,Software Dev,Python,Data Analytics,"OpenAI, Google, Amazon",Data Analyst
+7.7,AIML,Python,Big Data,"HCL, TCS, Tech Mahindra",Data Scientist
+7.8,Web Dev,TypeScript,Front End,"HCL, Wipro, Tech Mahindra",Software Developer
+6.7,AIML,Python,ML,"Birlasoft, Mphasis, Mindtree",Data Scientist
+9.2,Cybersecurity,C++,AI,"Apple, OpenAI, NVIDIA",Cloud Engineer
+8.8,Cybersecurity,Rust,Cybersecurity,"Capgemini, SAP, IBM",Cloud Engineer
+6.9,AIML,Python,Big Data,"Mindtree, Birlasoft, NIIT Technologies",Data Scientist
+6.3,Cloud,Python,Cloud Computing,"Mindtree, HCL, Birlasoft",Cloud Engineer
+8.7,Software Dev,Python,Data Analytics,"Infosys, TCS, IBM",Data Analyst
+8.6,Web Dev,TypeScript,Backend,"TCS, IBM, SAP",Software Developer
+7.1,Cloud,Go,Cloud Computing,"Wipro, Tech Mahindra, Infosys",Cloud Engineer
+9.8,Cybersecurity,Rust,Cybersecurity,"IBM, Amazon, NVIDIA",Cybersecurity Engineer
+6.6,AIML,R,ML,"Mindtree, NIIT Technologies, Mphasis",Data Scientist
+7.7,AIML,Python,ML,"Wipro, Tech Mahindra, Cognizant",Data Scientist
+9.8,Software Dev,Python,Big Data,"NVIDIA, Amazon, Apple",System Engineer
+7.7,Web Dev,JavaScript,Backend,"TCS, Tech Mahindra, Infosys",Web Developer
+8.6,Cybersecurity,Rust,Cybersecurity,"Oracle, Infosys, TCS",Cybersecurity Engineer
+7.6,Cybersecurity,Rust,Front End,"Cognizant, Tech Mahindra, Wipro",Cloud Engineer
+7.1,Software Dev,C#,Backend,"Cognizant, Wipro, Infosys",Data Analyst
+9.9,Cybersecurity,Rust,Cybersecurity,"Google, Apple, Amazon",Cybersecurity Engineer
+7.6,Cloud,Python,Cloud Computing,"HCL, Wipro, Cognizant",Cloud Engineer
+9.6,AIML,R,Data Analytics,"Google, Microsoft, IBM",Data Scientist
+6.9,Software Dev,Java,Big Data,"NIIT Technologies, Birlasoft, Mindtree",System Engineer
+6.9,AIML,Python,ML,"NIIT Technologies, Mindtree, Birlasoft",Data Scientist
+6.1,DevOps,SQL,Data Analytics,"Birlasoft, Mphasis, Mindtree",DevOps Engineer
+8.6,Cybersecurity,Rust,Cybersecurity,"IBM, SAP, Oracle",Cybersecurity Engineer
+7.5,DevOps,TypeScript,Backend,"HCL, Infosys, Cognizant",System Engineer
+9.5,Cloud,Python,Cloud Computing,"Amazon, IBM, Apple",DevOps Engineer
+7.9,Software Dev,C#,Backend,"Cognizant, Infosys, TCS",System Engineer
+9.9,Software Dev,C#,Backend,"Microsoft, Amazon, Google",Data Analyst
+6.7,Cloud,Go,Cloud Computing,"Mindtree, Birlasoft, NIIT Technologies",DevOps Engineer
+9.5,Web Dev,SQL,Data Analytics,"OpenAI, Apple, NVIDIA",Web Developer
+9.1,DevOps,TypeScript,Backend,"Apple, Microsoft, NVIDIA",DevOps Engineer
+9.1,Cloud,SQL,Data Analytics,"NVIDIA, OpenAI, IBM",Cloud Engineer
+9.4,Cloud,Python,Cloud Computing,"OpenAI, Amazon, IBM",DevOps Engineer
+9.0,AIML,Python,Big Data,"IBM, Microsoft, Apple",AI Engineer
+8.5,Software Dev,Java,Backend,"TCS, SAP, Oracle",Software Developer
+6.5,Software Dev,Java,Big Data,"Mindtree, Mphasis, NIIT Technologies",System Engineer
+6.1,DevOps,SQL,DBMS,"Birlasoft, Mphasis, Mindtree",DevOps Engineer
+9.7,AIML,Python,ML,"Google, Microsoft, NVIDIA",Data Scientist
+8.5,Software Dev,C#,DBMS,"Oracle, IBM, TCS",Data Analyst
+9.2,Cybersecurity,Rust,Cybersecurity,"Apple, Microsoft, IBM",Cybersecurity Engineer
+7.9,DevOps,SQL,DBMS,"Tech Mahindra, Infosys, Wipro",DevOps Engineer
+6.5,Cybersecurity,C++,AI,"Mindtree, Mphasis, Birlasoft",Cloud Engineer
+6.5,Web Dev,TypeScript,Front End,"Mphasis, Birlasoft, NIIT Technologies",Software Developer
+8.7,Web Dev,JavaScript,Backend,"Capgemini, SAP, IBM",Software Developer
+7.7,DevOps,SQL,DBMS,"HCL, Cognizant, Infosys",System Engineer
+6.8,Web Dev,TypeScript,Front End,"Mphasis, Mindtree, Birlasoft",Web Developer
+8.0,Web Dev,SQL,DBMS,"Capgemini, Infosys, TCS",Web Developer
+6.3,Cloud,SQL,Data Analytics,"HCL, Birlasoft, Mindtree",DevOps Engineer
+8.3,AIML,Java,AI,"TCS, Infosys, Capgemini",AI Engineer
+7.1,Web Dev,JavaScript,Backend,"Cognizant, Infosys, HCL",Web Developer
+9.2,Cybersecurity,Rust,Front End,"Microsoft, Google, Amazon",Cloud Engineer
+7.2,Cybersecurity,C++,Cybersecurity,"HCL, Tech Mahindra, Cognizant",Cybersecurity Engineer
+7.8,Cybersecurity,Rust,Cybersecurity,"Cognizant, Wipro, Infosys",Cloud Engineer
+6.0,AIML,Python,ML,"NIIT Technologies, Birlasoft, Mindtree",Data Scientist
+6.3,DevOps,SQL,DBMS,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+7.6,Web Dev,TypeScript,Front End,"Infosys, HCL, Tech Mahindra",Web Developer
+7.9,DevOps,TypeScript,Backend,"Tech Mahindra, Wipro, Infosys",DevOps Engineer
+8.4,Software Dev,Python,Big Data,"IBM, Oracle, Capgemini",Software Developer
+7.2,Cybersecurity,C++,Cybersecurity,"Tech Mahindra, Cognizant, HCL",Cybersecurity Engineer
+8.8,Web Dev,TypeScript,Front End,"Capgemini, SAP, TCS",Web Developer
+9.4,Web Dev,TypeScript,Front End,"Amazon, NVIDIA, OpenAI",Web Developer
+9.1,Web Dev,TypeScript,Front End,"Google, OpenAI, IBM",Software Developer
+6.2,AIML,Java,Big Data,"HCL, NIIT Technologies, Mindtree",Data Scientist
+7.9,Cybersecurity,C++,Cybersecurity,"Cognizant, Tech Mahindra, TCS",Cloud Engineer
+6.4,DevOps,Go,Cloud Computing,"NIIT Technologies, Mindtree, Mphasis",System Engineer
+7.0,AIML,Python,ML,"TCS, Cognizant, Tech Mahindra",Data Scientist
+9.9,DevOps,SQL,Data Analytics,"Google, Microsoft, IBM",DevOps Engineer
+6.6,Cloud,Go,Big Data,"Mindtree, Mphasis, NIIT Technologies",DevOps Engineer
+8.0,Cybersecurity,Rust,Cybersecurity,"Capgemini, Oracle, Infosys",Cloud Engineer
+8.5,DevOps,SQL,Data Analytics,"TCS, IBM, Oracle",System Engineer
+8.8,DevOps,Go,DevOps,"Infosys, IBM, SAP",DevOps Engineer
+8.2,AIML,R,Data Analytics,"IBM, TCS, Oracle",Data Scientist
+6.0,Web Dev,SQL,Data Analytics,"NIIT Technologies, Mindtree, Birlasoft",Web Developer
+7.3,Software Dev,Java,Big Data,"Infosys, Wipro, HCL",Data Analyst
+8.1,AIML,Python,Big Data,"IBM, SAP, Oracle",Data Scientist
+6.4,Cloud,Go,Cloud Computing,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+7.4,AIML,Python,ML,"Wipro, Tech Mahindra, Infosys",Data Scientist
+6.1,Software Dev,Java,Big Data,"Birlasoft, Mphasis, HCL",Data Analyst
+6.3,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Birlasoft, Mphasis",Cybersecurity Engineer
+7.6,AIML,R,Data Analytics,"Wipro, Tech Mahindra, HCL",Data Scientist
+6.5,Cybersecurity,Rust,Cybersecurity,"Mindtree, Birlasoft, NIIT Technologies",Cybersecurity Engineer
+8.3,DevOps,SQL,DBMS,"Infosys, Capgemini, Oracle",System Engineer
+8.8,DevOps,Go,DevOps,"Infosys, Capgemini, IBM",System Engineer
+9.2,DevOps,Go,DevOps,"Apple, IBM, Amazon",DevOps Engineer
+6.8,Software Dev,C#,DBMS,"Birlasoft, Mphasis, Mindtree",Software Developer
+6.7,Cloud,SQL,DBMS,"Birlasoft, Mindtree, Mphasis",DevOps Engineer
+6.4,Web Dev,JavaScript,Front End,"Birlasoft, Mphasis, NIIT Technologies",Web Developer
+8.5,Software Dev,Python,Big Data,"SAP, Oracle, Infosys",Data Analyst
+8.8,DevOps,TypeScript,DevOps,"Capgemini, SAP, IBM",System Engineer
+6.1,AIML,Java,AI,"Mphasis, Birlasoft, NIIT Technologies",Data Scientist
+9.7,AIML,Java,Big Data,"OpenAI, NVIDIA, Microsoft",AI Engineer
+6.2,AIML,R,Data Analytics,"Mindtree, Birlasoft, HCL",Data Scientist
+8.2,Cybersecurity,C++,Cybersecurity,"Oracle, IBM, Infosys",Cloud Engineer
+8.8,Software Dev,C#,DBMS,"IBM, Capgemini, TCS",Software Developer
+9.5,DevOps,Go,Cloud Computing,"Amazon, NVIDIA, IBM",DevOps Engineer
+8.9,DevOps,Go,DevOps,"Oracle, SAP, Capgemini",System Engineer
+9.2,Cybersecurity,C++,AI,"Amazon, OpenAI, Apple",Cybersecurity Engineer
+7.4,Web Dev,TypeScript,Backend,"Cognizant, TCS, HCL",Software Developer
+9.3,Web Dev,SQL,DBMS,"Amazon, NVIDIA, IBM",Software Developer
+6.3,DevOps,TypeScript,Backend,"Mindtree, HCL, Birlasoft",System Engineer
+9.6,DevOps,Go,DevOps,"Amazon, Google, Apple",DevOps Engineer
+8.2,Software Dev,Python,Big Data,"Capgemini, Infosys, SAP",System Engineer
+9.3,Web Dev,TypeScript,Front End,"Google, IBM, OpenAI",Web Developer
+7.8,Software Dev,Java,Big Data,"HCL, Wipro, Cognizant",Data Analyst
+8.6,Cloud,Go,Cloud Computing,"Capgemini, Oracle, TCS",DevOps Engineer
+8.1,Web Dev,JavaScript,Backend,"Infosys, IBM, Oracle",Software Developer
+8.9,DevOps,TypeScript,DevOps,"TCS, Infosys, Oracle",DevOps Engineer
+6.3,Cybersecurity,Rust,Cybersecurity,"Mindtree, HCL, NIIT Technologies",Cloud Engineer
+6.2,Software Dev,Python,Data Analytics,"Mphasis, Mindtree, Birlasoft",System Engineer
+7.0,Web Dev,JavaScript,Backend,"Tech Mahindra, Cognizant, Wipro",Web Developer
+6.6,Cloud,SQL,DBMS,"NIIT Technologies, Birlasoft, Mphasis",Cloud Engineer
+9.5,Cloud,Python,DevOps,"Google, Amazon, OpenAI",DevOps Engineer
+6.9,Cybersecurity,Rust,Front End,"NIIT Technologies, Mindtree, Mphasis",Cybersecurity Engineer
+9.9,AIML,Python,ML,"Amazon, OpenAI, IBM",AI Engineer
+7.3,Software Dev,Python,Big Data,"Infosys, HCL, Tech Mahindra",System Engineer
+6.7,Cybersecurity,C++,Cybersecurity,"Mindtree, Mphasis, Birlasoft",Cybersecurity Engineer
+9.2,Cloud,Python,DevOps,"Google, Microsoft, IBM",Cloud Engineer
+8.6,DevOps,Go,Cloud Computing,"Infosys, IBM, TCS",System Engineer
+8.0,Cybersecurity,Rust,Cybersecurity,"IBM, Infosys, Oracle",Cloud Engineer
+8.2,Software Dev,Python,Big Data,"SAP, Capgemini, TCS",Data Analyst
+8.9,DevOps,TypeScript,Backend,"SAP, Infosys, Oracle",DevOps Engineer
+6.9,DevOps,TypeScript,Backend,"NIIT Technologies, Mphasis, Birlasoft",System Engineer
+10.0,Cybersecurity,Rust,Front End,"Amazon, Google, NVIDIA",Cloud Engineer
+9.9,Cybersecurity,C++,AI,"IBM, Amazon, Microsoft",Cloud Engineer
+8.6,Web Dev,TypeScript,Backend,"Infosys, Oracle, IBM",Web Developer
+6.8,Cloud,Go,Big Data,"NIIT Technologies, Birlasoft, Mphasis",Cloud Engineer
+8.7,Cloud,SQL,Data Analytics,"TCS, IBM, SAP",Cloud Engineer
+6.3,Web Dev,SQL,DBMS,"Birlasoft, Mindtree, Mphasis",Software Developer
+6.1,Software Dev,Java,Backend,"HCL, Birlasoft, Mindtree",Data Analyst
+7.0,Web Dev,SQL,DBMS,"Tech Mahindra, Cognizant, Infosys",Software Developer
+7.9,Web Dev,SQL,DBMS,"Infosys, HCL, Tech Mahindra",Software Developer
+9.5,AIML,Java,Big Data,"Apple, Google, Amazon",Data Scientist
+8.9,DevOps,SQL,DBMS,"SAP, Capgemini, IBM",DevOps Engineer
+9.0,Cloud,Python,DevOps,"Apple, Microsoft, Amazon",Cloud Engineer
+7.7,Software Dev,Python,Data Analytics,"Cognizant, HCL, Tech Mahindra",Data Analyst
+7.4,AIML,Python,ML,"TCS, HCL, Wipro",Data Scientist
+7.5,Cloud,SQL,DBMS,"TCS, Tech Mahindra, Wipro",DevOps Engineer
+10.0,AIML,Java,AI,"Google, Microsoft, IBM",AI Engineer
+6.2,Software Dev,C#,Backend,"NIIT Technologies, HCL, Mindtree",Data Analyst
+9.5,AIML,R,Data Analytics,"Google, NVIDIA, OpenAI",Data Scientist
+8.3,DevOps,Go,DevOps,"Capgemini, Infosys, Oracle",System Engineer
+7.8,Software Dev,Java,Backend,"Wipro, Tech Mahindra, TCS",Data Analyst
+8.9,DevOps,SQL,DBMS,"Oracle, Capgemini, SAP",System Engineer
+7.9,Cloud,Go,Cloud Computing,"Wipro, Infosys, Tech Mahindra",DevOps Engineer
+9.5,Cloud,Go,Cloud Computing,"Google, Amazon, OpenAI",DevOps Engineer
+9.6,Cloud,SQL,DBMS,"NVIDIA, OpenAI, Microsoft",DevOps Engineer
+7.7,Web Dev,SQL,DBMS,"Cognizant, TCS, Wipro",Software Developer
+7.1,DevOps,SQL,Data Analytics,"Tech Mahindra, Cognizant, TCS",System Engineer
+8.4,AIML,Python,ML,"Infosys, SAP, Capgemini",AI Engineer
+9.6,Cloud,Python,Cloud Computing,"OpenAI, Microsoft, Amazon",Cloud Engineer
+6.8,AIML,Python,ML,"Birlasoft, Mphasis, Mindtree",Data Scientist
+8.5,Cloud,Go,Cloud Computing,"Capgemini, Oracle, IBM",Cloud Engineer
+8.5,Cybersecurity,Rust,Front End,"IBM, Infosys, SAP",Cybersecurity Engineer
+8.9,Software Dev,C#,DBMS,"Capgemini, Oracle, IBM",Data Analyst
+6.5,Cybersecurity,Rust,Front End,"Mphasis, NIIT Technologies, Mindtree",Cybersecurity Engineer
+8.9,Cloud,Go,Cloud Computing,"Infosys, Capgemini, SAP",DevOps Engineer
+9.6,Cloud,SQL,Data Analytics,"Google, IBM, Apple",Cloud Engineer
+6.7,Web Dev,TypeScript,Front End,"Mindtree, Mphasis, Birlasoft",Web Developer
+7.0,Software Dev,Java,Big Data,"HCL, Cognizant, Wipro",Data Analyst
+9.9,Software Dev,Java,Big Data,"IBM, NVIDIA, Amazon",Software Developer
+6.7,Web Dev,SQL,Data Analytics,"Mindtree, Birlasoft, NIIT Technologies",Web Developer
+9.4,AIML,Java,Big Data,"NVIDIA, Apple, Amazon",Data Scientist
+8.0,Cybersecurity,C++,AI,"Oracle, TCS, Infosys",Cybersecurity Engineer
+7.0,Cloud,Python,DevOps,"TCS, HCL, Tech Mahindra",DevOps Engineer
+9.5,Software Dev,Java,Backend,"Apple, Google, Amazon",System Engineer
+7.8,DevOps,Go,DevOps,"Cognizant, Infosys, HCL",System Engineer
+8.1,Cloud,Python,DevOps,"TCS, Oracle, IBM",DevOps Engineer
+7.4,Cloud,Go,Cloud Computing,"Infosys, Wipro, HCL",Cloud Engineer
+8.4,AIML,R,Data Analytics,"SAP, Oracle, Capgemini",AI Engineer
+6.7,Cybersecurity,C++,AI,"Mphasis, Mindtree, NIIT Technologies",Cybersecurity Engineer
+7.6,Cybersecurity,C++,AI,"Infosys, Tech Mahindra, HCL",Cloud Engineer
+9.9,Cybersecurity,C++,AI,"Apple, IBM, Amazon",Cloud Engineer
+7.0,Cloud,SQL,DBMS,"Infosys, Wipro, Cognizant",Cloud Engineer
+8.6,Web Dev,JavaScript,Front End,"IBM, TCS, Infosys",Web Developer
+7.3,Cloud,SQL,DBMS,"TCS, Wipro, Tech Mahindra",Cloud Engineer
+9.1,DevOps,Go,Cloud Computing,"Google, OpenAI, Amazon",DevOps Engineer
+6.5,Web Dev,SQL,Data Analytics,"NIIT Technologies, Mindtree, Mphasis",Web Developer
+9.9,Cybersecurity,C++,AI,"NVIDIA, Google, Apple",Cybersecurity Engineer
+7.8,AIML,Python,Big Data,"HCL, Tech Mahindra, Cognizant",Data Scientist
+6.9,Web Dev,TypeScript,Backend,"Mphasis, NIIT Technologies, Birlasoft",Web Developer
+6.3,AIML,R,ML,"NIIT Technologies, Mphasis, HCL",Data Scientist
+6.7,Software Dev,C#,Backend,"NIIT Technologies, Mphasis, Mindtree",Software Developer
+8.1,DevOps,SQL,Data Analytics,"IBM, SAP, Capgemini",DevOps Engineer
+7.3,DevOps,SQL,Data Analytics,"Infosys, TCS, HCL",DevOps Engineer
+9.3,Software Dev,Java,Big Data,"OpenAI, Google, IBM",System Engineer
+7.7,Cloud,SQL,DBMS,"Tech Mahindra, HCL, TCS",Cloud Engineer
+7.0,Web Dev,JavaScript,Front End,"HCL, TCS, Cognizant",Software Developer
+8.5,Cloud,SQL,Data Analytics,"Infosys, TCS, IBM",Cloud Engineer
+8.8,Software Dev,C#,DBMS,"TCS, Oracle, Infosys",Data Analyst
+6.7,Cybersecurity,Rust,Cybersecurity,"Birlasoft, Mphasis, NIIT Technologies",Cybersecurity Engineer
+6.7,Web Dev,JavaScript,Front End,"Mphasis, NIIT Technologies, Birlasoft",Web Developer
+6.1,DevOps,Go,DevOps,"Birlasoft, Mindtree, HCL",DevOps Engineer
+8.9,DevOps,SQL,Data Analytics,"TCS, Capgemini, IBM",System Engineer
+8.7,DevOps,Go,DevOps,"SAP, IBM, TCS",DevOps Engineer
+7.9,DevOps,SQL,Data Analytics,"TCS, HCL, Cognizant",DevOps Engineer
+9.4,Web Dev,JavaScript,Front End,"OpenAI, Google, Amazon",Web Developer
+9.2,Cloud,Python,DevOps,"Microsoft, IBM, OpenAI",Cloud Engineer
+8.3,AIML,R,ML,"Capgemini, Infosys, Oracle",Data Scientist
+9.5,AIML,R,ML,"IBM, Apple, Amazon",Data Scientist
+6.8,Cybersecurity,Rust,Cybersecurity,"Mindtree, NIIT Technologies, Mphasis",Cybersecurity Engineer
+6.4,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, Birlasoft, Mphasis",Cloud Engineer
+7.1,Web Dev,TypeScript,Front End,"Cognizant, Tech Mahindra, HCL",Web Developer
+6.2,AIML,Python,ML,"Mphasis, HCL, Mindtree",Data Scientist
+8.1,Software Dev,Java,Backend,"SAP, Capgemini, IBM",Software Developer
+9.7,Web Dev,TypeScript,Backend,"IBM, OpenAI, Amazon",Web Developer
+6.2,Software Dev,Java,Backend,"Birlasoft, NIIT Technologies, Mindtree",Software Developer
+6.5,AIML,R,ML,"Birlasoft, NIIT Technologies, Mindtree",Data Scientist
+7.8,AIML,Java,Big Data,"Infosys, Cognizant, TCS",Data Scientist
+9.7,DevOps,SQL,Data Analytics,"NVIDIA, Amazon, Google",System Engineer
+7.3,Cybersecurity,Rust,Front End,"Infosys, HCL, Wipro",Cloud Engineer
+8.0,Web Dev,TypeScript,Backend,"SAP, IBM, Infosys",Software Developer
+6.2,DevOps,Go,DevOps,"Mphasis, NIIT Technologies, Birlasoft",System Engineer
+6.6,AIML,Python,ML,"NIIT Technologies, Birlasoft, Mphasis",Data Scientist
+9.9,Web Dev,JavaScript,Front End,"Microsoft, OpenAI, IBM",Web Developer
+9.9,DevOps,Go,Cloud Computing,"Apple, NVIDIA, Amazon",System Engineer
+6.0,DevOps,TypeScript,Backend,"HCL, NIIT Technologies, Birlasoft",System Engineer
+9.8,Cloud,Python,DevOps,"Google, Amazon, NVIDIA",Cloud Engineer
+8.6,Cybersecurity,Rust,Cybersecurity,"Capgemini, IBM, TCS",Cybersecurity Engineer
+9.5,Software Dev,C#,Backend,"IBM, Amazon, NVIDIA",Data Analyst
+7.8,Cloud,Python,Cloud Computing,"Tech Mahindra, Wipro, HCL",Cloud Engineer
+8.1,DevOps,TypeScript,DevOps,"IBM, Capgemini, TCS",System Engineer
+8.0,Software Dev,Python,Data Analytics,"SAP, Oracle, Infosys",Software Developer
+8.7,Cybersecurity,C++,Cybersecurity,"Infosys, Oracle, Capgemini",Cloud Engineer
+6.6,Web Dev,SQL,Data Analytics,"Mindtree, NIIT Technologies, Mphasis",Web Developer
+6.1,Web Dev,TypeScript,Front End,"Mphasis, HCL, NIIT Technologies",Web Developer
+7.2,Cloud,Python,DevOps,"HCL, Tech Mahindra, Wipro",Cloud Engineer
+8.8,DevOps,SQL,DBMS,"TCS, IBM, Oracle",System Engineer
+6.8,AIML,Python,ML,"Mphasis, Mindtree, Birlasoft",Data Scientist
+8.7,DevOps,SQL,Data Analytics,"Oracle, Infosys, IBM",System Engineer
+9.9,Cybersecurity,C++,AI,"Apple, NVIDIA, Microsoft",Cybersecurity Engineer
+6.4,Cloud,Python,DevOps,"Birlasoft, HCL, Mphasis",Cloud Engineer
+8.7,AIML,Java,AI,"IBM, TCS, Infosys",Data Scientist
+7.8,Cloud,Go,Big Data,"Wipro, Tech Mahindra, Infosys",DevOps Engineer
+9.5,Web Dev,JavaScript,Backend,"Apple, OpenAI, Amazon",Web Developer
+6.7,Web Dev,JavaScript,Backend,"Mindtree, Birlasoft, Mphasis",Web Developer
+8.8,AIML,R,Data Analytics,"Capgemini, Oracle, SAP",Data Scientist
+9.4,Cybersecurity,Rust,Cybersecurity,"Apple, NVIDIA, Amazon",Cloud Engineer
+9.8,Cybersecurity,Rust,Front End,"Apple, OpenAI, Google",Cybersecurity Engineer
+8.7,Cloud,SQL,DBMS,"Capgemini, Infosys, IBM",DevOps Engineer
+8.0,Cybersecurity,C++,Cybersecurity,"IBM, SAP, Oracle",Cybersecurity Engineer
+8.5,Cloud,SQL,DBMS,"IBM, TCS, SAP",DevOps Engineer
+9.5,Cloud,Python,Cloud Computing,"NVIDIA, OpenAI, Amazon",Cloud Engineer
+8.3,DevOps,Go,Cloud Computing,"TCS, SAP, IBM",DevOps Engineer
+6.1,Cybersecurity,C++,Cybersecurity,"Birlasoft, Mindtree, HCL",Cybersecurity Engineer
+9.7,Cybersecurity,C++,Cybersecurity,"OpenAI, Amazon, Microsoft",Cybersecurity Engineer
+8.8,Cloud,Python,DevOps,"Infosys, IBM, Capgemini",DevOps Engineer
+8.7,AIML,Java,Big Data,"SAP, Infosys, IBM",Data Scientist
+6.9,Software Dev,C#,Backend,"Birlasoft, Mindtree, NIIT Technologies",Data Analyst
+8.6,AIML,R,ML,"Infosys, Capgemini, Oracle",AI Engineer
+7.6,Cloud,Go,Big Data,"TCS, Wipro, Cognizant",Cloud Engineer
+8.6,Cloud,SQL,Data Analytics,"Infosys, IBM, TCS",DevOps Engineer
+6.4,AIML,Java,Big Data,"Mindtree, HCL, NIIT Technologies",Data Scientist
+8.6,Web Dev,SQL,Data Analytics,"Infosys, SAP, Oracle",Software Developer
+10.0,Cybersecurity,Rust,Cybersecurity,"OpenAI, Microsoft, Apple",Cybersecurity Engineer
+6.2,Web Dev,TypeScript,Backend,"NIIT Technologies, Mphasis, HCL",Software Developer
+9.9,AIML,R,ML,"OpenAI, NVIDIA, Apple",AI Engineer
+7.6,AIML,R,ML,"HCL, Infosys, TCS",Data Scientist
+9.5,AIML,R,Data Analytics,"Google, Microsoft, NVIDIA",AI Engineer
+9.1,Web Dev,SQL,Data Analytics,"Microsoft, IBM, Amazon",Web Developer
+8.3,DevOps,TypeScript,Backend,"Oracle, IBM, Infosys",DevOps Engineer
+9.0,Cybersecurity,C++,Cybersecurity,"Google, Apple, OpenAI",Cybersecurity Engineer
+9.5,DevOps,Go,Cloud Computing,"Google, OpenAI, NVIDIA",System Engineer
+7.6,AIML,Python,Big Data,"Infosys, TCS, Tech Mahindra",Data Scientist
+7.3,Software Dev,Python,Big Data,"Infosys, Cognizant, HCL",Software Developer
+8.7,Cloud,SQL,Data Analytics,"Infosys, SAP, Capgemini",Cloud Engineer
+9.2,Cloud,Go,Big Data,"Google, Apple, IBM",Cloud Engineer
+9.0,Software Dev,Python,Data Analytics,"IBM, OpenAI, Apple",Software Developer
+9.2,Software Dev,Python,Big Data,"NVIDIA, Microsoft, Amazon",Data Analyst
+7.7,Web Dev,SQL,DBMS,"Tech Mahindra, Cognizant, Infosys",Software Developer
+9.3,Cloud,Python,Cloud Computing,"Amazon, Apple, NVIDIA",Cloud Engineer
+6.5,Software Dev,Python,Big Data,"Mindtree, Mphasis, Birlasoft",System Engineer
+8.2,Cybersecurity,C++,AI,"IBM, Infosys, TCS",Cybersecurity Engineer
+6.0,DevOps,TypeScript,Backend,"NIIT Technologies, Mphasis, HCL",DevOps Engineer
+7.3,Cybersecurity,Rust,Cybersecurity,"Wipro, Infosys, Tech Mahindra",Cloud Engineer
+7.5,Cloud,Go,Cloud Computing,"Tech Mahindra, HCL, TCS",Cloud Engineer
+7.6,Software Dev,Python,Big Data,"Wipro, TCS, HCL",Software Developer
+8.8,Cybersecurity,C++,AI,"TCS, Oracle, SAP",Cloud Engineer
+7.6,Web Dev,SQL,Data Analytics,"TCS, Wipro, Cognizant",Software Developer
+7.8,Cloud,SQL,DBMS,"Cognizant, HCL, TCS",Cloud Engineer
+7.0,DevOps,Go,DevOps,"HCL, TCS, Infosys",DevOps Engineer
+7.5,AIML,Java,Big Data,"Infosys, Tech Mahindra, Wipro",Data Scientist
+6.9,Web Dev,SQL,DBMS,"Mindtree, Birlasoft, Mphasis",Web Developer
+6.3,AIML,Python,ML,"HCL, Mindtree, Birlasoft",Data Scientist
+8.4,Cybersecurity,Rust,Front End,"IBM, Capgemini, Infosys",Cybersecurity Engineer
+8.7,Web Dev,JavaScript,Backend,"SAP, TCS, Infosys",Web Developer
+8.5,DevOps,Go,Cloud Computing,"Capgemini, SAP, Infosys",System Engineer
+7.9,DevOps,SQL,DBMS,"Infosys, TCS, Cognizant",System Engineer
+7.5,Cybersecurity,Rust,Front End,"Tech Mahindra, Infosys, Cognizant",Cybersecurity Engineer
+9.5,DevOps,TypeScript,Backend,"Apple, OpenAI, NVIDIA",DevOps Engineer
+8.1,Web Dev,JavaScript,Front End,"Infosys, IBM, Oracle",Software Developer
+7.9,Cloud,Go,Cloud Computing,"TCS, Wipro, Cognizant",Cloud Engineer
+6.1,AIML,R,Data Analytics,"Mindtree, Birlasoft, Mphasis",Data Scientist
+7.4,Web Dev,TypeScript,Backend,"Infosys, TCS, Cognizant",Web Developer
+7.5,Web Dev,JavaScript,Backend,"Wipro, Tech Mahindra, Cognizant",Web Developer
+7.6,AIML,Java,AI,"Cognizant, TCS, Infosys",Data Scientist
+8.3,Web Dev,JavaScript,Front End,"IBM, TCS, Capgemini",Web Developer
+8.1,Cybersecurity,C++,AI,"Capgemini, Oracle, IBM",Cloud Engineer
+8.4,AIML,Java,AI,"Infosys, Oracle, IBM",Data Scientist
+9.1,AIML,Python,Big Data,"IBM, Apple, OpenAI",Data Scientist
+9.3,Web Dev,TypeScript,Backend,"Google, IBM, OpenAI",Web Developer
+8.9,DevOps,SQL,DBMS,"SAP, Capgemini, TCS",DevOps Engineer
+9.8,Web Dev,TypeScript,Front End,"OpenAI, Microsoft, NVIDIA",Software Developer
+6.1,Web Dev,SQL,Data Analytics,"HCL, Mphasis, Mindtree",Web Developer
+6.8,Cloud,Go,Big Data,"Mindtree, Birlasoft, Mphasis",Cloud Engineer
+6.0,DevOps,Go,DevOps,"Birlasoft, Mindtree, HCL",DevOps Engineer
+8.6,Cloud,SQL,DBMS,"Infosys, Oracle, Capgemini",Cloud Engineer
+9.6,Cloud,SQL,DBMS,"Amazon, Microsoft, IBM",DevOps Engineer
+7.0,AIML,Java,Big Data,"Wipro, TCS, HCL",Data Scientist
+9.7,DevOps,TypeScript,DevOps,"Apple, OpenAI, IBM",System Engineer
+6.2,Web Dev,TypeScript,Backend,"NIIT Technologies, Birlasoft, Mindtree",Web Developer
+9.7,Web Dev,TypeScript,Front End,"Amazon, NVIDIA, OpenAI",Software Developer
+7.4,Web Dev,JavaScript,Backend,"HCL, Tech Mahindra, TCS",Software Developer
+6.4,Cybersecurity,C++,Cybersecurity,"Birlasoft, Mindtree, HCL",Cybersecurity Engineer
+7.9,Web Dev,SQL,Data Analytics,"Tech Mahindra, HCL, TCS",Software Developer
+7.0,Cloud,Python,DevOps,"Cognizant, Tech Mahindra, HCL",Cloud Engineer
+7.1,Cybersecurity,Rust,Front End,"Wipro, Cognizant, Tech Mahindra",Cloud Engineer
+7.2,Cloud,Go,Big Data,"Wipro, Infosys, HCL",Cloud Engineer
+9.2,DevOps,SQL,DBMS,"IBM, OpenAI, Amazon",DevOps Engineer
+8.2,Cybersecurity,C++,AI,"IBM, Oracle, SAP",Cybersecurity Engineer
+7.2,Software Dev,Python,Big Data,"Tech Mahindra, Cognizant, Infosys",System Engineer
+8.4,Software Dev,Python,Data Analytics,"Capgemini, IBM, Infosys",Data Analyst
+8.9,AIML,Java,AI,"Oracle, Capgemini, SAP",AI Engineer
+7.1,Software Dev,Java,Backend,"Infosys, Tech Mahindra, TCS",Software Developer
+7.7,Cloud,SQL,Data Analytics,"HCL, Wipro, Infosys",DevOps Engineer
+6.5,DevOps,Go,Cloud Computing,"Birlasoft, NIIT Technologies, Mindtree",DevOps Engineer
+6.7,Cybersecurity,C++,Cybersecurity,"Birlasoft, NIIT Technologies, Mindtree",Cybersecurity Engineer
+8.7,Web Dev,TypeScript,Backend,"Infosys, Oracle, SAP",Web Developer
+6.7,AIML,R,Data Analytics,"Mindtree, Mphasis, Birlasoft",Data Scientist
+8.1,DevOps,Go,Cloud Computing,"Infosys, TCS, IBM",System Engineer
+8.8,Cybersecurity,Rust,Cybersecurity,"SAP, Infosys, Oracle",Cybersecurity Engineer
+6.4,Cybersecurity,Rust,Front End,"Mphasis, Mindtree, Birlasoft",Cloud Engineer
+8.3,Web Dev,SQL,DBMS,"Infosys, IBM, Oracle",Web Developer
+7.0,Cloud,SQL,Data Analytics,"Cognizant, Infosys, Tech Mahindra",DevOps Engineer
+9.9,DevOps,Go,Cloud Computing,"Apple, NVIDIA, Google",System Engineer
+7.9,Cybersecurity,C++,AI,"Tech Mahindra, HCL, TCS",Cybersecurity Engineer
+9.2,AIML,R,ML,"Amazon, NVIDIA, Google",AI Engineer
+8.2,Software Dev,Java,Backend,"SAP, IBM, Oracle",Software Developer
+6.2,Cybersecurity,Rust,Cybersecurity,"Mphasis, NIIT Technologies, HCL",Cybersecurity Engineer
+8.5,Web Dev,JavaScript,Front End,"TCS, SAP, Capgemini",Web Developer
+9.8,Cloud,Go,Big Data,"OpenAI, Amazon, Microsoft",DevOps Engineer
+8.4,AIML,Python,Big Data,"IBM, TCS, SAP",AI Engineer
+9.3,AIML,Java,AI,"OpenAI, IBM, NVIDIA",Data Scientist
+9.5,Cloud,Python,DevOps,"NVIDIA, OpenAI, Apple",DevOps Engineer
+6.9,AIML,R,ML,"Birlasoft, Mphasis, Mindtree",Data Scientist
+6.8,Cybersecurity,C++,AI,"NIIT Technologies, Mindtree, Mphasis",Cybersecurity Engineer
+8.4,Web Dev,JavaScript,Front End,"Capgemini, Oracle, SAP",Software Developer
+7.6,AIML,Python,Big Data,"Wipro, TCS, Tech Mahindra",Data Scientist
+9.4,DevOps,SQL,DBMS,"NVIDIA, Microsoft, Amazon",DevOps Engineer
+9.6,Software Dev,Java,Big Data,"NVIDIA, Amazon, Google",Data Analyst
+7.4,Software Dev,Java,Backend,"HCL, Cognizant, Tech Mahindra",Data Analyst
+6.9,DevOps,SQL,Data Analytics,"Mindtree, Mphasis, Birlasoft",DevOps Engineer
+9.1,DevOps,TypeScript,DevOps,"NVIDIA, Microsoft, IBM",System Engineer
+7.1,Web Dev,JavaScript,Front End,"HCL, Tech Mahindra, TCS",Web Developer
+9.3,Web Dev,JavaScript,Backend,"NVIDIA, IBM, Google",Web Developer
+7.7,DevOps,TypeScript,DevOps,"Cognizant, Wipro, Tech Mahindra",System Engineer
+8.7,DevOps,SQL,DBMS,"SAP, Capgemini, IBM",DevOps Engineer
+6.4,Web Dev,JavaScript,Backend,"Birlasoft, NIIT Technologies, Mindtree",Web Developer
+8.5,Cybersecurity,Rust,Cybersecurity,"Oracle, IBM, SAP",Cloud Engineer
+7.8,Cloud,Go,Cloud Computing,"Infosys, Wipro, TCS",Cloud Engineer
+8.3,Cloud,Go,Big Data,"IBM, Infosys, TCS",DevOps Engineer
+6.7,DevOps,Go,DevOps,"Mindtree, Mphasis, Birlasoft",System Engineer
+8.9,AIML,R,Data Analytics,"Oracle, TCS, Capgemini",Data Scientist
+9.5,Cloud,SQL,DBMS,"Amazon, NVIDIA, OpenAI",DevOps Engineer
+6.9,Cloud,SQL,Data Analytics,"Mindtree, Birlasoft, NIIT Technologies",Cloud Engineer
+6.4,DevOps,SQL,Data Analytics,"Mphasis, HCL, NIIT Technologies",DevOps Engineer
+6.1,Cybersecurity,Rust,Front End,"Birlasoft, Mphasis, Mindtree",Cybersecurity Engineer
+8.6,Web Dev,JavaScript,Front End,"TCS, Infosys, SAP",Web Developer
+8.4,DevOps,SQL,Data Analytics,"IBM, Oracle, TCS",System Engineer
+8.2,DevOps,TypeScript,Backend,"TCS, Oracle, Capgemini",System Engineer
+6.9,AIML,Python,Big Data,"NIIT Technologies, Mindtree, Birlasoft",Data Scientist
+7.6,AIML,R,Data Analytics,"Infosys, TCS, Cognizant",Data Scientist
+8.4,AIML,Python,Big Data,"Capgemini, SAP, TCS",AI Engineer
+8.0,Cybersecurity,C++,Cybersecurity,"Oracle, Infosys, Capgemini",Cybersecurity Engineer
+10.0,Software Dev,C#,Backend,"Microsoft, IBM, Google",Software Developer
+6.5,Cybersecurity,C++,AI,"Mphasis, Mindtree, Birlasoft",Cybersecurity Engineer
+8.8,Software Dev,Java,Big Data,"IBM, Infosys, Oracle",System Engineer
+7.6,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, Wipro, Infosys",Cloud Engineer
+7.7,Cybersecurity,C++,AI,"Tech Mahindra, Cognizant, HCL",Cybersecurity Engineer
+8.9,Web Dev,JavaScript,Backend,"Oracle, Infosys, SAP",Web Developer
+8.8,Cloud,Python,DevOps,"IBM, Oracle, Capgemini",DevOps Engineer
+10.0,Cloud,Python,Cloud Computing,"Apple, Google, Amazon",Cloud Engineer
+6.5,AIML,Python,Big Data,"Birlasoft, NIIT Technologies, Mphasis",Data Scientist
+6.4,Web Dev,TypeScript,Front End,"Birlasoft, Mphasis, NIIT Technologies",Software Developer
+8.9,Cybersecurity,C++,AI,"Capgemini, Oracle, Infosys",Cybersecurity Engineer
+8.3,Cybersecurity,Rust,Cybersecurity,"SAP, Oracle, TCS",Cybersecurity Engineer
+7.1,AIML,Java,Big Data,"HCL, Wipro, Cognizant",Data Scientist
+6.3,Web Dev,SQL,DBMS,"NIIT Technologies, HCL, Mphasis",Software Developer
+6.3,Cybersecurity,C++,AI,"HCL, Mindtree, Birlasoft",Cloud Engineer
+9.6,DevOps,SQL,Data Analytics,"OpenAI, Amazon, Apple",DevOps Engineer
+6.8,DevOps,TypeScript,DevOps,"Mindtree, Mphasis, Birlasoft",System Engineer
+7.3,Cloud,Python,DevOps,"Wipro, Tech Mahindra, Cognizant",DevOps Engineer
+6.9,Software Dev,Java,Big Data,"Mindtree, NIIT Technologies, Mphasis",Data Analyst
+7.4,DevOps,Go,Cloud Computing,"HCL, Wipro, TCS",System Engineer
+6.3,Web Dev,SQL,DBMS,"Birlasoft, Mindtree, NIIT Technologies",Web Developer
+8.1,AIML,R,Data Analytics,"SAP, TCS, Oracle",AI Engineer
+6.3,DevOps,TypeScript,DevOps,"Birlasoft, Mindtree, HCL",System Engineer
+9.2,AIML,Python,ML,"Microsoft, Google, OpenAI",Data Scientist
+6.9,DevOps,TypeScript,DevOps,"Mphasis, Mindtree, NIIT Technologies",DevOps Engineer
+8.2,Software Dev,C#,DBMS,"Infosys, SAP, Oracle",Data Analyst
+9.5,Cloud,Python,Cloud Computing,"Google, OpenAI, Microsoft",Cloud Engineer
+8.6,AIML,Java,AI,"IBM, SAP, TCS",Data Scientist
+8.1,Software Dev,Java,Big Data,"SAP, TCS, Oracle",Data Analyst
+7.3,Cloud,Go,Big Data,"Tech Mahindra, Infosys, Wipro",Cloud Engineer
+7.3,DevOps,Go,DevOps,"Cognizant, HCL, TCS",System Engineer
+8.7,AIML,R,ML,"Infosys, SAP, Capgemini",AI Engineer
+10.0,DevOps,TypeScript,Backend,"OpenAI, Google, NVIDIA",System Engineer
+8.6,Cybersecurity,C++,AI,"Oracle, TCS, SAP",Cybersecurity Engineer
+8.2,AIML,R,ML,"TCS, Infosys, SAP",Data Scientist
+8.9,Cybersecurity,C++,AI,"Infosys, IBM, Capgemini",Cybersecurity Engineer
+7.9,Software Dev,C#,DBMS,"Wipro, TCS, HCL",Software Developer
+6.2,Software Dev,Java,Big Data,"NIIT Technologies, Birlasoft, Mindtree",Data Analyst
+8.2,Cloud,SQL,DBMS,"TCS, Oracle, Capgemini",DevOps Engineer
+9.8,AIML,Python,ML,"Microsoft, Apple, Google",Data Scientist
+6.7,Web Dev,TypeScript,Front End,"Birlasoft, Mindtree, NIIT Technologies",Web Developer
+8.8,Software Dev,Java,Backend,"IBM, TCS, Capgemini",Software Developer
+6.8,Web Dev,JavaScript,Front End,"Mindtree, Birlasoft, NIIT Technologies",Web Developer
+8.1,Software Dev,Java,Big Data,"TCS, IBM, Capgemini",Data Analyst
+6.4,AIML,R,Data Analytics,"Mphasis, HCL, NIIT Technologies",Data Scientist
+7.8,Cloud,Go,Cloud Computing,"Wipro, HCL, TCS",Cloud Engineer
+9.0,Software Dev,C#,Backend,"Apple, Google, OpenAI",System Engineer
+7.4,Web Dev,SQL,Data Analytics,"Cognizant, TCS, HCL",Web Developer
+8.7,Cybersecurity,C++,Cybersecurity,"Infosys, TCS, Capgemini",Cybersecurity Engineer
+9.2,Cybersecurity,C++,AI,"OpenAI, Apple, IBM",Cloud Engineer
+9.7,DevOps,Go,Cloud Computing,"IBM, NVIDIA, Amazon",DevOps Engineer
+6.9,DevOps,SQL,DBMS,"Mphasis, NIIT Technologies, Birlasoft",System Engineer
+7.6,DevOps,TypeScript,Backend,"Infosys, Wipro, Tech Mahindra",System Engineer
+6.6,Web Dev,JavaScript,Backend,"Mindtree, NIIT Technologies, Birlasoft",Web Developer
+10.0,Software Dev,Python,Big Data,"Microsoft, NVIDIA, Apple",Software Developer
+9.7,DevOps,TypeScript,Backend,"Google, Apple, Amazon",DevOps Engineer
+8.2,AIML,Python,ML,"Infosys, Capgemini, SAP",AI Engineer
+9.4,AIML,Java,Big Data,"Amazon, Apple, OpenAI",Data Scientist
+8.1,Web Dev,SQL,Data Analytics,"IBM, Infosys, TCS",Software Developer
+8.5,Web Dev,SQL,Data Analytics,"SAP, IBM, Capgemini",Software Developer
+6.4,Web Dev,JavaScript,Front End,"Mindtree, HCL, NIIT Technologies",Web Developer
+9.0,DevOps,Go,Cloud Computing,"NVIDIA, Amazon, Google",System Engineer
+6.5,Software Dev,Java,Backend,"Mphasis, Birlasoft, Mindtree",Software Developer
+9.3,Web Dev,TypeScript,Front End,"Apple, IBM, NVIDIA",Web Developer
+9.1,Web Dev,JavaScript,Front End,"OpenAI, NVIDIA, Microsoft",Software Developer
+8.8,DevOps,TypeScript,DevOps,"Capgemini, Infosys, TCS",System Engineer
+6.1,Cybersecurity,C++,Cybersecurity,"NIIT Technologies, Birlasoft, Mindtree",Cloud Engineer
+7.2,Web Dev,JavaScript,Backend,"Wipro, HCL, Cognizant",Web Developer
+7.1,Cloud,SQL,DBMS,"TCS, Tech Mahindra, Infosys",DevOps Engineer
+7.4,Software Dev,Python,Big Data,"TCS, Tech Mahindra, HCL",System Engineer
+6.4,Software Dev,C#,Backend,"Birlasoft, NIIT Technologies, Mphasis",Data Analyst
+9.7,DevOps,Go,Cloud Computing,"NVIDIA, Apple, Microsoft",DevOps Engineer
+8.2,Cloud,Go,Cloud Computing,"IBM, TCS, Infosys",Cloud Engineer
+7.2,DevOps,SQL,DBMS,"Tech Mahindra, TCS, Cognizant",System Engineer
+7.6,AIML,Python,ML,"Cognizant, Tech Mahindra, Infosys",Data Scientist
+7.8,Cloud,SQL,Data Analytics,"Infosys, TCS, Tech Mahindra",Cloud Engineer
+8.4,Cybersecurity,C++,Cybersecurity,"Capgemini, IBM, Infosys",Cybersecurity Engineer
+8.1,Cybersecurity,Rust,Front End,"Capgemini, Infosys, Oracle",Cloud Engineer
+9.7,Cybersecurity,Rust,Front End,"Microsoft, OpenAI, Google",Cybersecurity Engineer
+8.0,AIML,Python,ML,"Infosys, TCS, IBM",Data Scientist
+10.0,Cybersecurity,C++,Cybersecurity,"Google, IBM, Amazon",Cloud Engineer
+9.4,Web Dev,JavaScript,Front End,"NVIDIA, Apple, Amazon",Web Developer
+6.8,DevOps,Go,DevOps,"Birlasoft, NIIT Technologies, Mindtree",System Engineer
+9.7,Cybersecurity,Rust,Cybersecurity,"Apple, Microsoft, Amazon",Cybersecurity Engineer
+6.5,Web Dev,SQL,DBMS,"NIIT Technologies, Mindtree, Birlasoft",Software Developer
+9.3,Software Dev,Python,Big Data,"NVIDIA, Google, Apple",Data Analyst
+7.5,DevOps,SQL,DBMS,"Infosys, HCL, Tech Mahindra",DevOps Engineer
+9.5,DevOps,SQL,Data Analytics,"Apple, Amazon, Google",DevOps Engineer
+9.5,AIML,Java,AI,"Google, OpenAI, IBM",AI Engineer
+9.2,DevOps,Go,DevOps,"Google, IBM, Microsoft",DevOps Engineer
+9.2,Software Dev,C#,DBMS,"OpenAI, IBM, Google",Data Analyst
+7.2,AIML,Python,ML,"Tech Mahindra, TCS, Wipro",Data Scientist
+6.3,Cybersecurity,C++,AI,"HCL, NIIT Technologies, Mphasis",Cloud Engineer
+7.6,Software Dev,Java,Backend,"Tech Mahindra, Cognizant, HCL",System Engineer
+6.7,Cloud,Go,Cloud Computing,"Mindtree, NIIT Technologies, Mphasis",DevOps Engineer
+8.8,Software Dev,C#,Backend,"Capgemini, Infosys, Oracle",Software Developer
+7.4,AIML,Java,AI,"Wipro, TCS, Infosys",Data Scientist
+9.9,Software Dev,Java,Big Data,"Microsoft, IBM, Apple",Software Developer
+8.6,Cloud,Python,Cloud Computing,"TCS, SAP, Infosys",Cloud Engineer
+9.3,AIML,R,Data Analytics,"OpenAI, Google, Microsoft",Data Scientist
+6.5,Web Dev,TypeScript,Front End,"Birlasoft, Mphasis, NIIT Technologies",Web Developer
+9.4,Cybersecurity,Rust,Front End,"Microsoft, IBM, OpenAI",Cloud Engineer
+9.7,AIML,Python,ML,"NVIDIA, Apple, Google",Data Scientist
+7.9,AIML,Python,ML,"Tech Mahindra, Cognizant, Wipro",Data Scientist
+8.4,Cybersecurity,C++,Cybersecurity,"Infosys, SAP, TCS",Cybersecurity Engineer
+9.1,Cybersecurity,C++,AI,"Google, NVIDIA, Amazon",Cybersecurity Engineer
+6.7,DevOps,Go,DevOps,"Birlasoft, Mindtree, NIIT Technologies",DevOps Engineer
+8.0,DevOps,TypeScript,Backend,"Capgemini, SAP, Oracle",DevOps Engineer
+7.6,Cybersecurity,Rust,Front End,"Cognizant, Wipro, HCL",Cybersecurity Engineer
+6.6,DevOps,TypeScript,DevOps,"NIIT Technologies, Birlasoft, Mindtree",DevOps Engineer
+7.5,Cybersecurity,C++,AI,"HCL, Tech Mahindra, Wipro",Cybersecurity Engineer
+6.3,AIML,R,Data Analytics,"Mphasis, Mindtree, NIIT Technologies",Data Scientist
+6.1,Cybersecurity,C++,Cybersecurity,"HCL, Mindtree, NIIT Technologies",Cybersecurity Engineer
+6.5,Cloud,Python,Cloud Computing,"Mindtree, Mphasis, NIIT Technologies",DevOps Engineer
+9.9,AIML,Java,AI,"Microsoft, Amazon, IBM",AI Engineer
+8.2,AIML,R,Data Analytics,"Capgemini, Infosys, SAP",AI Engineer
+9.9,Cybersecurity,Rust,Cybersecurity,"Apple, OpenAI, NVIDIA",Cloud Engineer
+7.7,AIML,R,ML,"Infosys, Tech Mahindra, HCL",Data Scientist
+7.2,Web Dev,SQL,Data Analytics,"Wipro, HCL, Tech Mahindra",Software Developer
+8.0,Cybersecurity,Rust,Front End,"Oracle, TCS, Capgemini",Cybersecurity Engineer
+7.8,Cloud,Go,Cloud Computing,"Cognizant, TCS, Infosys",DevOps Engineer
+6.4,Cybersecurity,Rust,Front End,"Mphasis, Birlasoft, HCL",Cloud Engineer
+8.6,Cybersecurity,C++,Cybersecurity,"TCS, Capgemini, Infosys",Cybersecurity Engineer
+6.9,DevOps,Go,Cloud Computing,"Birlasoft, Mphasis, NIIT Technologies",System Engineer
+8.5,Software Dev,C#,DBMS,"IBM, Infosys, SAP",Data Analyst
+8.6,Web Dev,SQL,DBMS,"Capgemini, SAP, Infosys",Software Developer
+6.6,Cloud,Python,Cloud Computing,"Birlasoft, Mindtree, NIIT Technologies",DevOps Engineer
+6.2,Software Dev,C#,Backend,"Mindtree, Mphasis, NIIT Technologies",System Engineer
+9.1,Cloud,SQL,DBMS,"OpenAI, Microsoft, Google",Cloud Engineer
+7.8,Software Dev,C#,Backend,"Cognizant, Wipro, Infosys",Software Developer
+6.2,AIML,Python,ML,"NIIT Technologies, HCL, Birlasoft",Data Scientist
+10.0,DevOps,Go,Cloud Computing,"OpenAI, IBM, Amazon",DevOps Engineer
+6.2,AIML,Python,Big Data,"Birlasoft, Mphasis, NIIT Technologies",Data Scientist
+8.8,DevOps,Go,Cloud Computing,"TCS, Oracle, IBM",System Engineer
+9.9,Software Dev,Python,Data Analytics,"IBM, Google, Microsoft",Software Developer
+7.0,AIML,Python,Big Data,"Tech Mahindra, Infosys, Cognizant",Data Scientist
+6.6,DevOps,SQL,Data Analytics,"Mindtree, Mphasis, NIIT Technologies",System Engineer
+6.5,Cybersecurity,C++,AI,"Birlasoft, Mphasis, Mindtree",Cloud Engineer
+7.2,Cloud,Go,Cloud Computing,"Tech Mahindra, Wipro, HCL",Cloud Engineer
+6.4,Web Dev,TypeScript,Front End,"NIIT Technologies, Birlasoft, Mphasis",Software Developer
+8.8,Cybersecurity,C++,AI,"TCS, IBM, Infosys",Cybersecurity Engineer
+6.2,AIML,Python,Big Data,"Mphasis, HCL, Mindtree",Data Scientist
+8.0,Web Dev,JavaScript,Front End,"SAP, Oracle, TCS",Software Developer
+10.0,Cloud,Go,Cloud Computing,"Google, OpenAI, NVIDIA",Cloud Engineer
+9.3,Software Dev,Java,Backend,"Apple, Microsoft, NVIDIA",Software Developer
+8.5,Web Dev,TypeScript,Front End,"Capgemini, TCS, Oracle",Software Developer
+7.2,DevOps,SQL,DBMS,"Cognizant, HCL, Wipro",System Engineer
+8.5,Software Dev,C#,DBMS,"SAP, Capgemini, TCS",Software Developer
+8.1,DevOps,Go,DevOps,"Capgemini, SAP, IBM",DevOps Engineer
+7.7,DevOps,SQL,Data Analytics,"Cognizant, HCL, Tech Mahindra",System Engineer
+6.5,Cloud,Python,DevOps,"Mphasis, Mindtree, Birlasoft",Cloud Engineer
+9.5,Software Dev,Python,Big Data,"OpenAI, IBM, Apple",Data Analyst
+7.8,Web Dev,TypeScript,Front End,"HCL, Infosys, Wipro",Web Developer
+6.8,Cloud,Go,Big Data,"Mphasis, NIIT Technologies, Birlasoft",Cloud Engineer
+7.5,Software Dev,Java,Backend,"Tech Mahindra, HCL, Wipro",Data Analyst
+7.7,AIML,R,Data Analytics,"TCS, Cognizant, HCL",Data Scientist
+9.3,Cloud,Python,DevOps,"NVIDIA, Google, Apple",DevOps Engineer
+8.9,Software Dev,Java,Backend,"TCS, Capgemini, Oracle",Data Analyst
+9.1,DevOps,SQL,DBMS,"Amazon, NVIDIA, IBM",DevOps Engineer
+6.0,Cybersecurity,Rust,Cybersecurity,"HCL, Birlasoft, NIIT Technologies",Cloud Engineer
+7.7,Web Dev,SQL,Data Analytics,"Wipro, TCS, Infosys",Web Developer
+7.9,Cloud,Go,Cloud Computing,"HCL, TCS, Cognizant",Cloud Engineer
+6.1,Cloud,SQL,Data Analytics,"Birlasoft, HCL, NIIT Technologies",DevOps Engineer
+7.0,Cloud,Go,Big Data,"HCL, Tech Mahindra, Infosys",Cloud Engineer
+9.0,Cybersecurity,C++,AI,"NVIDIA, Microsoft, Apple",Cybersecurity Engineer
+6.5,Web Dev,TypeScript,Front End,"Mindtree, Birlasoft, NIIT Technologies",Web Developer
+8.1,DevOps,SQL,DBMS,"Capgemini, IBM, Oracle",System Engineer
+6.9,Web Dev,TypeScript,Backend,"Mphasis, Mindtree, Birlasoft",Web Developer
+6.0,Web Dev,SQL,DBMS,"Birlasoft, Mindtree, HCL",Software Developer
+7.0,Software Dev,Python,Big Data,"Cognizant, Wipro, HCL",Data Analyst
+9.9,Software Dev,Java,Big Data,"IBM, Apple, Google",System Engineer
+9.2,Cybersecurity,C++,Cybersecurity,"OpenAI, NVIDIA, Amazon",Cloud Engineer
+9.8,Cybersecurity,Rust,Front End,"IBM, NVIDIA, Amazon",Cybersecurity Engineer
+8.0,Cybersecurity,C++,AI,"Infosys, SAP, Oracle",Cybersecurity Engineer
+6.4,Cybersecurity,Rust,Front End,"NIIT Technologies, Mphasis, HCL",Cloud Engineer
+8.2,Web Dev,TypeScript,Backend,"Oracle, SAP, Capgemini",Software Developer
+7.8,Cloud,SQL,DBMS,"Cognizant, TCS, HCL",DevOps Engineer
+9.4,AIML,Java,Big Data,"Google, Amazon, Apple",AI Engineer
+6.4,Web Dev,SQL,Data Analytics,"Mindtree, HCL, Birlasoft",Web Developer
+8.0,Cloud,Go,Big Data,"TCS, Capgemini, Infosys",Cloud Engineer
+6.6,Cybersecurity,Rust,Front End,"NIIT Technologies, Mindtree, Mphasis",Cloud Engineer
+7.3,Software Dev,Python,Data Analytics,"Tech Mahindra, Infosys, Wipro",Software Developer
+8.9,Software Dev,C#,Backend,"SAP, Oracle, TCS",System Engineer
+7.9,Software Dev,Python,Big Data,"Cognizant, Infosys, Tech Mahindra",Software Developer
+7.5,Web Dev,JavaScript,Front End,"Infosys, HCL, TCS",Web Developer
+7.6,Software Dev,C#,DBMS,"Cognizant, Tech Mahindra, Infosys",Software Developer
+7.8,Cybersecurity,Rust,Cybersecurity,"TCS, Infosys, Wipro",Cybersecurity Engineer
+9.1,DevOps,SQL,DBMS,"Microsoft, IBM, NVIDIA",System Engineer
+9.6,Web Dev,SQL,Data Analytics,"Amazon, Google, IBM",Web Developer
+9.8,DevOps,Go,Cloud Computing,"NVIDIA, IBM, OpenAI",DevOps Engineer
+9.1,DevOps,TypeScript,Backend,"Apple, NVIDIA, OpenAI",System Engineer
+7.3,AIML,Python,ML,"TCS, Tech Mahindra, Infosys",Data Scientist
+8.8,AIML,Python,ML,"IBM, Oracle, Capgemini",Data Scientist
+7.8,Web Dev,TypeScript,Backend,"TCS, Infosys, Cognizant",Web Developer
+7.0,Web Dev,SQL,DBMS,"Tech Mahindra, Wipro, TCS",Web Developer
+9.4,Software Dev,Python,Data Analytics,"IBM, Microsoft, Amazon",Data Analyst
+6.2,Web Dev,TypeScript,Backend,"NIIT Technologies, Birlasoft, HCL",Software Developer
+9.6,Web Dev,TypeScript,Front End,"Microsoft, OpenAI, IBM",Web Developer
+7.8,Cloud,SQL,DBMS,"Infosys, TCS, HCL",Cloud Engineer
+8.5,Web Dev,TypeScript,Front End,"SAP, Infosys, IBM",Web Developer
+8.6,DevOps,SQL,Data Analytics,"IBM, SAP, Capgemini",System Engineer
+9.6,Web Dev,JavaScript,Backend,"Google, NVIDIA, IBM",Web Developer
+8.5,Cloud,Go,Big Data,"Capgemini, TCS, IBM",Cloud Engineer
+8.5,Cybersecurity,Rust,Cybersecurity,"Oracle, Infosys, IBM",Cybersecurity Engineer
+6.3,Web Dev,SQL,Data Analytics,"Birlasoft, NIIT Technologies, HCL",Web Developer
+8.1,Software Dev,Java,Backend,"Infosys, IBM, SAP",Data Analyst
+6.6,Cloud,Go,Big Data,"Mphasis, NIIT Technologies, Mindtree",DevOps Engineer
+8.9,Software Dev,Java,Big Data,"Infosys, IBM, TCS",System Engineer
+8.0,AIML,Java,Big Data,"IBM, Oracle, Capgemini",AI Engineer
+8.7,Cybersecurity,Rust,Cybersecurity,"Capgemini, Oracle, IBM",Cybersecurity Engineer
+6.2,DevOps,Go,DevOps,"Mindtree, Birlasoft, NIIT Technologies",DevOps Engineer
+6.3,Web Dev,JavaScript,Front End,"Birlasoft, Mphasis, Mindtree",Web Developer
+8.9,Software Dev,C#,DBMS,"IBM, Oracle, SAP",Data Analyst
+6.3,Web Dev,JavaScript,Front End,"Mphasis, HCL, Mindtree",Web Developer
+6.3,Cybersecurity,Rust,Front End,"Mphasis, NIIT Technologies, HCL",Cybersecurity Engineer
+6.0,AIML,Java,AI,"Mphasis, NIIT Technologies, HCL",Data Scientist
+9.8,Cloud,SQL,DBMS,"NVIDIA, Microsoft, Apple",Cloud Engineer
+9.0,Cloud,SQL,DBMS,"IBM, NVIDIA, OpenAI",Cloud Engineer
+7.4,AIML,R,Data Analytics,"Cognizant, Wipro, Tech Mahindra",Data Scientist
+7.2,AIML,R,ML,"Infosys, Wipro, HCL",Data Scientist
+7.4,Web Dev,JavaScript,Front End,"HCL, Infosys, Cognizant",Web Developer
+9.1,AIML,R,ML,"OpenAI, Apple, NVIDIA",Data Scientist
+8.6,Cybersecurity,Rust,Cybersecurity,"IBM, Oracle, Capgemini",Cybersecurity Engineer
+6.7,Web Dev,TypeScript,Front End,"NIIT Technologies, Mphasis, Birlasoft",Web Developer
+6.7,Web Dev,TypeScript,Front End,"Mindtree, NIIT Technologies, Mphasis",Web Developer
+6.4,Cloud,SQL,DBMS,"NIIT Technologies, HCL, Mphasis",Cloud Engineer
+8.6,Cloud,SQL,DBMS,"Oracle, TCS, IBM",DevOps Engineer
+9.1,Web Dev,TypeScript,Backend,"OpenAI, NVIDIA, Google",Software Developer
+7.1,AIML,R,ML,"HCL, Tech Mahindra, Infosys",Data Scientist
+6.1,Software Dev,Python,Data Analytics,"Birlasoft, HCL, Mphasis",Data Analyst
+6.3,AIML,Java,AI,"Mindtree, Birlasoft, NIIT Technologies",Data Scientist
+9.9,AIML,Python,ML,"Google, Amazon, Apple",Data Scientist
+7.2,AIML,R,Data Analytics,"Tech Mahindra, Wipro, TCS",Data Scientist
+9.1,Web Dev,JavaScript,Front End,"Apple, OpenAI, Amazon",Web Developer
+8.5,Web Dev,SQL,DBMS,"IBM, Capgemini, Oracle",Software Developer
+7.5,DevOps,SQL,Data Analytics,"Wipro, HCL, Cognizant",System Engineer
+6.8,Software Dev,C#,DBMS,"Birlasoft, Mindtree, NIIT Technologies",System Engineer
+6.5,AIML,R,ML,"Birlasoft, NIIT Technologies, Mphasis",Data Scientist
+8.5,Cybersecurity,C++,Cybersecurity,"IBM, Oracle, SAP",Cybersecurity Engineer
+9.1,Web Dev,JavaScript,Backend,"OpenAI, Amazon, Microsoft",Software Developer
+8.6,DevOps,TypeScript,Backend,"Capgemini, Oracle, TCS",DevOps Engineer
+8.1,Web Dev,SQL,Data Analytics,"IBM, SAP, Infosys",Web Developer
+6.2,Cloud,Go,Cloud Computing,"Mphasis, Mindtree, NIIT Technologies",Cloud Engineer
+9.9,Web Dev,JavaScript,Backend,"Google, Microsoft, OpenAI",Web Developer
+9.2,DevOps,SQL,Data Analytics,"IBM, OpenAI, NVIDIA",System Engineer
+7.2,DevOps,SQL,DBMS,"Wipro, TCS, Infosys",System Engineer
+9.9,Web Dev,TypeScript,Backend,"Google, Amazon, IBM",Software Developer
+8.4,DevOps,SQL,DBMS,"TCS, Capgemini, Infosys",DevOps Engineer
+8.3,Cybersecurity,Rust,Cybersecurity,"Capgemini, Infosys, SAP",Cybersecurity Engineer
+9.0,Cybersecurity,C++,AI,"Microsoft, Apple, IBM",Cybersecurity Engineer
+9.2,Cybersecurity,C++,Cybersecurity,"OpenAI, Google, IBM",Cybersecurity Engineer
+8.6,DevOps,Go,Cloud Computing,"SAP, IBM, Capgemini",System Engineer
+6.5,AIML,Python,ML,"Mphasis, NIIT Technologies, Mindtree",Data Scientist
+7.4,Web Dev,SQL,DBMS,"HCL, Tech Mahindra, Infosys",Software Developer
+9.7,Cloud,Go,Big Data,"Microsoft, IBM, Google",Cloud Engineer
+6.9,AIML,R,Data Analytics,"Birlasoft, Mphasis, NIIT Technologies",Data Scientist
+7.5,Web Dev,TypeScript,Front End,"Wipro, TCS, Cognizant",Software Developer
+7.7,Cybersecurity,C++,AI,"Tech Mahindra, HCL, Infosys",Cloud Engineer
+7.8,Cloud,Go,Big Data,"Infosys, Cognizant, Wipro",DevOps Engineer
+8.5,Cloud,Go,Cloud Computing,"Infosys, IBM, Capgemini",Cloud Engineer
+9.8,AIML,Java,AI,"Amazon, Google, OpenAI",Data Scientist
+7.0,Cloud,Python,DevOps,"HCL, Wipro, TCS",Cloud Engineer
+6.5,AIML,Python,Big Data,"NIIT Technologies, Mindtree, Mphasis",Data Scientist
+6.8,Software Dev,C#,Backend,"Mindtree, NIIT Technologies, Birlasoft",Data Analyst
+9.5,DevOps,TypeScript,Backend,"Amazon, OpenAI, Apple",System Engineer
+8.6,AIML,R,Data Analytics,"SAP, Capgemini, IBM",AI Engineer
+7.1,Cloud,Go,Cloud Computing,"Tech Mahindra, Wipro, TCS",DevOps Engineer
+9.3,AIML,Java,AI,"IBM, Microsoft, OpenAI",Data Scientist
+9.4,Cloud,SQL,DBMS,"Amazon, NVIDIA, Microsoft",DevOps Engineer
+9.4,Software Dev,C#,DBMS,"Microsoft, NVIDIA, OpenAI",Data Analyst
+9.7,AIML,R,Data Analytics,"IBM, Google, Apple",Data Scientist
+7.0,Web Dev,JavaScript,Front End,"Infosys, HCL, Cognizant",Software Developer
+9.0,Software Dev,C#,DBMS,"NVIDIA, Microsoft, Apple",System Engineer
+7.8,DevOps,TypeScript,Backend,"Tech Mahindra, Cognizant, Infosys",System Engineer
+9.4,Web Dev,TypeScript,Backend,"OpenAI, Amazon, Apple",Web Developer
+8.9,Web Dev,JavaScript,Backend,"Infosys, Oracle, IBM",Software Developer
+9.1,Web Dev,TypeScript,Backend,"OpenAI, Amazon, Google",Software Developer
+8.6,Software Dev,Java,Backend,"Infosys, Capgemini, IBM",Data Analyst
+6.7,DevOps,TypeScript,DevOps,"Mindtree, NIIT Technologies, Birlasoft",System Engineer
+8.2,DevOps,Go,DevOps,"Oracle, Infosys, Capgemini",System Engineer
+9.9,DevOps,SQL,Data Analytics,"Apple, Amazon, Microsoft",DevOps Engineer
+9.7,AIML,Python,ML,"OpenAI, IBM, Amazon",Data Scientist
+6.2,Cloud,SQL,DBMS,"Mindtree, Birlasoft, NIIT Technologies",DevOps Engineer
+6.7,DevOps,SQL,Data Analytics,"Birlasoft, Mindtree, NIIT Technologies",DevOps Engineer
+6.5,Cloud,Go,Big Data,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+8.9,Cloud,SQL,DBMS,"Infosys, IBM, SAP",Cloud Engineer
+9.3,Web Dev,SQL,Data Analytics,"Apple, NVIDIA, OpenAI",Web Developer
+6.9,Web Dev,SQL,Data Analytics,"NIIT Technologies, Mindtree, Birlasoft",Web Developer
+8.0,Cloud,Python,DevOps,"Oracle, Infosys, Capgemini",DevOps Engineer
+9.4,AIML,Python,Big Data,"Google, OpenAI, Apple",AI Engineer
+8.9,AIML,Java,AI,"Capgemini, SAP, Infosys",Data Scientist
+8.2,Cloud,Python,DevOps,"Oracle, Infosys, SAP",DevOps Engineer
+8.4,Cybersecurity,Rust,Front End,"Infosys, SAP, TCS",Cybersecurity Engineer
+8.0,Cloud,Python,DevOps,"Capgemini, SAP, Oracle",Cloud Engineer
+7.2,Cloud,Go,Cloud Computing,"Wipro, Cognizant, HCL",Cloud Engineer
+8.3,Cloud,Python,Cloud Computing,"Oracle, TCS, IBM",DevOps Engineer
+8.8,DevOps,TypeScript,Backend,"Oracle, SAP, Infosys",System Engineer
+9.5,Software Dev,Python,Big Data,"OpenAI, IBM, Amazon",Data Analyst
+8.5,Software Dev,C#,Backend,"IBM, Infosys, SAP",Data Analyst
+9.0,AIML,Python,ML,"NVIDIA, Apple, Google",Data Scientist
+6.6,Cloud,Python,DevOps,"Birlasoft, NIIT Technologies, Mindtree",Cloud Engineer
+7.8,Cloud,Python,Cloud Computing,"TCS, Wipro, HCL",Cloud Engineer
+6.0,DevOps,TypeScript,DevOps,"Birlasoft, Mindtree, NIIT Technologies",System Engineer
+7.0,Software Dev,Java,Big Data,"Infosys, HCL, Tech Mahindra",Data Analyst
+8.9,Cloud,Go,Cloud Computing,"TCS, SAP, Infosys",Cloud Engineer
+10.0,Cybersecurity,C++,Cybersecurity,"Amazon, NVIDIA, Microsoft",Cloud Engineer
+6.4,Cybersecurity,Rust,Cybersecurity,"HCL, Mindtree, Mphasis",Cybersecurity Engineer
+7.6,Cybersecurity,C++,Cybersecurity,"HCL, TCS, Infosys",Cybersecurity Engineer
+9.2,Web Dev,JavaScript,Front End,"Google, NVIDIA, Apple",Web Developer
+6.8,AIML,R,ML,"Mindtree, Birlasoft, Mphasis",Data Scientist
+8.2,Cloud,Python,DevOps,"SAP, Capgemini, Infosys",DevOps Engineer
+8.9,Web Dev,TypeScript,Backend,"TCS, SAP, Infosys",Web Developer
+8.5,DevOps,SQL,Data Analytics,"Infosys, TCS, SAP",System Engineer
+6.8,Cloud,SQL,DBMS,"NIIT Technologies, Mindtree, Mphasis",Cloud Engineer
+7.4,Web Dev,JavaScript,Front End,"HCL, Wipro, TCS",Software Developer
+9.1,Web Dev,TypeScript,Front End,"Google, Amazon, Apple",Web Developer
+8.2,DevOps,TypeScript,Backend,"Capgemini, IBM, SAP",System Engineer
+6.0,Software Dev,Java,Backend,"Mphasis, Mindtree, Birlasoft",System Engineer
+9.0,AIML,R,Data Analytics,"NVIDIA, OpenAI, IBM",Data Scientist
+6.1,Web Dev,SQL,DBMS,"NIIT Technologies, Mindtree, Mphasis",Web Developer
+9.0,DevOps,Go,DevOps,"IBM, Apple, Microsoft",System Engineer
+6.8,Web Dev,JavaScript,Backend,"Birlasoft, Mphasis, Mindtree",Software Developer
+9.8,Web Dev,TypeScript,Front End,"IBM, Microsoft, Google",Software Developer
+7.5,Cloud,Python,DevOps,"Wipro, TCS, HCL",Cloud Engineer
+7.3,Web Dev,SQL,DBMS,"HCL, Infosys, Tech Mahindra",Software Developer
+6.6,Software Dev,C#,Backend,"Mphasis, Birlasoft, Mindtree",Software Developer
+7.2,Cloud,SQL,Data Analytics,"TCS, Cognizant, Tech Mahindra",DevOps Engineer
+9.5,AIML,Python,Big Data,"Google, Apple, Microsoft",Data Scientist
+10.0,DevOps,TypeScript,Backend,"Google, OpenAI, Amazon",System Engineer
+7.5,Cloud,Python,DevOps,"Infosys, Tech Mahindra, Wipro",DevOps Engineer
+7.8,Software Dev,Java,Backend,"Wipro, Tech Mahindra, HCL",System Engineer
+8.9,Software Dev,C#,Backend,"Oracle, IBM, SAP",Data Analyst
+9.5,DevOps,SQL,DBMS,"Amazon, IBM, Microsoft",System Engineer
+8.4,Web Dev,JavaScript,Backend,"Infosys, SAP, TCS",Web Developer
+7.6,Software Dev,Python,Data Analytics,"HCL, Cognizant, Tech Mahindra",Software Developer
+7.7,Web Dev,SQL,Data Analytics,"TCS, Tech Mahindra, Wipro",Software Developer
+8.8,Cybersecurity,C++,Cybersecurity,"SAP, TCS, Capgemini",Cloud Engineer
+6.0,DevOps,TypeScript,DevOps,"HCL, Birlasoft, NIIT Technologies",System Engineer
+8.5,Cybersecurity,C++,Cybersecurity,"Capgemini, TCS, Oracle",Cybersecurity Engineer
+7.4,Cybersecurity,C++,AI,"Cognizant, HCL, Infosys",Cloud Engineer
+9.2,Cloud,Python,Cloud Computing,"Microsoft, OpenAI, NVIDIA",DevOps Engineer
+6.4,Cloud,Go,Big Data,"Mindtree, NIIT Technologies, Birlasoft",DevOps Engineer
+8.4,Software Dev,Python,Data Analytics,"SAP, Capgemini, Oracle",Software Developer
+7.9,DevOps,SQL,DBMS,"HCL, Infosys, Wipro",System Engineer
+8.6,Cloud,Go,Cloud Computing,"Oracle, Infosys, SAP",Cloud Engineer
+6.3,AIML,Python,ML,"HCL, NIIT Technologies, Birlasoft",Data Scientist
+8.3,DevOps,SQL,Data Analytics,"Oracle, SAP, Infosys",System Engineer
+8.2,Web Dev,SQL,Data Analytics,"Oracle, SAP, IBM",Software Developer
+8.2,AIML,Java,AI,"Capgemini, IBM, Infosys",Data Scientist
+8.4,Cloud,Go,Cloud Computing,"Capgemini, Infosys, TCS",Cloud Engineer
+8.7,AIML,Python,Big Data,"IBM, Infosys, Oracle",AI Engineer
+9.2,Software Dev,Python,Data Analytics,"Amazon, Google, OpenAI",Software Developer
+7.1,Cloud,SQL,Data Analytics,"Infosys, TCS, Wipro",Cloud Engineer
+9.3,Web Dev,JavaScript,Front End,"Google, IBM, OpenAI",Software Developer
+8.0,Web Dev,TypeScript,Front End,"SAP, IBM, Capgemini",Web Developer
+6.3,Cloud,Python,Cloud Computing,"Mindtree, HCL, Birlasoft",DevOps Engineer
+6.2,DevOps,SQL,DBMS,"Mphasis, HCL, NIIT Technologies",DevOps Engineer
+7.3,Cybersecurity,Rust,Cybersecurity,"Cognizant, TCS, Tech Mahindra",Cybersecurity Engineer
+9.1,Software Dev,Python,Big Data,"OpenAI, Amazon, IBM",System Engineer
+8.8,AIML,Python,ML,"Infosys, Oracle, SAP",AI Engineer
+9.2,Cybersecurity,C++,Cybersecurity,"Microsoft, OpenAI, IBM",Cybersecurity Engineer
+8.1,DevOps,TypeScript,DevOps,"SAP, IBM, Capgemini",System Engineer
+7.8,Cybersecurity,C++,Cybersecurity,"TCS, Tech Mahindra, Cognizant",Cloud Engineer
+6.6,Software Dev,Python,Data Analytics,"Birlasoft, Mphasis, Mindtree",Software Developer
+7.3,Cybersecurity,Rust,Cybersecurity,"Cognizant, HCL, Tech Mahindra",Cybersecurity Engineer
+7.7,Software Dev,C#,DBMS,"Cognizant, Wipro, Infosys",System Engineer
+6.4,DevOps,TypeScript,Backend,"Birlasoft, Mindtree, Mphasis",System Engineer
+6.9,Cloud,Go,Cloud Computing,"Mphasis, Birlasoft, NIIT Technologies",Cloud Engineer
+8.4,Cloud,Python,Cloud Computing,"SAP, TCS, IBM",DevOps Engineer
+8.9,AIML,Python,ML,"SAP, Infosys, Capgemini",AI Engineer
+10.0,Cloud,SQL,Data Analytics,"Amazon, Microsoft, OpenAI",DevOps Engineer
+9.7,DevOps,TypeScript,DevOps,"IBM, OpenAI, Google",System Engineer
+8.6,AIML,Java,Big Data,"IBM, Oracle, TCS",Data Scientist
+7.7,Web Dev,JavaScript,Backend,"Wipro, Infosys, Cognizant",Web Developer
+8.5,Web Dev,SQL,DBMS,"TCS, Capgemini, IBM",Software Developer
+9.1,Cloud,Python,DevOps,"Amazon, Microsoft, Apple",Cloud Engineer
+6.5,Web Dev,SQL,DBMS,"NIIT Technologies, Mindtree, Mphasis",Software Developer
+7.6,Cybersecurity,C++,AI,"Tech Mahindra, Infosys, TCS",Cybersecurity Engineer
+9.4,AIML,Java,Big Data,"Apple, Microsoft, Amazon",Data Scientist
+7.5,DevOps,Go,DevOps,"TCS, Tech Mahindra, Infosys",System Engineer
+8.3,Web Dev,SQL,Data Analytics,"Infosys, Oracle, IBM",Web Developer
+8.4,AIML,Java,AI,"Oracle, TCS, IBM",AI Engineer
+6.7,Software Dev,C#,DBMS,"Mphasis, Mindtree, Birlasoft",Data Analyst
+7.4,Cybersecurity,C++,Cybersecurity,"HCL, Infosys, Cognizant",Cloud Engineer
+7.3,AIML,Python,Big Data,"Tech Mahindra, Cognizant, HCL",Data Scientist
+6.1,Web Dev,JavaScript,Backend,"NIIT Technologies, HCL, Birlasoft",Web Developer
+6.1,Cloud,SQL,DBMS,"Mindtree, Mphasis, Birlasoft",Cloud Engineer
+9.3,Web Dev,SQL,Data Analytics,"Amazon, Apple, OpenAI",Web Developer
+7.1,Web Dev,TypeScript,Front End,"TCS, Infosys, Wipro",Software Developer
+8.1,AIML,Java,Big Data,"TCS, Oracle, Infosys",AI Engineer
+7.2,Web Dev,JavaScript,Backend,"TCS, HCL, Wipro",Software Developer
+9.8,Software Dev,Java,Big Data,"OpenAI, Microsoft, Google",Software Developer
+7.0,Software Dev,Python,Big Data,"HCL, Wipro, Tech Mahindra",Software Developer
+7.7,Cybersecurity,Rust,Front End,"Cognizant, HCL, Infosys",Cybersecurity Engineer
+9.5,Cloud,Go,Big Data,"Amazon, NVIDIA, Google",DevOps Engineer
+9.4,Cybersecurity,C++,AI,"IBM, Apple, OpenAI",Cybersecurity Engineer
+6.7,Cloud,Go,Big Data,"Birlasoft, Mphasis, NIIT Technologies",Cloud Engineer
+9.2,DevOps,TypeScript,Backend,"IBM, Microsoft, Apple",System Engineer
+7.8,Cybersecurity,Rust,Front End,"Cognizant, Infosys, HCL",Cybersecurity Engineer
+7.9,Cloud,Python,DevOps,"Tech Mahindra, Cognizant, HCL",DevOps Engineer
+6.5,Cybersecurity,C++,Cybersecurity,"Birlasoft, Mindtree, Mphasis",Cybersecurity Engineer
+6.3,Software Dev,Python,Big Data,"Birlasoft, NIIT Technologies, Mindtree",Data Analyst
+8.9,Web Dev,SQL,Data Analytics,"Infosys, Capgemini, IBM",Software Developer
+8.0,AIML,R,Data Analytics,"SAP, IBM, Infosys",AI Engineer
+7.7,Web Dev,SQL,DBMS,"Wipro, HCL, Tech Mahindra",Software Developer
+8.9,DevOps,SQL,Data Analytics,"IBM, SAP, Capgemini",DevOps Engineer
+9.1,Cloud,Go,Big Data,"Amazon, IBM, NVIDIA",DevOps Engineer
+6.6,Software Dev,C#,Backend,"Mphasis, Mindtree, Birlasoft",Data Analyst
+8.4,DevOps,TypeScript,DevOps,"SAP, IBM, TCS",System Engineer
+6.5,Cloud,SQL,Data Analytics,"Mindtree, Birlasoft, Mphasis",DevOps Engineer
+9.0,Cloud,SQL,Data Analytics,"Microsoft, Amazon, Apple",DevOps Engineer
+8.6,DevOps,Go,Cloud Computing,"TCS, Infosys, SAP",System Engineer
+9.8,Software Dev,C#,Backend,"Google, Amazon, IBM",Data Analyst
+6.3,Cybersecurity,C++,AI,"Mphasis, NIIT Technologies, Mindtree",Cloud Engineer
+6.2,DevOps,TypeScript,Backend,"NIIT Technologies, Birlasoft, Mphasis",DevOps Engineer
+7.1,AIML,R,Data Analytics,"Infosys, Wipro, TCS",Data Scientist
+7.0,Web Dev,JavaScript,Front End,"Infosys, Cognizant, HCL",Web Developer
+7.0,AIML,Python,ML,"Tech Mahindra, Cognizant, HCL",Data Scientist
+9.6,Web Dev,TypeScript,Front End,"IBM, NVIDIA, Apple",Web Developer
+7.0,Web Dev,TypeScript,Backend,"HCL, Wipro, Tech Mahindra",Software Developer
+7.1,Web Dev,TypeScript,Front End,"Wipro, TCS, Infosys",Web Developer
+9.0,DevOps,SQL,Data Analytics,"NVIDIA, Amazon, Google",System Engineer
+7.8,Software Dev,Python,Big Data,"Tech Mahindra, Infosys, Wipro",Software Developer
+9.1,Cloud,Go,Cloud Computing,"NVIDIA, Google, OpenAI",Cloud Engineer
+6.3,Software Dev,C#,Backend,"Mphasis, Birlasoft, NIIT Technologies",Software Developer
+8.0,Web Dev,TypeScript,Front End,"Capgemini, Oracle, IBM",Software Developer
+6.1,Cloud,SQL,Data Analytics,"Birlasoft, Mindtree, Mphasis",DevOps Engineer
+6.3,Cloud,Go,Cloud Computing,"Mphasis, Mindtree, HCL",DevOps Engineer
+9.6,Software Dev,Python,Big Data,"NVIDIA, IBM, OpenAI",System Engineer
+6.6,AIML,Java,AI,"Birlasoft, NIIT Technologies, Mphasis",Data Scientist
+8.1,Software Dev,Java,Backend,"TCS, Capgemini, Oracle",Data Analyst
+7.6,Cloud,Python,Cloud Computing,"TCS, Cognizant, HCL",DevOps Engineer
+7.4,DevOps,Go,DevOps,"HCL, Cognizant, Tech Mahindra",System Engineer
+9.6,Web Dev,SQL,Data Analytics,"Amazon, Google, Microsoft",Software Developer
+6.1,DevOps,Go,DevOps,"Mindtree, Birlasoft, HCL",System Engineer
+8.7,DevOps,TypeScript,DevOps,"Infosys, IBM, SAP",System Engineer
+9.9,Web Dev,SQL,DBMS,"NVIDIA, Google, IBM",Web Developer
+8.2,Cybersecurity,C++,Cybersecurity,"TCS, IBM, Infosys",Cybersecurity Engineer
+9.7,DevOps,TypeScript,DevOps,"NVIDIA, IBM, Microsoft",System Engineer
+6.2,Cybersecurity,C++,Cybersecurity,"Mindtree, Mphasis, NIIT Technologies",Cybersecurity Engineer
+7.7,AIML,Java,Big Data,"Infosys, Tech Mahindra, Wipro",Data Scientist
+7.0,Software Dev,Java,Big Data,"Infosys, Tech Mahindra, HCL",Data Analyst
+8.9,Web Dev,JavaScript,Front End,"IBM, SAP, TCS",Software Developer
+9.9,Cybersecurity,Rust,Cybersecurity,"Amazon, Google, OpenAI",Cybersecurity Engineer
+7.0,AIML,R,ML,"HCL, Tech Mahindra, Cognizant",Data Scientist
+8.6,Web Dev,SQL,Data Analytics,"SAP, Oracle, TCS",Web Developer
+6.8,Web Dev,JavaScript,Backend,"Birlasoft, Mphasis, Mindtree",Web Developer
+8.3,Software Dev,Java,Big Data,"TCS, Infosys, Capgemini",Data Analyst
+7.9,Software Dev,C#,Backend,"Cognizant, Infosys, Wipro",System Engineer
+9.9,Cloud,SQL,Data Analytics,"OpenAI, Google, IBM",Cloud Engineer
+8.4,Cybersecurity,Rust,Front End,"SAP, Capgemini, Infosys",Cybersecurity Engineer
+7.4,Cloud,Go,Cloud Computing,"TCS, Wipro, Infosys",Cloud Engineer
+6.5,Cloud,Python,Cloud Computing,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+6.6,AIML,R,Data Analytics,"Mindtree, NIIT Technologies, Birlasoft",Data Scientist
+6.9,Software Dev,C#,DBMS,"Birlasoft, Mphasis, Mindtree",Data Analyst
+7.0,AIML,Java,Big Data,"Cognizant, Infosys, TCS",Data Scientist
+9.4,Cybersecurity,C++,Cybersecurity,"Google, Microsoft, IBM",Cloud Engineer
+8.2,AIML,R,ML,"Capgemini, Oracle, SAP",AI Engineer
+8.1,Web Dev,JavaScript,Front End,"TCS, SAP, Capgemini",Software Developer
+6.5,Cloud,SQL,Data Analytics,"NIIT Technologies, Mphasis, Birlasoft",Cloud Engineer
+9.4,Web Dev,SQL,DBMS,"Amazon, OpenAI, Microsoft",Web Developer
+8.9,Software Dev,Java,Big Data,"Capgemini, Oracle, TCS",Software Developer
+6.3,Cybersecurity,C++,Cybersecurity,"Mindtree, Birlasoft, HCL",Cybersecurity Engineer
+8.8,Software Dev,Java,Big Data,"Infosys, Capgemini, SAP",Data Analyst
+8.2,Software Dev,Java,Big Data,"IBM, Capgemini, Oracle",Software Developer
+6.3,Cybersecurity,C++,AI,"HCL, Birlasoft, Mphasis",Cybersecurity Engineer
+7.8,Web Dev,JavaScript,Front End,"Cognizant, Infosys, TCS",Web Developer
+7.9,Cloud,Go,Cloud Computing,"Wipro, Cognizant, Infosys",Cloud Engineer
+6.7,Web Dev,TypeScript,Front End,"Mphasis, Birlasoft, Mindtree",Software Developer
+9.8,Cybersecurity,C++,Cybersecurity,"Microsoft, Amazon, IBM",Cybersecurity Engineer
+9.4,Web Dev,JavaScript,Front End,"Amazon, Microsoft, NVIDIA",Web Developer
+8.7,Cybersecurity,Rust,Cybersecurity,"Infosys, Capgemini, IBM",Cybersecurity Engineer
+7.8,Web Dev,JavaScript,Front End,"Wipro, Tech Mahindra, Infosys",Software Developer
+7.6,AIML,R,ML,"HCL, TCS, Cognizant",Data Scientist
+8.6,Software Dev,C#,DBMS,"SAP, Infosys, IBM",Data Analyst
+8.2,AIML,Java,Big Data,"IBM, TCS, Infosys",Data Scientist
+6.2,Web Dev,SQL,Data Analytics,"Birlasoft, HCL, Mindtree",Software Developer
+8.1,Cloud,Go,Big Data,"Infosys, Capgemini, SAP",DevOps Engineer
+9.2,Cloud,SQL,Data Analytics,"Amazon, Apple, OpenAI",DevOps Engineer
+7.8,Software Dev,Java,Big Data,"Infosys, Cognizant, Wipro",Data Analyst
+6.2,AIML,Python,ML,"Mindtree, NIIT Technologies, Birlasoft",Data Scientist
+9.1,DevOps,SQL,DBMS,"Amazon, Google, OpenAI",System Engineer
+6.8,Web Dev,SQL,Data Analytics,"Mphasis, NIIT Technologies, Mindtree",Software Developer
+7.0,AIML,Java,AI,"Cognizant, HCL, Tech Mahindra",Data Scientist
+6.7,Web Dev,TypeScript,Backend,"Mindtree, Birlasoft, NIIT Technologies",Web Developer
+7.3,AIML,Python,ML,"HCL, Tech Mahindra, Wipro",Data Scientist
+9.0,Web Dev,TypeScript,Backend,"Microsoft, Amazon, OpenAI",Web Developer
+8.1,AIML,R,ML,"TCS, Capgemini, IBM",Data Scientist
+6.8,AIML,Python,ML,"Mindtree, Birlasoft, Mphasis",Data Scientist
+9.5,Cybersecurity,C++,AI,"Amazon, Microsoft, NVIDIA",Cybersecurity Engineer
+9.5,AIML,R,Data Analytics,"Microsoft, OpenAI, Amazon",Data Scientist
+9.5,Cloud,Python,DevOps,"IBM, NVIDIA, Apple",Cloud Engineer
+7.0,Cloud,SQL,DBMS,"TCS, HCL, Tech Mahindra",DevOps Engineer
+7.8,Cybersecurity,C++,Cybersecurity,"TCS, Wipro, Tech Mahindra",Cybersecurity Engineer
+9.9,AIML,Java,Big Data,"Google, Microsoft, NVIDIA",Data Scientist
+9.1,DevOps,TypeScript,Backend,"Apple, Amazon, Microsoft",System Engineer
+6.1,DevOps,Go,Cloud Computing,"Mphasis, HCL, Mindtree",System Engineer
+6.3,Cybersecurity,C++,AI,"HCL, Mindtree, NIIT Technologies",Cybersecurity Engineer
+7.9,DevOps,SQL,Data Analytics,"HCL, Infosys, Cognizant",System Engineer
+9.6,Cybersecurity,C++,Cybersecurity,"OpenAI, IBM, Apple",Cloud Engineer
+8.2,AIML,Java,AI,"TCS, Infosys, Oracle",AI Engineer
+8.0,Web Dev,SQL,DBMS,"TCS, SAP, Infosys",Software Developer
+6.4,Cybersecurity,C++,Cybersecurity,"HCL, NIIT Technologies, Mindtree",Cybersecurity Engineer
+8.6,Web Dev,SQL,Data Analytics,"Infosys, Oracle, SAP",Software Developer
+9.3,DevOps,SQL,Data Analytics,"IBM, OpenAI, Google",System Engineer
+7.5,Software Dev,Python,Big Data,"Wipro, HCL, Infosys",Data Analyst
+9.1,Software Dev,Java,Backend,"Amazon, Google, IBM",Data Analyst
+9.9,Cloud,Python,DevOps,"Microsoft, Google, IBM",DevOps Engineer
+6.8,Cloud,Go,Big Data,"NIIT Technologies, Mindtree, Birlasoft",DevOps Engineer
+8.1,AIML,Java,Big Data,"IBM, SAP, Capgemini",AI Engineer
+7.1,AIML,Java,AI,"HCL, Wipro, Cognizant",Data Scientist
+9.2,DevOps,TypeScript,Backend,"Microsoft, Amazon, IBM",System Engineer
+8.3,Cloud,Python,Cloud Computing,"SAP, IBM, Capgemini",Cloud Engineer
+8.5,Cloud,Python,DevOps,"IBM, Infosys, Oracle",DevOps Engineer
+9.2,Cybersecurity,Rust,Cybersecurity,"Amazon, NVIDIA, IBM",Cybersecurity Engineer
+7.6,Cybersecurity,C++,Cybersecurity,"HCL, Wipro, TCS",Cybersecurity Engineer
+9.7,AIML,R,ML,"Microsoft, Apple, Google",AI Engineer
+8.1,Software Dev,Java,Backend,"Infosys, IBM, Oracle",Software Developer
+6.6,Cybersecurity,C++,Cybersecurity,"Mphasis, Birlasoft, NIIT Technologies",Cybersecurity Engineer
+8.8,Cloud,Python,DevOps,"Oracle, Capgemini, Infosys",DevOps Engineer
+9.2,Cloud,Go,Cloud Computing,"Apple, IBM, NVIDIA",Cloud Engineer
+7.3,Cybersecurity,Rust,Cybersecurity,"Infosys, Wipro, HCL",Cybersecurity Engineer
+9.4,Software Dev,C#,DBMS,"Apple, Google, Amazon",Data Analyst
+9.6,AIML,Java,Big Data,"Apple, NVIDIA, Microsoft",Data Scientist
+7.1,Software Dev,C#,Backend,"Wipro, HCL, Infosys",Software Developer
+9.9,Software Dev,Java,Big Data,"Amazon, Google, Apple",System Engineer
+6.6,Cybersecurity,Rust,Cybersecurity,"Mindtree, Birlasoft, Mphasis",Cybersecurity Engineer
+6.8,Cybersecurity,C++,Cybersecurity,"NIIT Technologies, Mindtree, Birlasoft",Cybersecurity Engineer
+6.7,Software Dev,Java,Big Data,"Mindtree, Mphasis, NIIT Technologies",Data Analyst
+9.6,DevOps,SQL,DBMS,"Apple, Amazon, IBM",System Engineer
+8.6,Software Dev,Java,Big Data,"Capgemini, SAP, Infosys",System Engineer
+6.6,Web Dev,SQL,DBMS,"Mphasis, NIIT Technologies, Mindtree",Web Developer
+7.8,Web Dev,SQL,Data Analytics,"Cognizant, Infosys, HCL",Software Developer
+8.5,DevOps,Go,Cloud Computing,"Oracle, Infosys, IBM",DevOps Engineer
+6.3,Cybersecurity,Rust,Cybersecurity,"Mphasis, Birlasoft, HCL",Cybersecurity Engineer
+9.5,Web Dev,JavaScript,Backend,"OpenAI, NVIDIA, IBM",Web Developer
+9.2,Web Dev,TypeScript,Front End,"Apple, Google, Microsoft",Web Developer
+8.0,Cybersecurity,Rust,Front End,"TCS, SAP, Oracle",Cybersecurity Engineer
+9.9,AIML,R,ML,"OpenAI, IBM, Google",AI Engineer
+7.7,DevOps,TypeScript,Backend,"HCL, Tech Mahindra, Cognizant",System Engineer
+9.9,Software Dev,Java,Backend,"Microsoft, Apple, IBM",Data Analyst
+8.7,Cloud,Go,Big Data,"Capgemini, IBM, TCS",DevOps Engineer
+8.5,Web Dev,TypeScript,Front End,"SAP, Oracle, Infosys",Web Developer
+6.7,Cloud,Go,Big Data,"NIIT Technologies, Mindtree, Mphasis",DevOps Engineer
+9.5,Cloud,Python,Cloud Computing,"IBM, Apple, NVIDIA",DevOps Engineer
+7.7,AIML,Java,Big Data,"Infosys, Cognizant, Tech Mahindra",Data Scientist
+6.6,Cybersecurity,Rust,Cybersecurity,"Mphasis, NIIT Technologies, Mindtree",Cybersecurity Engineer
+6.1,Cybersecurity,C++,AI,"NIIT Technologies, Birlasoft, Mphasis",Cybersecurity Engineer
+8.2,Web Dev,SQL,DBMS,"SAP, IBM, Capgemini",Software Developer
+8.1,AIML,Python,ML,"TCS, Capgemini, Oracle",Data Scientist
+8.9,DevOps,SQL,DBMS,"TCS, Infosys, Oracle",System Engineer
+9.6,Cloud,Python,Cloud Computing,"Google, Apple, Amazon",Cloud Engineer
+6.3,Software Dev,Python,Big Data,"Mindtree, HCL, NIIT Technologies",Software Developer
+8.9,Cybersecurity,Rust,Cybersecurity,"IBM, Infosys, Capgemini",Cybersecurity Engineer
+6.7,Cybersecurity,Rust,Cybersecurity,"Mindtree, NIIT Technologies, Birlasoft",Cybersecurity Engineer
+9.4,Software Dev,C#,Backend,"Microsoft, OpenAI, IBM",Software Developer
+9.3,AIML,Java,AI,"NVIDIA, Amazon, Microsoft",Data Scientist
+8.2,Cybersecurity,Rust,Front End,"SAP, Oracle, Infosys",Cybersecurity Engineer
+8.8,Cloud,SQL,DBMS,"Infosys, SAP, Capgemini",DevOps Engineer
+7.3,AIML,Python,ML,"Wipro, Tech Mahindra, TCS",Data Scientist
+7.9,Software Dev,Java,Backend,"TCS, Infosys, Tech Mahindra",Data Analyst
+9.3,Cybersecurity,C++,Cybersecurity,"Microsoft, IBM, Apple",Cybersecurity Engineer
+7.8,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, TCS, Cognizant",Cybersecurity Engineer
+7.4,Cloud,Go,Cloud Computing,"TCS, Infosys, Cognizant",Cloud Engineer
+8.0,AIML,Python,Big Data,"IBM, TCS, Infosys",Data Scientist
+9.3,Cybersecurity,C++,Cybersecurity,"Google, Amazon, Apple",Cybersecurity Engineer
+7.3,AIML,Java,Big Data,"Wipro, Cognizant, Tech Mahindra",Data Scientist
+6.7,Cybersecurity,C++,AI,"Mindtree, NIIT Technologies, Birlasoft",Cybersecurity Engineer
+8.8,Cybersecurity,Rust,Cybersecurity,"TCS, Capgemini, IBM",Cybersecurity Engineer
+9.3,DevOps,SQL,DBMS,"IBM, Amazon, OpenAI",System Engineer
+6.4,AIML,Python,ML,"HCL, NIIT Technologies, Mphasis",Data Scientist
+7.0,Software Dev,C#,Backend,"Infosys, Tech Mahindra, Wipro",Software Developer
+6.6,DevOps,Go,DevOps,"NIIT Technologies, Mphasis, Birlasoft",System Engineer
+7.4,Web Dev,TypeScript,Backend,"TCS, HCL, Cognizant",Web Developer
+7.8,Cybersecurity,C++,Cybersecurity,"Tech Mahindra, Wipro, Infosys",Cybersecurity Engineer
+9.0,Software Dev,Python,Big Data,"Apple, IBM, Amazon",Data Analyst
+8.6,Software Dev,Python,Big Data,"IBM, SAP, Infosys",Software Developer
+8.5,AIML,Java,AI,"Infosys, Capgemini, SAP",Data Scientist
+7.4,Web Dev,SQL,Data Analytics,"Cognizant, Tech Mahindra, Wipro",Software Developer
+9.4,Cloud,Go,Cloud Computing,"Google, IBM, Apple",Cloud Engineer
+7.9,Software Dev,Java,Backend,"TCS, Wipro, Cognizant",Data Analyst
+9.9,Web Dev,SQL,Data Analytics,"Microsoft, Amazon, Apple",Web Developer
+8.5,Web Dev,SQL,DBMS,"Capgemini, IBM, SAP",Web Developer
+6.5,Cybersecurity,C++,AI,"Mindtree, Birlasoft, NIIT Technologies",Cybersecurity Engineer
+8.7,Cloud,Go,Cloud Computing,"Capgemini, Oracle, IBM",DevOps Engineer
+7.3,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, HCL, Wipro",Cybersecurity Engineer
+8.7,DevOps,Go,DevOps,"Infosys, Oracle, TCS",DevOps Engineer
+6.3,Cybersecurity,Rust,Front End,"Mindtree, HCL, Mphasis",Cybersecurity Engineer
+6.7,Web Dev,JavaScript,Front End,"Birlasoft, NIIT Technologies, Mindtree",Web Developer
+9.4,DevOps,SQL,DBMS,"Microsoft, Google, IBM",DevOps Engineer
+6.9,AIML,Python,Big Data,"Birlasoft, NIIT Technologies, Mphasis",Data Scientist
+9.3,Software Dev,Python,Big Data,"Apple, IBM, Google",Data Analyst
+7.1,DevOps,TypeScript,Backend,"Cognizant, Tech Mahindra, Infosys",System Engineer
+8.6,DevOps,TypeScript,Backend,"TCS, Oracle, SAP",System Engineer
+8.8,Cloud,SQL,Data Analytics,"Capgemini, SAP, Infosys",Cloud Engineer
+8.1,DevOps,SQL,Data Analytics,"Capgemini, TCS, Infosys",System Engineer
+7.2,DevOps,SQL,Data Analytics,"Infosys, Wipro, Tech Mahindra",System Engineer
+6.9,Cloud,SQL,DBMS,"NIIT Technologies, Mindtree, Birlasoft",DevOps Engineer
+6.1,Software Dev,C#,DBMS,"HCL, Mphasis, Birlasoft",Data Analyst
+7.2,Cloud,SQL,Data Analytics,"Tech Mahindra, HCL, TCS",DevOps Engineer
+8.6,Software Dev,Java,Backend,"TCS, Oracle, Infosys",System Engineer
+9.8,Cloud,Go,Big Data,"Microsoft, Apple, IBM",Cloud Engineer
+9.5,Software Dev,Python,Big Data,"Microsoft, Apple, OpenAI",Software Developer
+9.1,Cloud,Go,Cloud Computing,"Apple, OpenAI, Amazon",Cloud Engineer
+9.2,Cloud,Go,Cloud Computing,"IBM, NVIDIA, Google",DevOps Engineer
+8.7,Web Dev,JavaScript,Front End,"SAP, Oracle, Capgemini",Software Developer
+7.0,DevOps,SQL,Data Analytics,"Infosys, TCS, Tech Mahindra",System Engineer
+9.6,Cybersecurity,Rust,Cybersecurity,"IBM, Apple, Google",Cybersecurity Engineer
+8.7,Cybersecurity,Rust,Cybersecurity,"SAP, Capgemini, IBM",Cybersecurity Engineer
+8.2,Cloud,SQL,Data Analytics,"Oracle, SAP, Capgemini",Cloud Engineer
+6.4,Software Dev,C#,Backend,"HCL, Birlasoft, NIIT Technologies",Data Analyst
+7.8,Web Dev,SQL,DBMS,"TCS, Wipro, Cognizant",Web Developer
+7.8,Web Dev,SQL,Data Analytics,"Tech Mahindra, HCL, Wipro",Web Developer
+9.5,Cloud,SQL,DBMS,"OpenAI, Google, IBM",Cloud Engineer
+8.2,DevOps,TypeScript,DevOps,"Infosys, IBM, Capgemini",System Engineer
+7.5,Web Dev,SQL,Data Analytics,"Cognizant, TCS, Wipro",Software Developer
+9.9,DevOps,TypeScript,Backend,"OpenAI, Google, Apple",System Engineer
+6.4,Cloud,Python,Cloud Computing,"Mindtree, Birlasoft, NIIT Technologies",DevOps Engineer
+7.7,AIML,R,ML,"Tech Mahindra, TCS, Wipro",Data Scientist
+6.2,Software Dev,Java,Big Data,"Mindtree, NIIT Technologies, Birlasoft",Software Developer
+9.0,Cybersecurity,Rust,Front End,"Apple, Amazon, Google",Cybersecurity Engineer
+9.7,AIML,R,Data Analytics,"IBM, Apple, Amazon",Data Scientist
+7.1,Web Dev,JavaScript,Front End,"HCL, Tech Mahindra, Cognizant",Web Developer
+9.4,AIML,Java,Big Data,"Amazon, IBM, NVIDIA",Data Scientist
+7.2,Software Dev,Java,Big Data,"HCL, Cognizant, TCS",System Engineer
+9.6,Cloud,SQL,Data Analytics,"Google, OpenAI, Apple",DevOps Engineer
+9.0,Cybersecurity,Rust,Front End,"Google, Microsoft, Apple",Cybersecurity Engineer
+9.2,Web Dev,TypeScript,Front End,"Amazon, Google, Apple",Software Developer
+6.1,AIML,Python,ML,"Mindtree, NIIT Technologies, HCL",Data Scientist
+9.9,DevOps,TypeScript,DevOps,"Google, NVIDIA, IBM",System Engineer
+8.9,AIML,Python,Big Data,"Infosys, Capgemini, IBM",Data Scientist
+7.2,DevOps,Go,Cloud Computing,"HCL, Wipro, TCS",DevOps Engineer
+9.3,DevOps,SQL,Data Analytics,"Amazon, OpenAI, IBM",System Engineer
+7.1,AIML,R,ML,"TCS, Infosys, Cognizant",Data Scientist
+9.5,Software Dev,C#,DBMS,"Amazon, NVIDIA, IBM",Software Developer
+6.5,Cybersecurity,Rust,Cybersecurity,"Mphasis, NIIT Technologies, Mindtree",Cybersecurity Engineer
+8.8,Cloud,SQL,DBMS,"Capgemini, IBM, Infosys",DevOps Engineer
+8.2,Cybersecurity,C++,AI,"Infosys, SAP, Capgemini",Cybersecurity Engineer
+6.4,Web Dev,TypeScript,Front End,"Mphasis, Mindtree, NIIT Technologies",Software Developer
+7.0,Software Dev,Python,Data Analytics,"Tech Mahindra, Wipro, Cognizant",System Engineer
+6.0,Cybersecurity,Rust,Cybersecurity,"HCL, Birlasoft, NIIT Technologies",Cybersecurity Engineer
+7.9,AIML,Java,Big Data,"Cognizant, Wipro, HCL",Data Scientist
+7.2,Cloud,Go,Big Data,"Tech Mahindra, HCL, Wipro",Cloud Engineer
+8.4,DevOps,SQL,DBMS,"Capgemini, TCS, Oracle",System Engineer
+7.2,Web Dev,TypeScript,Backend,"Tech Mahindra, HCL, TCS",Software Developer
+7.2,DevOps,TypeScript,Backend,"Tech Mahindra, HCL, Infosys",System Engineer
+9.0,DevOps,SQL,DBMS,"NVIDIA, Amazon, Microsoft",System Engineer
+6.2,DevOps,Go,DevOps,"Mindtree, NIIT Technologies, Mphasis",System Engineer
+9.6,Software Dev,C#,DBMS,"IBM, Amazon, Microsoft",Data Analyst
+9.4,AIML,Java,AI,"NVIDIA, Microsoft, Amazon",AI Engineer
+8.7,Web Dev,TypeScript,Front End,"Infosys, SAP, Oracle",Web Developer
+8.4,AIML,R,ML,"Infosys, Capgemini, SAP",Data Scientist
+9.6,AIML,R,ML,"OpenAI, NVIDIA, Microsoft",AI Engineer
+6.7,AIML,Python,ML,"Mindtree, NIIT Technologies, Mphasis",Data Scientist
+6.3,Cybersecurity,Rust,Front End,"Mindtree, NIIT Technologies, HCL",Cloud Engineer
+7.0,Software Dev,C#,Backend,"Cognizant, HCL, TCS",Software Developer
+9.2,Web Dev,TypeScript,Backend,"Amazon, Google, Microsoft",Web Developer
+6.1,Cybersecurity,Rust,Cybersecurity,"HCL, NIIT Technologies, Birlasoft",Cybersecurity Engineer
+8.3,Cybersecurity,C++,AI,"Infosys, TCS, IBM",Cybersecurity Engineer
+10.0,Cybersecurity,Rust,Front End,"Amazon, IBM, Apple",Cybersecurity Engineer
+9.4,Software Dev,C#,Backend,"Microsoft, Amazon, Apple",Data Analyst
+8.1,Cybersecurity,C++,AI,"Oracle, Capgemini, Infosys",Cybersecurity Engineer
+6.3,Software Dev,C#,DBMS,"HCL, NIIT Technologies, Mphasis",Software Developer
+9.3,Cybersecurity,Rust,Front End,"OpenAI, NVIDIA, Amazon",Cybersecurity Engineer
+8.4,AIML,Java,AI,"Oracle, SAP, Capgemini",Data Scientist
+6.5,Software Dev,Python,Big Data,"Mphasis, Birlasoft, NIIT Technologies",Data Analyst
+6.4,Web Dev,SQL,DBMS,"Mindtree, HCL, Birlasoft",Web Developer
+9.6,Software Dev,Python,Data Analytics,"OpenAI, IBM, NVIDIA",Data Analyst
+8.7,DevOps,Go,DevOps,"Capgemini, Infosys, Oracle",System Engineer
+9.3,DevOps,Go,Cloud Computing,"Apple, IBM, OpenAI",System Engineer
+9.5,AIML,Java,Big Data,"Microsoft, OpenAI, IBM",Data Scientist
+8.3,AIML,Java,Big Data,"Capgemini, IBM, Oracle",Data Scientist
+8.1,Cloud,Go,Big Data,"IBM, Capgemini, SAP",DevOps Engineer
+7.7,DevOps,TypeScript,Backend,"Cognizant, HCL, TCS",System Engineer
+7.3,Web Dev,JavaScript,Front End,"Wipro, Cognizant, Infosys",Web Developer
+7.7,AIML,Python,ML,"Cognizant, Wipro, TCS",Data Scientist
+9.1,AIML,Python,ML,"Apple, NVIDIA, Google",Data Scientist
+8.4,DevOps,Go,DevOps,"SAP, Oracle, Capgemini",System Engineer
+9.6,DevOps,SQL,Data Analytics,"Microsoft, Amazon, NVIDIA",System Engineer
+7.8,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, Infosys, Wipro",Cybersecurity Engineer
+8.4,Software Dev,C#,Backend,"Oracle, IBM, Infosys",Data Analyst
+8.5,Software Dev,Python,Data Analytics,"SAP, Oracle, IBM",Data Analyst
+8.4,Web Dev,TypeScript,Backend,"Oracle, TCS, Infosys",Software Developer
+8.8,AIML,Java,AI,"SAP, TCS, IBM",AI Engineer
+6.9,Software Dev,C#,DBMS,"Mphasis, Birlasoft, Mindtree",Data Analyst
+8.0,AIML,Java,Big Data,"SAP, TCS, Infosys",AI Engineer
+6.4,Web Dev,JavaScript,Front End,"Mphasis, HCL, NIIT Technologies",Software Developer
+7.5,Software Dev,Python,Data Analytics,"Infosys, TCS, Wipro",Data Analyst
+8.0,Web Dev,TypeScript,Backend,"Capgemini, TCS, Infosys",Software Developer
+8.6,Software Dev,C#,Backend,"TCS, Capgemini, SAP",Data Analyst
+9.8,Software Dev,Python,Data Analytics,"OpenAI, Amazon, Google",Data Analyst
+8.4,AIML,Python,Big Data,"IBM, TCS, Capgemini",AI Engineer
+9.0,Web Dev,TypeScript,Backend,"OpenAI, Amazon, Google",Web Developer
+8.0,AIML,R,Data Analytics,"TCS, Oracle, SAP",Data Scientist
+8.5,Web Dev,JavaScript,Front End,"Capgemini, SAP, Infosys",Software Developer
+6.3,Web Dev,TypeScript,Backend,"Mphasis, Mindtree, Birlasoft",Web Developer
+7.0,Web Dev,SQL,Data Analytics,"HCL, TCS, Wipro",Software Developer
+7.4,DevOps,Go,DevOps,"HCL, Cognizant, TCS",System Engineer
+7.9,Software Dev,Java,Big Data,"Cognizant, TCS, Wipro",Software Developer
+6.2,DevOps,Go,Cloud Computing,"Birlasoft, Mphasis, NIIT Technologies",DevOps Engineer
+6.6,Cloud,SQL,DBMS,"Mphasis, NIIT Technologies, Mindtree",Cloud Engineer
+7.1,Cybersecurity,Rust,Front End,"Cognizant, Wipro, Tech Mahindra",Cybersecurity Engineer
+9.9,DevOps,TypeScript,DevOps,"IBM, OpenAI, Apple",System Engineer
+7.3,Software Dev,Java,Backend,"Infosys, Cognizant, Wipro",Data Analyst
+7.9,Cloud,Go,Big Data,"Infosys, TCS, Cognizant",Cloud Engineer
+6.8,DevOps,TypeScript,DevOps,"Birlasoft, Mindtree, NIIT Technologies",DevOps Engineer
+8.4,Web Dev,TypeScript,Backend,"Oracle, Capgemini, SAP",Software Developer
+7.1,AIML,Python,ML,"TCS, Wipro, Cognizant",Data Scientist
+6.8,Cybersecurity,Rust,Cybersecurity,"Mindtree, Birlasoft, NIIT Technologies",Cloud Engineer
+8.1,Cloud,SQL,Data Analytics,"SAP, Capgemini, Infosys",Cloud Engineer
+6.0,Software Dev,C#,Backend,"NIIT Technologies, Mphasis, HCL",Data Analyst
+6.0,Cloud,Go,Big Data,"Mphasis, HCL, Birlasoft",DevOps Engineer
+6.9,Web Dev,TypeScript,Backend,"NIIT Technologies, Mphasis, Mindtree",Software Developer
+6.1,Cybersecurity,C++,AI,"NIIT Technologies, Birlasoft, Mindtree",Cybersecurity Engineer
+6.4,Software Dev,Java,Backend,"Mphasis, Mindtree, Birlasoft",Data Analyst
+7.4,Cybersecurity,C++,AI,"Cognizant, HCL, Wipro",Cybersecurity Engineer
+9.2,DevOps,Go,Cloud Computing,"Apple, Google, Microsoft",System Engineer
+8.3,Cybersecurity,Rust,Front End,"Capgemini, IBM, SAP",Cybersecurity Engineer
+8.1,DevOps,Go,Cloud Computing,"Capgemini, Infosys, Oracle",System Engineer
+7.2,Web Dev,TypeScript,Front End,"Tech Mahindra, Infosys, Wipro",Web Developer
+9.7,AIML,R,ML,"Google, IBM, Apple",AI Engineer
+7.6,Cloud,Python,DevOps,"TCS, Infosys, HCL",Cloud Engineer
+6.3,Cybersecurity,Rust,Cybersecurity,"NIIT Technologies, HCL, Mindtree",Cybersecurity Engineer
+8.5,Software Dev,Java,Backend,"SAP, IBM, TCS",Data Analyst
+6.5,Software Dev,Java,Backend,"Mphasis, Birlasoft, Mindtree",Data Analyst
+7.4,Web Dev,JavaScript,Backend,"Tech Mahindra, TCS, Wipro",Web Developer
+8.0,AIML,Python,Big Data,"Infosys, TCS, IBM",Data Scientist
+9.5,Web Dev,TypeScript,Backend,"IBM, Microsoft, Amazon",Web Developer
+8.0,Cloud,SQL,Data Analytics,"TCS, SAP, Infosys",Cloud Engineer
+8.8,Cloud,Go,Big Data,"Oracle, SAP, TCS",Cloud Engineer
+10.0,AIML,Python,ML,"Google, IBM, Apple",AI Engineer
+6.5,Software Dev,Python,Data Analytics,"Mindtree, Birlasoft, NIIT Technologies",Software Developer
+7.1,Cloud,Python,DevOps,"Tech Mahindra, Infosys, Cognizant",DevOps Engineer
+7.6,Web Dev,TypeScript,Backend,"Infosys, Cognizant, TCS",Software Developer
+7.7,DevOps,Go,Cloud Computing,"TCS, HCL, Wipro",System Engineer
+7.6,Web Dev,JavaScript,Backend,"Cognizant, Wipro, HCL",Web Developer
+9.6,AIML,Java,AI,"IBM, NVIDIA, Amazon",AI Engineer
+8.9,Cybersecurity,C++,Cybersecurity,"Capgemini, IBM, Infosys",Cloud Engineer
+8.4,DevOps,Go,Cloud Computing,"TCS, Capgemini, SAP",System Engineer
+7.2,AIML,Java,AI,"TCS, Wipro, Tech Mahindra",Data Scientist
+9.3,Software Dev,C#,DBMS,"IBM, NVIDIA, Amazon",Software Developer
+9.8,AIML,Python,Big Data,"NVIDIA, IBM, Apple",AI Engineer
+9.3,Software Dev,Java,Backend,"Apple, NVIDIA, IBM",Data Analyst
+6.0,DevOps,TypeScript,Backend,"NIIT Technologies, Birlasoft, Mphasis",DevOps Engineer
+8.5,Software Dev,C#,DBMS,"Capgemini, Infosys, Oracle",Data Analyst
+6.2,DevOps,SQL,Data Analytics,"NIIT Technologies, Birlasoft, Mindtree",System Engineer
+7.0,Cloud,Go,Big Data,"TCS, Tech Mahindra, Infosys",Cloud Engineer
+6.2,Cybersecurity,Rust,Front End,"Birlasoft, Mindtree, HCL",Cybersecurity Engineer
+8.4,Cybersecurity,C++,AI,"TCS, Capgemini, IBM",Cybersecurity Engineer
+8.7,Software Dev,Python,Big Data,"Infosys, IBM, Capgemini",Data Analyst
+6.5,Software Dev,Java,Big Data,"Mphasis, Mindtree, NIIT Technologies",Data Analyst
+7.5,AIML,R,Data Analytics,"Cognizant, TCS, Wipro",Data Scientist
+7.8,Cloud,Python,DevOps,"Infosys, Wipro, HCL",Cloud Engineer
+7.5,Cloud,Python,DevOps,"Cognizant, Infosys, Tech Mahindra",Cloud Engineer
+6.5,DevOps,Go,DevOps,"Birlasoft, Mindtree, NIIT Technologies",System Engineer
+7.7,Cybersecurity,C++,Cybersecurity,"TCS, Wipro, Infosys",Cybersecurity Engineer
+9.0,Cybersecurity,C++,AI,"IBM, NVIDIA, OpenAI",Cybersecurity Engineer
+6.3,Software Dev,Java,Big Data,"NIIT Technologies, Birlasoft, Mphasis",Data Analyst
+6.3,AIML,R,Data Analytics,"NIIT Technologies, Birlasoft, HCL",Data Scientist
+7.4,Cybersecurity,C++,Cybersecurity,"Infosys, Tech Mahindra, HCL",Cybersecurity Engineer
+9.8,Web Dev,SQL,DBMS,"IBM, OpenAI, Apple",Web Developer
+8.7,Cybersecurity,C++,AI,"Oracle, TCS, Capgemini",Cybersecurity Engineer
+8.7,Software Dev,Python,Data Analytics,"Infosys, Oracle, Capgemini",Data Analyst
+7.4,Software Dev,Python,Big Data,"Wipro, Infosys, TCS",System Engineer
+8.4,Cybersecurity,Rust,Cybersecurity,"IBM, SAP, TCS",Cybersecurity Engineer
+6.0,Web Dev,SQL,Data Analytics,"Mindtree, Birlasoft, HCL",Software Developer
+8.5,Cybersecurity,C++,Cybersecurity,"Capgemini, Infosys, SAP",Cybersecurity Engineer
+9.7,Cybersecurity,C++,Cybersecurity,"Apple, Microsoft, Amazon",Cybersecurity Engineer
+8.5,DevOps,TypeScript,Backend,"IBM, Infosys, SAP",System Engineer
+9.5,Cloud,Go,Cloud Computing,"IBM, OpenAI, Amazon",DevOps Engineer
+8.9,DevOps,TypeScript,Backend,"TCS, SAP, IBM",System Engineer
+6.5,Web Dev,JavaScript,Backend,"Birlasoft, Mphasis, NIIT Technologies",Web Developer
+9.6,AIML,Java,Big Data,"NVIDIA, IBM, Google",AI Engineer
+6.3,DevOps,Go,DevOps,"NIIT Technologies, Birlasoft, Mindtree",System Engineer
+8.1,Software Dev,Java,Backend,"SAP, Infosys, IBM",Software Developer
+6.6,Cloud,SQL,Data Analytics,"NIIT Technologies, Birlasoft, Mphasis",DevOps Engineer
+6.0,Cybersecurity,Rust,Front End,"NIIT Technologies, HCL, Mindtree",Cybersecurity Engineer
+7.7,Cybersecurity,Rust,Cybersecurity,"Tech Mahindra, TCS, HCL",Cybersecurity Engineer
+7.2,Web Dev,JavaScript,Backend,"TCS, Wipro, Infosys",Web Developer
+7.9,Software Dev,Python,Data Analytics,"Infosys, HCL, TCS",Software Developer
+8.3,Cloud,Go,Big Data,"Infosys, Oracle, TCS",Cloud Engineer
+6.2,Cloud,Go,Cloud Computing,"Birlasoft, NIIT Technologies, Mindtree",DevOps Engineer
+6.5,Cloud,Go,Cloud Computing,"Mphasis, Birlasoft, Mindtree",Cloud Engineer
+8.2,AIML,R,ML,"TCS, SAP, Infosys",Data Scientist
+7.4,AIML,R,ML,"Wipro, HCL, Infosys",Data Scientist
+8.9,Software Dev,Python,Data Analytics,"SAP, TCS, Capgemini",Data Analyst
+8.6,Cybersecurity,C++,AI,"Infosys, SAP, Oracle",Cybersecurity Engineer
+9.4,Software Dev,Java,Backend,"Amazon, IBM, Google",Data Analyst
+8.8,AIML,Java,Big Data,"Infosys, Capgemini, Oracle",AI Engineer
+7.7,AIML,Python,ML,"HCL, Infosys, TCS",Data Scientist
+8.7,Cloud,Python,Cloud Computing,"Capgemini, Oracle, TCS",Cloud Engineer
+7.1,Cloud,SQL,DBMS,"Wipro, Cognizant, Tech Mahindra",DevOps Engineer
+7.2,Cloud,SQL,Data Analytics,"Infosys, HCL, Tech Mahindra",Cloud Engineer
+9.2,Web Dev,TypeScript,Front End,"Microsoft, OpenAI, Google",Web Developer
+7.8,DevOps,Go,DevOps,"TCS, Cognizant, Wipro",System Engineer
+9.2,AIML,R,ML,"Microsoft, Amazon, OpenAI",Data Scientist
+9.3,Cybersecurity,Rust,Cybersecurity,"Microsoft, IBM, Amazon",Cybersecurity Engineer
+9.4,Web Dev,JavaScript,Backend,"OpenAI, Microsoft, Amazon",Software Developer
+9.7,Web Dev,JavaScript,Front End,"Amazon, Apple, OpenAI",Web Developer
+7.7,Web Dev,JavaScript,Front End,"HCL, Wipro, Tech Mahindra",Web Developer
+7.3,Cloud,Python,DevOps,"TCS, HCL, Tech Mahindra",DevOps Engineer
+8.3,AIML,Java,AI,"Infosys, TCS, Oracle",AI Engineer
+7.5,Cloud,SQL,DBMS,"TCS, Wipro, Cognizant",Cloud Engineer
+8.4,Software Dev,C#,Backend,"IBM, SAP, Capgemini",Software Developer
+8.8,DevOps,SQL,DBMS,"Infosys, Capgemini, SAP",System Engineer
+8.8,Cybersecurity,Rust,Cybersecurity,"SAP, IBM, Infosys",Cybersecurity Engineer
+7.5,DevOps,TypeScript,DevOps,"Cognizant, Infosys, HCL",System Engineer
+6.7,Software Dev,Java,Backend,"Mphasis, Birlasoft, Mindtree",Software Developer
+7.7,Cybersecurity,Rust,Front End,"HCL, TCS, Tech Mahindra",Cybersecurity Engineer
+6.6,Cloud,Go,Big Data,"Mphasis, NIIT Technologies, Birlasoft",DevOps Engineer
+9.6,AIML,R,Data Analytics,"NVIDIA, OpenAI, Google",Data Scientist
+7.4,DevOps,TypeScript,Backend,"TCS, Wipro, Infosys",System Engineer
+6.6,Software Dev,Java,Big Data,"Mphasis, Birlasoft, Mindtree",Data Analyst
+6.1,Cloud,Python,Cloud Computing,"Birlasoft, Mindtree, HCL",DevOps Engineer
+8.6,Web Dev,SQL,Data Analytics,"TCS, Oracle, SAP",Web Developer
+8.5,Cybersecurity,Rust,Front End,"Capgemini, TCS, Oracle",Cybersecurity Engineer
+7.4,Cybersecurity,C++,Cybersecurity,"Infosys, HCL, Tech Mahindra",Cybersecurity Engineer
+6.3,AIML,Java,Big Data,"Mphasis, HCL, Birlasoft",Data Scientist
+7.6,DevOps,TypeScript,Backend,"Infosys, TCS, Tech Mahindra",System Engineer
+7.2,Cloud,Go,Cloud Computing,"Wipro, Cognizant, Infosys",Cloud Engineer
+8.7,Cloud,Python,Cloud Computing,"IBM, Oracle, SAP",Cloud Engineer
+8.4,Cybersecurity,C++,AI,"Oracle, Infosys, IBM",Cybersecurity Engineer
+7.5,AIML,R,ML,"Infosys, Wipro, Tech Mahindra",Data Scientist
+6.9,Web Dev,JavaScript,Front End,"Mindtree, Birlasoft, Mphasis",Software Developer
+10.0,DevOps,Go,Cloud Computing,"IBM, Google, Amazon",System Engineer
+7.8,Web Dev,JavaScript,Backend,"Tech Mahindra, TCS, Infosys",Software Developer
+8.8,Cybersecurity,Rust,Cybersecurity,"Capgemini, TCS, Oracle",Cybersecurity Engineer
+6.6,Cybersecurity,C++,Cybersecurity,"Mphasis, Birlasoft, NIIT Technologies",Cybersecurity Engineer
+7.9,AIML,R,Data Analytics,"Tech Mahindra, TCS, Wipro",Data Scientist
+6.1,DevOps,Go,Cloud Computing,"Birlasoft, Mindtree, Mphasis",System Engineer
+8.0,AIML,Python,ML,"IBM, TCS, Oracle",AI Engineer
+9.9,Software Dev,C#,Backend,"NVIDIA, Google, Microsoft",Data Analyst
+7.5,Web Dev,JavaScript,Backend,"Wipro, TCS, Tech Mahindra",Software Developer
+6.2,Cybersecurity,C++,Cybersecurity,"Birlasoft, HCL, Mphasis",Cybersecurity Engineer
+6.1,AIML,Java,Big Data,"Mphasis, Mindtree, Birlasoft",Data Scientist
+7.6,Web Dev,SQL,DBMS,"HCL, Tech Mahindra, TCS",Web Developer
+6.6,Cloud,Python,DevOps,"Birlasoft, NIIT Technologies, Mphasis",Cloud Engineer
+6.1,DevOps,Go,Cloud Computing,"Mphasis, Mindtree, HCL",System Engineer
+9.0,Web Dev,TypeScript,Front End,"IBM, Microsoft, NVIDIA",Web Developer
+7.8,Software Dev,Python,Big Data,"TCS, Tech Mahindra, Cognizant",Data Analyst
+7.2,Web Dev,JavaScript,Front End,"Wipro, Infosys, Cognizant",Web Developer
+9.6,DevOps,TypeScript,DevOps,"NVIDIA, Microsoft, IBM",System Engineer
+6.5,AIML,R,Data Analytics,"Mphasis, Mindtree, Birlasoft",Data Scientist
+9.8,DevOps,TypeScript,DevOps,"IBM, Amazon, NVIDIA",System Engineer
+7.3,Web Dev,SQL,Data Analytics,"TCS, Cognizant, Infosys",Web Developer
+9.6,AIML,R,ML,"IBM, Google, NVIDIA",AI Engineer
+8.4,Cloud,Go,Cloud Computing,"IBM, SAP, Infosys",Cloud Engineer
+9.3,Cybersecurity,C++,AI,"Google, NVIDIA, Apple",Cybersecurity Engineer
+9.9,Cloud,Python,DevOps,"Apple, Amazon, NVIDIA",DevOps Engineer
+7.2,Web Dev,TypeScript,Front End,"Cognizant, Infosys, TCS",Web Developer
+9.8,Web Dev,JavaScript,Front End,"Amazon, Apple, OpenAI",Software Developer
+7.6,Software Dev,Python,Data Analytics,"HCL, Wipro, Cognizant",Data Analyst
+7.5,DevOps,Go,Cloud Computing,"HCL, Infosys, Wipro",System Engineer
+7.4,Cloud,Go,Big Data,"Wipro, HCL, TCS",Cloud Engineer
+8.2,Web Dev,SQL,DBMS,"Infosys, Capgemini, Oracle",Web Developer
+6.6,DevOps,SQL,DBMS,"Birlasoft, Mindtree, Mphasis",System Engineer
+8.2,AIML,Java,AI,"Infosys, Oracle, SAP",Data Scientist
+8.2,AIML,Java,Big Data,"Capgemini, Infosys, SAP",AI Engineer
+9.0,Web Dev,SQL,DBMS,"IBM, NVIDIA, Apple",Web Developer
+9.3,Cybersecurity,C++,Cybersecurity,"NVIDIA, Apple, IBM",Cybersecurity Engineer
+7.8,Software Dev,Java,Big Data,"Infosys, Cognizant, TCS",Data Analyst
+7.2,Cloud,Go,Cloud Computing,"HCL, TCS, Wipro",Cloud Engineer
+7.0,AIML,Python,ML,"Wipro, Infosys, HCL",Data Scientist
+6.8,Software Dev,Java,Backend,"Mphasis, Birlasoft, NIIT Technologies",Data Analyst
+6.2,Cybersecurity,Rust,Front End,"Birlasoft, HCL, NIIT Technologies",Cybersecurity Engineer
+7.4,AIML,Python,ML,"Infosys, Cognizant, HCL",Data Scientist
+7.1,AIML,R,ML,"TCS, Cognizant, HCL",Data Scientist
+9.9,Cloud,Python,Cloud Computing,"NVIDIA, IBM, OpenAI",DevOps Engineer
+8.2,DevOps,SQL,Data Analytics,"TCS, Capgemini, IBM",System Engineer
+7.4,Cybersecurity,C++,Cybersecurity,"TCS, Tech Mahindra, HCL",Cybersecurity Engineer
+8.3,DevOps,SQL,Data Analytics,"TCS, Infosys, IBM",System Engineer
+6.6,AIML,Java,AI,"Mindtree, Mphasis, NIIT Technologies",Data Scientist
+7.8,Software Dev,Java,Big Data,"Tech Mahindra, Infosys, Cognizant",Data Analyst
+8.5,DevOps,TypeScript,Backend,"IBM, Infosys, SAP",System Engineer
+8.0,Software Dev,Java,Backend,"Infosys, TCS, SAP",Data Analyst
+7.6,Cybersecurity,C++,Cybersecurity,"Tech Mahindra, Cognizant, Wipro",Cybersecurity Engineer
+10.0,Cybersecurity,C++,AI,"IBM, Apple, Amazon",Cybersecurity Engineer
+9.5,AIML,R,Data Analytics,"OpenAI, Microsoft, Apple",Data Scientist
+8.5,DevOps,TypeScript,DevOps,"IBM, SAP, Oracle",System Engineer
+8.3,Software Dev,C#,DBMS,"Infosys, IBM, SAP",Data Analyst
+8.5,AIML,R,ML,"Infosys, IBM, TCS",Data Scientist
+6.8,Cybersecurity,C++,AI,"Birlasoft, Mindtree, NIIT Technologies",Cybersecurity Engineer
+7.6,Cybersecurity,C++,Cybersecurity,"Cognizant, Tech Mahindra, TCS",Cybersecurity Engineer
+6.2,Cybersecurity,Rust,Front End,"Mphasis, Birlasoft, Mindtree",Cybersecurity Engineer
+7.9,AIML,Python,Big Data,"Cognizant, Tech Mahindra, Infosys",Data Scientist
+8.2,Web Dev,TypeScript,Backend,"Capgemini, Infosys, Oracle",Web Developer
+6.9,Software Dev,Java,Big Data,"Birlasoft, Mindtree, NIIT Technologies",Data Analyst
+9.9,DevOps,SQL,Data Analytics,"OpenAI, Amazon, Microsoft",System Engineer
+9.6,DevOps,Go,Cloud Computing,"Amazon, IBM, Microsoft",System Engineer
+8.9,Software Dev,Python,Data Analytics,"SAP, Capgemini, IBM",Software Developer
+8.1,Software Dev,Python,Big Data,"TCS, IBM, SAP",Data Analyst
+9.5,DevOps,TypeScript,DevOps,"OpenAI, Microsoft, NVIDIA",System Engineer
+6.5,AIML,R,ML,"Mindtree, NIIT Technologies, Mphasis",Data Scientist
+9.2,Software Dev,C#,Backend,"NVIDIA, Microsoft, Amazon",Software Developer
+6.5,Software Dev,Python,Big Data,"Mphasis, Birlasoft, Mindtree",Data Analyst
+9.2,Software Dev,Java,Backend,"Microsoft, NVIDIA, Apple",Data Analyst
+7.1,AIML,Java,Big Data,"Infosys, Wipro, HCL",Data Scientist
+9.5,Web Dev,TypeScript,Front End,"Apple, Google, NVIDIA",Web Developer
+9.8,Web Dev,JavaScript,Front End,"OpenAI, Google, IBM",Web Developer
+6.6,AIML,Java,AI,"Mphasis, NIIT Technologies, Birlasoft",Data Scientist
+7.9,DevOps,SQL,DBMS,"Tech Mahindra, Infosys, TCS",System Engineer
+9.9,DevOps,SQL,DBMS,"Apple, Google, Amazon",System Engineer
+7.9,Cloud,SQL,Data Analytics,"Tech Mahindra, Infosys, Cognizant",Cloud Engineer
+9.5,Software Dev,Python,Data Analytics,"Microsoft, Google, NVIDIA",Data Analyst
+8.4,Web Dev,TypeScript,Backend,"IBM, Oracle, Infosys",Web Developer
+7.5,Software Dev,C#,Backend,"HCL, Infosys, Tech Mahindra",Software Developer
+7.1,Software Dev,Java,Big Data,"TCS, Wipro, Infosys",Data Analyst
+6.8,DevOps,TypeScript,DevOps,"NIIT Technologies, Mindtree, Mphasis",System Engineer
+9.0,Cloud,Go,Cloud Computing,"Amazon, OpenAI, IBM",DevOps Engineer
+7.5,Cybersecurity,Rust,Front End,"Cognizant, TCS, Tech Mahindra",Cybersecurity Engineer
+8.0,Cybersecurity,C++,AI,"IBM, Infosys, Oracle",Cybersecurity Engineer
+8.0,Software Dev,C#,DBMS,"IBM, Capgemini, Infosys",Software Developer
+8.3,Software Dev,C#,DBMS,"TCS, IBM, SAP",Data Analyst
+9.5,Cybersecurity,Rust,Cybersecurity,"NVIDIA, Amazon, IBM",Cybersecurity Engineer
+9.9,Web Dev,TypeScript,Front End,"Microsoft, Amazon, IBM",Web Developer
+6.4
+7.6,DevOps,Go,DevOps,"Tech Mahindra, Wipro, Cognizant",System Engineer
