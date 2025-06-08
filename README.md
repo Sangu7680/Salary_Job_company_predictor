@@ -74,6 +74,17 @@ Figure 3:Job and company Prediction On specific user input
 Figure 4: Top 3 companies Prediction and latest news of those companies.
 
 
+---
+
+## 🛡️ License & Attribution
+
+© 2025 Sangamesh Hulyal. All rights reserved.
+
+This project is licensed under the [MIT License](LICENSE).  
+The research paper and project content are original works and may not be copied or reused without permission.
+
+
+
 
 
 
