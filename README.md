@@ -50,7 +50,7 @@ streamlit run /interface/app_company_job.py
 
 __4.Open in Browser__
 
-U done it and the models are ready for their work in the app interface.
+U have done it  👍 and the models are ready for their work in the app interface.
 
 Streamlit will show a URL (like http://localhost:8501) — open it in your browser.
 
