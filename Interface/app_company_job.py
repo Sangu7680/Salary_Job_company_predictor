@@ -1,3 +1,6 @@
+# © 2025 Sangamesh Hulyal
+# Licensed under the MIT License
+# Original work for academic and personal research use only
 import streamlit as st
 import pandas as pd
 import numpy as np
