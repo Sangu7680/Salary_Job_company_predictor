@@ -3,7 +3,6 @@ pandas
 numpy
 joblib
 serpapi
-datetime
 matplotlib
 base64
 scikit-learn
