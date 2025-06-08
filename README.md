@@ -2,14 +2,15 @@
 
 Acquiring a appropriate job and salary that satisfy rewards one’s efforts has become increasingly difficult for students and fresh graduates. To solve this problem, this project Uses a machine learning approach to estimate ideal job titles and predicted salary ranges based on CGPA, internship, programming, and relevant job technologies for Job role prediction with specific companies. Other components like age, experience, educational background, and type of work were added for salary estimation. A custom dataset reflecting benchmarks of student performance was designed to be structured in a realistically albeit artificially customized fashion. The dataset was subjected to preprocessing like one-hot encoding and stratified train-test split to enable balanced model training. Classification and regression tasks were performed using Random Forest Classifier, Logistic Regression, and Linear Regression machine learning models. The analysis conducted demonstrates the accuracy of predictions if meaningful features are integrated with appropriate ML algorithms when estimating job titles and salaries. Students, educational institutions, and training and placement cells can use the proposed system as a decision-support framework for informed strategic academic and professional engagement.
 
-📚 Research Paper
+# 📚 Research Paper
+
 This project is based on an IEEE-format research paper titled:
 "Salary and Job Prediction for Students and Technical Staff Using Machine Learning"
 Presented at Tontadarya College of Engineering, Gadag.
 
 📄 View Paper (PDF)
 
-🚀 Key Features
+# 🚀 Key Features
 
 🎯 Salary Prediction: Based on age, experience, education, and job role
 
@@ -19,7 +20,7 @@ Presented at Tontadarya College of Engineering, Gadag.
 
 🌐 Simple web interface using Streamlit
 
-🛠️  Technologies Used
+# 🛠️  Technologies Used
 
 Python – pandas, NumPy, scikit-learn
 
@@ -29,7 +30,7 @@ Machine Learning – Linear Regression, Logistic Regression, Random Forest, KNN
 
 Data Preprocessing – One-Hot Encoding, Label Encoding, Stratified Train-Test Split
 
-📁 Setup & Run
+# 📁 Setup & Run
 
 1. Clone the Repo
 
@@ -53,19 +54,19 @@ Streamlit will show a URL (like http://localhost:8501) — open it in your brows
 
 Sample output-
 
-![image](https://github.com/user-attachments/assets/632fe313-8b91-4ab8-866e-ae3b4c391655)
+![image](https://github.com/user-attachments/assets/6094d7d4-471e-4380-8a88-3c169421a6cc)
 
 Figure 1: Salary Prediction On specific user input
 
-![image](https://github.com/user-attachments/assets/6d96e305-8bc8-477b-a618-b12108c2a9a2)
+![image](https://github.com/user-attachments/assets/4715450c-1cc4-4d95-b0a5-38a3f33201ce)
 
 Figure 2: Salary Comparision according to other Job titles by taking users given Age, Experience and education
 
-![image](https://github.com/user-attachments/assets/e3a77024-daa5-4a7b-93d4-1388ac9f4163)
+![image](https://github.com/user-attachments/assets/49bf6cf4-d585-4c5d-96fc-fc5f83d36bdd)
 
 Figure 3:Job and company Prediction On specific user input
 
-![image](https://github.com/user-attachments/assets/cb3a2ee4-45d2-44f0-9c8d-7c22fa399a6a)
+![image](https://github.com/user-attachments/assets/e04336cf-bdb4-4181-91d7-b24a38e14b4f)
 
 Figure 4: Top 3 companies Prediction and latest news of those companies.
 
