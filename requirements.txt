@@ -7,4 +7,5 @@ matplotlib
 scikit-learn
 matplotlib
 seaborn
-google_search_results
+google-search-results
+
